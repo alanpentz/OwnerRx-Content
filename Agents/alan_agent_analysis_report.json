@@ -1,0 +1,107 @@
+{
+  "total_files_analyzed": 45,
+  "pillar_coverage": {
+    "Personal Vision": 393,
+    "Team": 259,
+    "Sales & Marketing": 206,
+    "Business Strategy": 204,
+    "Operations": 182,
+    "Finance": 164
+  },
+  "top_tactics": [],
+  "key_frameworks": [],
+  "enhancement_recommendations": [
+    {
+      "pillar": "Personal Vision",
+      "type": "tactical_enhancement",
+      "description": "Add tactic: just busy \u2013 they're intentional",
+      "source": "Are You Running Your Business?",
+      "confidence": 0.7,
+      "impact": "medium"
+    },
+    {
+      "pillar": "Personal Vision",
+      "type": "tactical_enhancement",
+      "description": "Add tactic: they reverse-engineer the business to deliver it",
+      "source": "Are You Running Your Business?",
+      "confidence": 0.7,
+      "impact": "medium"
+    },
+    {
+      "pillar": "Personal Vision",
+      "type": "tactical_enhancement",
+      "description": "Add tactic: wanted their life to look like",
+      "source": "Are You Running Your Business?",
+      "confidence": 0.7,
+      "impact": "medium"
+    },
+    {
+      "pillar": "Personal Vision",
+      "type": "tactical_enhancement",
+      "description": "Add tactic: to \u201cwin\u201d but to *keep playing*",
+      "source": "How to Build a Company That Feeds You, Not Drains You",
+      "confidence": 0.7,
+      "impact": "medium"
+    },
+    {
+      "pillar": "Personal Vision",
+      "type": "tactical_enhancement",
+      "description": "Add tactic: the itch comes back harder",
+      "source": "How to Build a Company That Feeds You, Not Drains You",
+      "confidence": 0.7,
+      "impact": "medium"
+    },
+    {
+      "pillar": "Personal Vision",
+      "type": "tactical_enhancement",
+      "description": "Add tactic: remix them to fuel *your* genius",
+      "source": "How to Build a Company That Feeds You, Not Drains You",
+      "confidence": 0.7,
+      "impact": "medium"
+    },
+    {
+      "pillar": "Operations",
+      "type": "tactical_enhancement",
+      "description": "Add tactic: fixing the underlying problems",
+      "source": "Stop Being a Hero",
+      "confidence": 0.7,
+      "impact": "medium"
+    },
+    {
+      "pillar": "Operations",
+      "type": "tactical_enhancement",
+      "description": "Add tactic: job security - that's a business risk",
+      "source": "Stop Being a Hero",
+      "confidence": 0.7,
+      "impact": "medium"
+    },
+    {
+      "pillar": "Operations",
+      "type": "tactical_enhancement",
+      "description": "Add tactic: I had to fire half of them",
+      "source": "Stop Being a Hero",
+      "confidence": 0.7,
+      "impact": "medium"
+    },
+    {
+      "pillar": "Sales & Marketing",
+      "type": "tactical_enhancement",
+      "description": "Add tactic: trying-too-hard funny",
+      "source": "How to make ChatGPT useful",
+      "confidence": 0.7,
+      "impact": "medium"
+    }
+  ],
+  "new_subpillar_suggestions": [
+    {
+      "theme": "AI & Automation",
+      "frequency": 22,
+      "suggestion": "Consider adding 'AI & Automation' as a new subpillar"
+    },
+    {
+      "theme": "Team Building",
+      "frequency": 7,
+      "suggestion": "Consider adding 'Team Building' as a new subpillar"
+    }
+  ]
+}
