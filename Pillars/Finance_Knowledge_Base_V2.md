@@ -1431,6 +1431,35 @@
 
 ---
 
+## Comprehensive Playbook Library
+
+### Core Finance Management Playbooks
+*Detailed implementation guides with Alan's insights*
+
+- **[Cash Flow Management Complete Playbook](../Cash_Flow_Management_Complete_Playbook.md)** - The 13-week cash flow forecast, managing the 82% business killer
+- **[Pricing & Profitability Complete Playbook](../Pricing_Profitability_Complete_Playbook.md)** - Annual 10-15% price increases, margin optimization  
+- **[Financial Risk & Controls Complete Playbook](../Financial_Risk_Controls_Complete_Playbook.md)** - Protecting against fraud and financial disasters
+- **[Financial Automation Complete Playbook](../Financial_Automation_Complete_Playbook.md)** - Automate the boring stuff, not your brain
+- **[Financial Dashboard & Reporting Complete Playbook](../Financial_Dashboard_Reporting_Complete_Playbook.md)** - Real-time visibility into what matters
+- **[Financial Planning & Analysis Complete Playbook](../Financial_Planning_Analysis_Complete_Playbook.md)** - Strategic financial decision making
+- **[Budgeting & Forecasting Complete Playbook](../Budgeting_Forecasting_Complete_Playbook.md)** - Every dollar has a job before it arrives
+
+### Strategy & Growth Playbooks
+*Strategic financial planning for scaling*
+
+- **[Strategic Planning Process Complete Playbook](../Strategic_Planning_Process_Complete_Playbook.md)** - Annual planning that drives growth, not theater
+- **[Business Model Innovation Complete Playbook](../Business_Model_Innovation_Complete_Playbook.md)** - Finding your next S-curve before growth stalls
+- **[Exit Planning Complete Playbook](../Exit_Planning_Complete_Playbook.md)** - Build to sell (even if you never do)
+
+Each playbook includes:
+- Implementation by revenue stage ($0-1M, $1-5M, $5M+)
+- Alan's practical insights and warnings
+- Specific tools and templates
+- Common mistakes to avoid
+- 90-day implementation plans
+
+---
+
 ## Integration Points
 
 ### Dependencies:
