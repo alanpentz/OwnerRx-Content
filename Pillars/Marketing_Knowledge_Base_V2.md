@@ -64,6 +64,170 @@ This knowledge base shows you how to build marketing that generates measurable r
 
 ---
 
+## Marketing Technology Stack
+
+### The Modern Marketing Tech Reality
+*Technology is no longer optional—it's the competitive baseline*
+
+#### Core Technology Categories:
+
+##### 1. Marketing Automation & CRM
+**Purpose**: Nurture leads and track customer journey
+- **Solo/Bootstrap**: HubSpot Free, Mailchimp
+- **Resourced**: HubSpot Pro, ActiveCampaign, Pardot
+- **Scaled**: Marketo, Eloqua, Salesforce Marketing Cloud
+
+##### 2. Content & Creative Tools
+**Purpose**: Create at scale without agencies
+- **Solo/Bootstrap**: Canva, ChatGPT, Unsplash
+- **Resourced**: Adobe Creative Suite, Jasper AI, Figma
+- **Scaled**: Custom creative operations platform
+
+##### 3. Analytics & Attribution
+**Purpose**: Measure what matters
+- **Solo/Bootstrap**: Google Analytics, Facebook Pixel
+- **Resourced**: Mixpanel, Segment, Hotjar
+- **Scaled**: Adobe Analytics, Attribution.io
+
+##### 4. Advertising Technology
+**Purpose**: Paid media management
+- **Solo/Bootstrap**: Native platform tools (Google, Meta)
+- **Resourced**: AdEspresso, Optmyzr
+- **Scaled**: Marin, Kenshoo, custom bidding algorithms
+
+##### 5. SEO & Content Optimization
+**Purpose**: Organic visibility
+- **Solo/Bootstrap**: Google Search Console, Ubersuggest
+- **Resourced**: SEMrush, Ahrefs, Clearscope
+- **Scaled**: BrightEdge, Conductor
+
+### Technology Implementation by Revenue Stage
+
+#### Solo/Bootstrap Stack ($0-200/month)
+**Essential Tools Only**
+
+**Core Stack:**
+- **Email**: Mailchimp or ConvertKit ($0-50)
+- **Social**: Buffer or Hootsuite ($0-30)
+- **Design**: Canva Pro ($15)
+- **Analytics**: Google Analytics (free)
+- **CRM**: HubSpot Free
+- **AI**: ChatGPT Plus ($20)
+
+**Key Integrations:**
+- Email ↔ Website
+- Social ↔ Analytics
+- Everything → Google Sheets
+
+**Time Savings**: 10-15 hours/week
+**Setup Time**: 1 week
+
+#### Resourced Stack ($500-2000/month)
+**Professional Marketing Operations**
+
+**Advanced Stack:**
+- **Marketing Automation**: HubSpot Pro ($800)
+- **SEO**: SEMrush or Ahrefs ($120)
+- **Design**: Adobe CC ($55)
+- **Analytics**: Hotjar + Mixpanel ($200)
+- **Social**: Sprout Social ($250)
+- **AI Suite**: Multiple AI tools ($100)
+- **Ads Management**: AdEspresso ($50)
+
+**Automation Priorities:**
+- Lead scoring and routing
+- Email nurture sequences
+- Social media scheduling
+- Reporting dashboards
+- Content personalization
+
+**Time Savings**: 30-40 hours/week
+**Setup Time**: 1 month
+
+#### Scaled Stack ($2000+/month)
+**Enterprise Marketing Machine**
+
+**Complete Stack:**
+- **Marketing Cloud**: Salesforce/Adobe/Oracle
+- **CDP**: Segment or Tealium
+- **Attribution**: Bizible or Attribution.io
+- **ABM**: Demandbase or 6sense
+- **Content Ops**: Content management platform
+- **MarTech Management**: Tag management, APIs
+
+**Advanced Capabilities:**
+- Predictive lead scoring
+- Multi-touch attribution
+- Dynamic personalization
+- AI-powered optimization
+- Real-time decisioning
+
+**Time Savings**: 100+ hours/week
+**Setup Time**: 3-6 months
+
+### AI Integration in Marketing
+
+#### Content Creation with AI
+**What AI Does Well:**
+- First drafts of everything
+- SEO optimization
+- Email subject lines
+- Social media posts
+- Ad copy variations
+- Blog outlines
+
+**What Humans Must Do:**
+- Strategy and positioning
+- Brand voice refinement
+- Fact-checking
+- Relationship building
+- Creative direction
+- Final quality control
+
+#### AI Tool Stack by Budget:
+
+**Bootstrap AI ($20-50/month):**
+- ChatGPT Plus for everything
+- DALL-E for images
+- Copy.ai for variations
+
+**Resourced AI ($200-500/month):**
+- Jasper for long-form content
+- Midjourney for design
+- Synthesia for video
+- Multiple specialized tools
+
+**Scaled AI ($1000+/month):**
+- Enterprise AI platforms
+- Custom model training
+- API integrations
+- Predictive analytics
+- Automated optimization
+
+### Common Marketing Tech Mistakes
+
+**Mistake #1: Tool Proliferation**
+- Too many overlapping tools
+- Solution: Consolidate around core platforms
+
+**Mistake #2: Integration Gaps**
+- Data silos everywhere
+- Solution: Prioritize native integrations
+
+**Mistake #3: Underutilization**
+- Using 10% of features
+- Solution: Regular training and audits
+
+**Mistake #4: No Documentation**
+- Knowledge walks out the door
+- Solution: Document all processes
+
+**Mistake #5: Shiny Object Syndrome**
+- Always chasing new tools
+- Solution: Stick with what works
+
+---
+
 ## Marketing Strategy Framework
 
 ### Phase 1: Foundation ($0-1M)

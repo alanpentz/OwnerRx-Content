@@ -931,6 +931,454 @@
 
 ---
 
+### Playbook: Legal & HR Compliance
+*Protect your business while building your team*
+
+#### When This Works:
+- **Best for**: Any business with employees (not just contractors)
+- **Good for**: Preventing expensive lawsuits and compliance violations
+- **Critical when**: You hire your first W-2 employee
+
+#### Prerequisites:
+- [ ] Understanding of federal and state employment laws
+- [ ] Basic documentation systems in place
+- [ ] Commitment to consistent application of policies
+
+#### Core Implementation Steps:
+
+1. **Employment Documentation Foundation** 
+   - Core action: Create legally compliant hiring and employment documents
+   - Success criteria: All required forms completed and filed properly
+   - Common mistake: Using generic internet templates without legal review
+
+2. **Wage and Hour Compliance**
+   - Core action: Properly classify employees vs contractors, exempt vs non-exempt
+   - Success criteria: No misclassification risks, proper overtime handling
+   - Common mistake: Treating all workers as contractors to avoid payroll taxes
+
+3. **Anti-Discrimination Policies**
+   - Core action: Implement and enforce equal employment opportunity policies
+   - Success criteria: Clear policies, training, and consistent enforcement
+   - Common mistake: Having policies but not following them consistently
+
+4. **Termination Protection**
+   - Core action: Document performance issues and follow progressive discipline
+   - Success criteria: Defensible termination decisions with documentation
+   - Common mistake: Firing without documentation or proper process
+
+#### Implementation Variations:
+
+##### 🚀 Solo/Bootstrap Version:
+- **Time required**: 8-12 hours initial setup, 2 hours/month maintenance
+- **Cost**: $500-1500 for basic legal review and templates
+- **Tools**: Basic HR software, employment law resources, local attorney
+- **Specific adjustments**:
+  - Essential forms only (I-9, W-4, handbook acknowledgment)
+  - Simple employee handbook covering basics
+  - Basic documentation system
+- **Expected timeline**: 30 days for basic compliance
+- **Success threshold**: No compliance violations or employment claims
+
+##### 💰 Resourced Version:
+- **Time required**: 20-30 hours comprehensive setup
+- **Cost**: $3000-5000 for professional HR setup
+- **Tools**: HR management system, employment attorney, compliance software
+- **Specific adjustments**:
+  - Comprehensive employee handbook
+  - Structured onboarding and offboarding processes
+  - Regular compliance audits
+- **Expected timeline**: 60-90 days for full HR infrastructure
+- **Success threshold**: Proactive compliance with all employment laws
+
+##### 🏢 Scaled Version:
+- **Time required**: Dedicated HR function or outsourced HR partner
+- **Cost**: $5000+/month for comprehensive HR management
+- **Tools**: Enterprise HRIS, legal counsel, compliance management systems
+- **Specific adjustments**:
+  - Full HR department or professional employer organization (PEO)
+  - Advanced compliance monitoring and training
+  - Proactive legal strategy and risk management
+- **Expected timeline**: 90-180 days for enterprise HR capability
+- **Success threshold**: Industry-leading HR practices with minimal legal risk
+
+#### Key Legal/HR Areas to Address:
+
+**Hiring Compliance:**
+- Job postings (avoid discriminatory language)
+- Application process (EEOC compliance)
+- Background checks (FCRA compliance)
+- I-9 verification (within 3 days)
+- New hire reporting (state requirements)
+
+**Classification Issues:**
+- Employee vs contractor (IRS 20-factor test)
+- Exempt vs non-exempt (FLSA requirements)
+- Full-time vs part-time (benefits implications)
+- Regular vs temporary (legal protections)
+
+**Workplace Policies:**
+- At-will employment (where applicable)
+- Anti-harassment and discrimination
+- Reasonable accommodations (ADA)
+- Family and medical leave (FMLA if 50+ employees)
+- Safety requirements (OSHA)
+
+**Documentation Requirements:**
+- Personnel files (what to include/exclude)
+- Medical records (separate, locked)
+- I-9 forms (separate from personnel files)
+- Payroll records (3-year minimum retention)
+- Performance documentation (consistent format)
+
+**Termination Best Practices:**
+- Progressive discipline documentation
+- Final paycheck requirements (state-specific)
+- COBRA notifications (if applicable)
+- Unemployment claims response
+- Exit interview and property return
+
+---
+
+### Playbook: Employee Handbook & Policies
+*Your protection and their clarity in one document*
+
+#### When This Works:
+- **Best for**: Any business with 2+ employees
+- **Critical for**: Consistent policy enforcement and legal protection
+- **Update when**: Laws change or issues arise
+
+#### Prerequisites:
+- [ ] Understanding of applicable employment laws
+- [ ] Clear vision of company culture and expectations
+- [ ] Legal review of handbook before implementation
+
+#### Core Implementation Steps:
+
+1. **Define Essential Policies** 
+   - Core action: Include legally required and business-critical policies
+   - Success criteria: Comprehensive coverage without overwhelming detail
+   - Common mistake: 100-page handbook no one reads or follows
+
+2. **Write in Plain Language**
+   - Core action: Make policies understandable to all employees
+   - Success criteria: Employees understand expectations without legal degree
+   - Common mistake: Legal jargon that confuses rather than clarifies
+
+3. **Get Signed Acknowledgments**
+   - Core action: Every employee signs receipt and understanding
+   - Success criteria: Documented proof of policy communication
+   - Common mistake: Verbal communication without written acknowledgment
+
+4. **Update and Redistribute Regularly**
+   - Core action: Annual review and updates as laws/business changes
+   - Success criteria: Handbook remains current and compliant
+   - Common mistake: Creating handbook once and never updating
+
+#### Handbook Essentials:
+
+**Must-Have Policies:**
+- At-will employment statement
+- Equal employment opportunity
+- Anti-harassment and complaint procedure
+- Code of conduct and ethics
+- Confidentiality and proprietary information
+- Attendance and punctuality
+- Compensation and payroll
+- Benefits overview (if applicable)
+- Leave policies (sick, vacation, FMLA)
+- Technology and social media use
+- Safety and security
+- Discipline and termination
+
+**Bootstrap Version Essentials** (10-15 pages):
+- Employment basics (at-will, EEO)
+- Core policies (attendance, conduct)
+- Compensation and time off
+- Basic safety and security
+
+**Resourced Version Additions** (25-35 pages):
+- Detailed leave policies
+- Performance management process
+- Professional development
+- Expense reimbursement
+- Remote work policies
+
+**Scaled Version Comprehensive** (50-75 pages):
+- Department-specific policies
+- Detailed benefits information
+- Career development framework
+- Complex leave and accommodation procedures
+- International considerations
+
+---
+
+### Playbook: Benefits & Total Rewards Design
+*Compete for talent without breaking the bank*
+
+#### When This Works:
+- **Best for**: Businesses with 5+ employees competing for talent
+- **Good for**: Retention, recruitment, and tax optimization
+- **Critical when**: Turnover becomes expensive or talent is scarce
+
+#### Prerequisites:
+- [ ] Understanding of total compensation costs
+- [ ] Knowledge of competitive market for your roles
+- [ ] Budget for benefits (typically 20-30% of payroll)
+
+#### Core Implementation Steps:
+
+1. **Analyze Total Rewards Budget** 
+   - Core action: Calculate all-in cost per employee including benefits
+   - Success criteria: Clear understanding of current and projected costs
+   - Common mistake: Looking at salary alone without total cost
+
+2. **Design Competitive Package**
+   - Core action: Balance health, retirement, time off, and perks
+   - Success criteria: Attractive package within budget constraints
+   - Common mistake: Copying big company benefits you can't afford
+
+3. **Communicate Value Effectively**
+   - Core action: Show employees the total value of their compensation
+   - Success criteria: Employees understand and appreciate full package
+   - Common mistake: Focusing only on base salary in discussions
+
+4. **Optimize for Tax Efficiency**
+   - Core action: Structure benefits to maximize tax advantages
+   - Success criteria: Both company and employees save on taxes
+   - Common mistake: Missing Section 125, HSA, and other tax benefits
+
+#### Benefits by Stage:
+
+##### 🚀 Solo/Bootstrap Benefits:
+- **Health**: Stipend or health reimbursement arrangement (HRA)
+- **Retirement**: Simple IRA (3% match)
+- **Time Off**: Combined PTO (10-15 days)
+- **Perks**: Flexible schedule, remote work
+- **Cost**: 15-20% of payroll
+
+##### 💰 Resourced Benefits:
+- **Health**: Group health insurance (50-70% employer paid)
+- **Retirement**: 401(k) with match (3-4%)
+- **Time Off**: Separate sick/vacation (15-20 days total)
+- **Perks**: Professional development budget, technology stipend
+- **Cost**: 20-25% of payroll
+
+##### 🏢 Scaled Benefits:
+- **Health**: Multiple plan options, dental, vision
+- **Retirement**: 401(k) with generous match (4-6%)
+- **Time Off**: Unlimited PTO or 20+ days
+- **Perks**: Wellness programs, equity participation, sabbaticals
+- **Cost**: 25-35% of payroll
+
+---
+
+### Playbook: Performance Management & Termination
+*Document everything, fire fast when needed*
+
+#### When This Works:
+- **Best for**: Any business with employees
+- **Critical for**: Legal protection and team performance
+- **Non-negotiable when**: Performance issues arise
+
+#### Prerequisites:
+- [ ] Clear job descriptions and expectations
+- [ ] Documented performance standards
+- [ ] Consistent review process
+
+#### Core Implementation Steps:
+
+1. **Set Clear Expectations** 
+   - Core action: Define success metrics for every role
+   - Success criteria: Employee knows exactly what good looks like
+   - Common mistake: Vague expectations leading to surprise terminations
+
+2. **Document Performance Continuously**
+   - Core action: Regular written feedback, both positive and negative
+   - Success criteria: Complete performance record for every employee
+   - Common mistake: Only documenting problems, not successes
+
+3. **Progressive Discipline Process**
+   - Core action: Verbal warning → Written warning → Final warning → Termination
+   - Success criteria: Clear paper trail showing attempts to improve
+   - Common mistake: Skipping steps or inconsistent application
+
+4. **Execute Termination Properly**
+   - Core action: Final paycheck, COBRA notice, property return, exit process
+   - Success criteria: Clean separation without legal exposure
+   - Common mistake: Emotional termination without preparation
+
+#### Termination Checklist:
+
+**Before the Meeting:**
+- [ ] Document performance issues thoroughly
+- [ ] Consult with legal counsel if any protected class issues
+- [ ] Prepare final paycheck (follow state law)
+- [ ] Arrange for witness in termination meeting
+- [ ] Disable system access (coordinate timing)
+- [ ] Prepare separation agreement if applicable
+
+**During the Meeting:**
+- [ ] Be direct and brief (5-10 minutes max)
+- [ ] State decision is final
+- [ ] Avoid debate or justification
+- [ ] Explain final pay and benefits
+- [ ] Collect company property
+- [ ] Provide separation documents
+
+**After the Meeting:**
+- [ ] Notify team appropriately
+- [ ] Redistribute responsibilities
+- [ ] Document the termination
+- [ ] Process final payroll
+- [ ] Respond to unemployment claims
+- [ ] Conduct exit interview if voluntary
+
+---
+
+### Playbook: Workplace Safety & Workers' Compensation
+*Keep people safe and premiums low*
+
+#### When This Works:
+- **Required for**: Any business with employees
+- **Critical for**: Physical work environments
+- **Important for**: Managing insurance costs
+
+#### Prerequisites:
+- [ ] Workers' compensation insurance (required in most states)
+- [ ] Basic understanding of OSHA requirements
+- [ ] Commitment to safety culture
+
+#### Core Implementation Steps:
+
+1. **Establish Safety Program** 
+   - Core action: Written safety policies and procedures
+   - Success criteria: All employees trained on safety requirements
+   - Common mistake: Assuming office work has no safety issues
+
+2. **Maintain Safe Workplace**
+   - Core action: Regular inspections and hazard correction
+   - Success criteria: No preventable accidents or injuries
+   - Common mistake: Ignoring near-misses and minor incidents
+
+3. **Manage Injuries Properly**
+   - Core action: Immediate response, proper reporting, return-to-work programs
+   - Success criteria: Minimize lost time and insurance costs
+   - Common mistake: Trying to avoid reporting legitimate injuries
+
+4. **Control Insurance Costs**
+   - Core action: Safety programs, claims management, classification review
+   - Success criteria: Below-average experience modification rate
+   - Common mistake: Not understanding how premiums are calculated
+
+---
+
+### Playbook: Team Technology Stack
+*Automate administration, amplify productivity*
+
+#### When This Works:
+- **Best for**: Any team looking to reduce manual work and improve collaboration
+- **Critical for**: Remote/distributed teams
+- **ROI positive when**: You spend >5 hours/week on team administration
+
+#### Prerequisites:
+- [ ] Clear understanding of team workflows and pain points
+- [ ] Budget for tools ($50-500 per employee/month)
+- [ ] Commitment to adoption and training
+
+#### Core Implementation Steps:
+
+1. **HR & People Management Technology** 
+   - Core action: Centralize employee data and automate HR workflows
+   - Success criteria: 80% reduction in HR administrative time
+   - Common mistake: Over-complicated HRIS for small teams
+
+2. **Communication & Collaboration Stack**
+   - Core action: Establish clear channels for different communication types
+   - Success criteria: Reduced email, increased transparency
+   - Common mistake: Too many overlapping communication tools
+
+3. **Performance & Development Tools**
+   - Core action: Track goals, feedback, and development systematically
+   - Success criteria: Regular performance visibility without manual tracking
+   - Common mistake: Complex tools that managers won't use
+
+4. **Analytics & Insights**
+   - Core action: Dashboard team metrics for data-driven decisions
+   - Success criteria: Real-time visibility into team health and productivity
+   - Common mistake: Tracking vanity metrics instead of actionable insights
+
+#### Technology Stack by Stage:
+
+##### 🚀 Solo/Bootstrap Stack ($0-50/employee):
+**Core Tools:**
+- **HRIS**: Google Sheets + Gusto for payroll
+- **Communication**: Slack free tier or Discord
+- **Project Management**: Trello or Asana free
+- **Documents**: Google Workspace
+- **Time Tracking**: Toggl or Clockify free
+- **Video**: Zoom basic or Google Meet
+
+**Key Integrations:**
+- Slack ↔ Google Calendar
+- Gusto ↔ Time tracking
+- Project tool ↔ Slack
+
+##### 💰 Resourced Stack ($50-200/employee):
+**Professional Tools:**
+- **HRIS**: BambooHR or Rippling
+- **Communication**: Slack paid + Loom for async
+- **Project Management**: Monday.com or ClickUp
+- **Performance**: 15Five or Culture Amp
+- **Learning**: Udemy Business or LinkedIn Learning
+- **Analytics**: Basic people analytics in HRIS
+
+**Advanced Features:**
+- Automated onboarding workflows
+- Performance review automation
+- Time-off management system
+- Employee self-service portal
+- Basic reporting dashboards
+
+##### 🏢 Scaled Stack ($200+/employee):
+**Enterprise Tools:**
+- **HRIS**: Workday, ADP, or Namely
+- **Communication**: Slack Enterprise + Zoom
+- **Performance**: Lattice or Workday Performance
+- **Learning**: Cornerstone or internal LMS
+- **Analytics**: Visier or Workday Analytics
+- **Recruiting**: Greenhouse or Lever
+
+**Sophisticated Capabilities:**
+- AI-powered insights and predictions
+- Complex workflow automation
+- Advanced analytics and modeling
+- Integration with all business systems
+- Predictive retention modeling
+
+#### Common Team Tech Mistakes:
+
+**Mistake #1: Tools Before Process**
+- Buying software before defining workflows
+- Solution: Map process first, then find tools
+
+**Mistake #2: Feature Overkill**
+- Using 10% of expensive features
+- Solution: Start simple, expand as needed
+
+**Mistake #3: Poor Integration**
+- Data silos and duplicate entry
+- Solution: Prioritize tools that integrate
+
+**Mistake #4: No Champion**
+- Tools without owners fail
+- Solution: Assign tool champions
+
+**Mistake #5: Insufficient Training**
+- Assuming people will figure it out
+- Solution: Invest in proper onboarding
+
+---
+
 ### Playbook: Conflict Resolution & Difficult Conversations
 *Address issues early before they become bigger problems*
 
