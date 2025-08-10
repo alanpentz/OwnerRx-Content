@@ -24,6 +24,10 @@ Track which pillars and subpillars have been interviewed to avoid repetition and
   - Key Insight: "AI first, global second, local last"
   - 85% effectiveness test
   - Outcomes not job descriptions
+- **Organizational Design & Roles** (Session 36)
+  - Key Insight: "Standard structures work - stop innovating"
+  - Outcomes and outputs charts > org charts
+  - Operations manager first, never sales
 
 ### ✅ Finance
 - **Cash Flow Management** (Session 4)
@@ -40,6 +44,10 @@ Track which pillars and subpillars have been interviewed to avoid repetition and
   - Key Insight: "You'll double it but have one anyway"
   - The $25M ceiling and Ferrari reality
   - Energy alignment over money chasing
+- **Life Domain Mapping** (Session 34)
+  - Key Insight: "Work-life balance is a myth - focus on energy alignment"
+  - The 2x2 energy-importance matrix
+  - Hire for biggest drainer first
 
 ### ✅ Sales & Marketing
 - **Ideal Customer Profile** (Session 1)
@@ -50,14 +58,18 @@ Track which pillars and subpillars have been interviewed to avoid repetition and
   - Key Insight: "Owners must be main salesperson until $5M+"
   - Talk to customers, test messaging
   - Use AI to catch missed insights
+- **Marketing Automation** (Session 35)
+  - Key Insight: "Replace $40-80K marketing hire with owner+admin+AI"
+  - 131% CTR increase with AI personalization
+  - Measure and tweak constantly
 
 ---
 
 ## REMAINING SUBPILLARS TO INTERVIEW
 
-### Personal Vision (5 remaining)
+### Personal Vision (4 remaining)
 - ✅ Personal Wealth Vision (Session 5)
-- ⬜ Life Domain Mapping
+- ✅ Life Domain Mapping (Session 34)
 - ⬜ Personal Superpower Discovery  
 - ⬜ Energy & Time Optimization
 - ⬜ Personal Board of Directors
@@ -73,13 +85,13 @@ Track which pillars and subpillars have been interviewed to avoid repetition and
 - ⬜ Business Model Evolution
 - ⬜ Exit Strategy Planning
 
-### Sales & Marketing (5 remaining)
+### Sales & Marketing (3 remaining)
 - ✅ Ideal Customer Profile (Session 1)
 - ⬜ Marketing Channel Portfolio
 - ✅ Sales Process Optimization (Session 7)
 - ⬜ Content & Messaging Strategy
 - ⬜ Customer Retention & Expansion
-- ⬜ Marketing Automation
+- ✅ Marketing Automation (Session 35)
 - ⬜ Revenue Attribution & Analytics
 
 ### Operations (5 remaining)
@@ -90,9 +102,9 @@ Track which pillars and subpillars have been interviewed to avoid repetition and
 - ⬜ Technology & Automation
 - ⬜ Supply Chain & Vendor Management
 
-### Team (5 remaining)
-- ⬜ Organizational Design & Roles
-- ✅ Hiring & Onboarding
+### Team (4 remaining)
+- ✅ Organizational Design & Roles (Session 36)
+- ✅ Hiring & Onboarding (Session 3)
 - ⬜ Performance Management
 - ⬜ Culture & Engagement
 - ⬜ Leadership Development
@@ -151,9 +163,10 @@ Track which pillars and subpillars have been interviewed to avoid repetition and
 ---
 
 ## Next Session Planning
-Completed: Sales Process Optimization (Session 7)
-Sessions Complete: 7
+Completed: Organizational Design & Roles (Session 36)
+Sessions Complete: 36 (including Sessions 8-33 from previous work)
 Next Priority Candidates:
-- Marketing Channel Portfolio (high newsletter frequency topic)
 - Financial Reporting & Metrics (foundational for decision-making)
+- Marketing Channel Portfolio (high newsletter frequency topic)
+- Content & Messaging Strategy (critical for conversion)
 - Energy & Time Optimization (personal vision critical path)
