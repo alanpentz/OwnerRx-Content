@@ -1,0 +1,666 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>$10 vs $10,000 Hour Task Analyzer - OwnerRx</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            min-height: 100vh;
+            padding: 20px;
+        }
+        
+        .container {
+            max-width: 1000px;
+            margin: 0 auto;
+        }
+        
+        .header {
+            background: white;
+            border-radius: 20px;
+            box-shadow: 0 20px 60px rgba(0,0,0,0.3);
+            padding: 30px;
+            text-align: center;
+            margin-bottom: 30px;
+        }
+        
+        .header h1 {
+            font-size: 32px;
+            color: #333;
+            margin-bottom: 10px;
+        }
+        
+        .header p {
+            color: #666;
+            font-size: 16px;
+            margin-bottom: 20px;
+        }
+        
+        .quote-box {
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            color: white;
+            padding: 20px;
+            border-radius: 12px;
+            font-style: italic;
+            font-size: 15px;
+        }
+        
+        .main-content {
+            background: white;
+            border-radius: 20px;
+            box-shadow: 0 20px 60px rgba(0,0,0,0.3);
+            padding: 30px;
+            margin-bottom: 30px;
+        }
+        
+        .section-title {
+            font-size: 24px;
+            font-weight: 600;
+            color: #333;
+            margin-bottom: 20px;
+            padding-bottom: 10px;
+            border-bottom: 2px solid #f0f0f0;
+        }
+        
+        .task-input {
+            background: #f8f9fa;
+            border-radius: 12px;
+            padding: 20px;
+            margin-bottom: 20px;
+        }
+        
+        .input-row {
+            display: grid;
+            grid-template-columns: 2fr 1fr 1fr 1fr;
+            gap: 15px;
+            align-items: center;
+            margin-bottom: 15px;
+        }
+        
+        .input-row label {
+            font-size: 14px;
+            font-weight: 500;
+            color: #333;
+        }
+        
+        .input-row input[type="text"] {
+            padding: 10px;
+            border: 2px solid #e0e0e0;
+            border-radius: 8px;
+            font-size: 14px;
+        }
+        
+        .input-row input[type="number"] {
+            padding: 10px;
+            border: 2px solid #e0e0e0;
+            border-radius: 8px;
+            font-size: 14px;
+            text-align: center;
+        }
+        
+        .input-row select {
+            padding: 10px;
+            border: 2px solid #e0e0e0;
+            border-radius: 8px;
+            font-size: 14px;
+            background: white;
+            cursor: pointer;
+        }
+        
+        .input-row input:focus, .input-row select:focus {
+            outline: none;
+            border-color: #667eea;
+        }
+        
+        .add-task-btn {
+            background: #667eea;
+            color: white;
+            border: none;
+            padding: 10px 20px;
+            border-radius: 8px;
+            font-size: 14px;
+            font-weight: 500;
+            cursor: pointer;
+            transition: background 0.3s;
+        }
+        
+        .add-task-btn:hover {
+            background: #5a67d8;
+        }
+        
+        .task-list {
+            margin-top: 30px;
+        }
+        
+        .task-item {
+            background: #f8f9fa;
+            border-radius: 12px;
+            padding: 20px;
+            margin-bottom: 15px;
+            display: grid;
+            grid-template-columns: 2fr 1fr 1fr 1fr 1fr auto;
+            gap: 15px;
+            align-items: center;
+            position: relative;
+        }
+        
+        .task-name {
+            font-weight: 500;
+            color: #333;
+        }
+        
+        .task-time {
+            text-align: center;
+            color: #666;
+            font-size: 14px;
+        }
+        
+        .task-frequency {
+            text-align: center;
+            color: #666;
+            font-size: 14px;
+        }
+        
+        .task-cost {
+            text-align: center;
+            font-weight: 600;
+            font-size: 16px;
+        }
+        
+        .task-opportunity {
+            text-align: center;
+            font-weight: 600;
+            font-size: 16px;
+        }
+        
+        .cost-low {
+            color: #2e7d32;
+        }
+        
+        .cost-medium {
+            color: #f57c00;
+        }
+        
+        .cost-high {
+            color: #c62828;
+        }
+        
+        .opportunity-low {
+            color: #666;
+        }
+        
+        .opportunity-medium {
+            color: #f57c00;
+        }
+        
+        .opportunity-high {
+            color: #c62828;
+        }
+        
+        .delete-btn {
+            background: #f44336;
+            color: white;
+            border: none;
+            padding: 8px 15px;
+            border-radius: 6px;
+            cursor: pointer;
+            font-size: 12px;
+            transition: background 0.3s;
+        }
+        
+        .delete-btn:hover {
+            background: #d32f2f;
+        }
+        
+        .analysis-section {
+            background: white;
+            border-radius: 20px;
+            box-shadow: 0 20px 60px rgba(0,0,0,0.3);
+            padding: 30px;
+        }
+        
+        .stats-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+            gap: 20px;
+            margin-bottom: 30px;
+        }
+        
+        .stat-card {
+            background: #f8f9fa;
+            border-radius: 12px;
+            padding: 20px;
+            text-align: center;
+        }
+        
+        .stat-value {
+            font-size: 32px;
+            font-weight: bold;
+            color: #333;
+            margin-bottom: 5px;
+        }
+        
+        .stat-label {
+            font-size: 14px;
+            color: #666;
+        }
+        
+        .insight-box {
+            background: #fff3cd;
+            border-left: 4px solid #ffc107;
+            padding: 20px;
+            border-radius: 8px;
+            margin-bottom: 20px;
+        }
+        
+        .insight-title {
+            font-size: 16px;
+            font-weight: 600;
+            color: #856404;
+            margin-bottom: 10px;
+        }
+        
+        .insight-content {
+            font-size: 14px;
+            color: #856404;
+            line-height: 1.6;
+        }
+        
+        .recommendation-box {
+            background: #d4edda;
+            border-left: 4px solid #28a745;
+            padding: 20px;
+            border-radius: 8px;
+            margin-bottom: 20px;
+        }
+        
+        .recommendation-title {
+            font-size: 16px;
+            font-weight: 600;
+            color: #155724;
+            margin-bottom: 10px;
+        }
+        
+        .recommendation-list {
+            list-style: none;
+            padding: 0;
+        }
+        
+        .recommendation-list li {
+            padding: 8px 0;
+            color: #155724;
+            font-size: 14px;
+            padding-left: 20px;
+            position: relative;
+        }
+        
+        .recommendation-list li::before {
+            content: '→';
+            position: absolute;
+            left: 0;
+            font-weight: bold;
+        }
+        
+        .calculate-btn {
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            color: white;
+            border: none;
+            padding: 15px 40px;
+            font-size: 16px;
+            font-weight: 600;
+            border-radius: 8px;
+            cursor: pointer;
+            width: 100%;
+            margin: 20px 0;
+            transition: transform 0.2s;
+        }
+        
+        .calculate-btn:hover {
+            transform: translateY(-2px);
+        }
+        
+        .preset-tasks {
+            display: flex;
+            gap: 10px;
+            margin-bottom: 20px;
+            flex-wrap: wrap;
+        }
+        
+        .preset-btn {
+            background: #e3f2fd;
+            color: #1565c0;
+            border: none;
+            padding: 8px 15px;
+            border-radius: 20px;
+            font-size: 13px;
+            cursor: pointer;
+            transition: background 0.3s;
+        }
+        
+        .preset-btn:hover {
+            background: #bbdefb;
+        }
+        
+        .help-text {
+            font-size: 12px;
+            color: #999;
+            margin-top: 5px;
+        }
+        
+        .zone-indicator {
+            display: inline-block;
+            padding: 4px 12px;
+            border-radius: 20px;
+            font-size: 12px;
+            font-weight: 600;
+            margin-left: 10px;
+        }
+        
+        .zone-genius {
+            background: #d4edda;
+            color: #155724;
+        }
+        
+        .zone-delegate {
+            background: #fff3cd;
+            color: #856404;
+        }
+        
+        .zone-eliminate {
+            background: #f8d7da;
+            color: #721c24;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="header">
+            <h1>$10 vs $10,000 Hour Task Analyzer</h1>
+            <p>Stop Trading Diamonds for Pennies</p>
+            <div class="quote-box">
+                "When I do marketing strategy, I'm worth $10,000/hour. When I'm in QuickBooks, I'm worth $50/hour. 
+                Every hour on low-value work costs me $9,950 in opportunity." - Alan Pentz
+            </div>
+        </div>
+        
+        <div class="main-content">
+            <div class="section-title">Add Your Tasks</div>
+            
+            <div class="preset-tasks">
+                <button class="preset-btn" onclick="addPreset('email')">+ Email Management</button>
+                <button class="preset-btn" onclick="addPreset('bookkeeping')">+ Bookkeeping</button>
+                <button class="preset-btn" onclick="addPreset('scheduling')">+ Scheduling</button>
+                <button class="preset-btn" onclick="addPreset('strategy')">+ Strategy Planning</button>
+                <button class="preset-btn" onclick="addPreset('sales')">+ Sales Calls</button>
+                <button class="preset-btn" onclick="addPreset('content')">+ Content Creation</button>
+            </div>
+            
+            <div class="task-input">
+                <div class="input-row">
+                    <label>Task Description</label>
+                    <label>Hours/Week</label>
+                    <label>Frequency</label>
+                    <label>Delegate Cost/Hr</label>
+                </div>
+                <div class="input-row">
+                    <input type="text" id="task-name" placeholder="e.g., Reconciling receipts">
+                    <input type="number" id="task-hours" placeholder="2" step="0.5" min="0">
+                    <select id="task-frequency">
+                        <option value="weekly">Weekly</option>
+                        <option value="daily">Daily</option>
+                        <option value="monthly">Monthly</option>
+                    </select>
+                    <input type="number" id="delegate-cost" placeholder="25" min="0">
+                </div>
+                <div class="help-text">
+                    Delegate Cost = What you'd pay someone competent to do this task (not what YOU make doing it)
+                </div>
+                <button class="add-task-btn" onclick="addTask()">Add Task</button>
+            </div>
+            
+            <div class="task-list" id="task-list">
+                <!-- Tasks will be added here -->
+            </div>
+            
+            <button class="calculate-btn" onclick="calculateAnalysis()">Analyze My Time Value</button>
+        </div>
+        
+        <div class="analysis-section" id="analysis" style="display: none;">
+            <div class="section-title">Your Time Value Analysis</div>
+            
+            <div class="stats-grid">
+                <div class="stat-card">
+                    <div class="stat-value" id="total-hours">0</div>
+                    <div class="stat-label">Hours/Week on Low-Value Tasks</div>
+                </div>
+                <div class="stat-card">
+                    <div class="stat-value" id="weekly-cost">$0</div>
+                    <div class="stat-label">Weekly Opportunity Cost</div>
+                </div>
+                <div class="stat-card">
+                    <div class="stat-value" id="annual-cost">$0</div>
+                    <div class="stat-label">Annual Opportunity Cost</div>
+                </div>
+                <div class="stat-card">
+                    <div class="stat-value" id="roi-multiple">0x</div>
+                    <div class="stat-label">ROI on Delegation</div>
+                </div>
+            </div>
+            
+            <div class="insight-box" id="insight-box">
+                <div class="insight-title">Key Insight</div>
+                <div class="insight-content" id="insight-content">
+                    <!-- Dynamic insight will appear here -->
+                </div>
+            </div>
+            
+            <div class="recommendation-box">
+                <div class="recommendation-title">Alan's Action Plan</div>
+                <ul class="recommendation-list" id="recommendations">
+                    <!-- Dynamic recommendations will appear here -->
+                </ul>
+            </div>
+            
+            <div class="insight-box">
+                <div class="insight-title">The $10,000 Hour Formula</div>
+                <div class="insight-content">
+                    <strong>Your Zone of Genius activities (worth $10,000+/hour):</strong><br>
+                    • Strategic planning and vision setting<br>
+                    • Key relationship building<br>
+                    • High-stakes negotiations<br>
+                    • Product/service innovation<br>
+                    • Team culture and leadership<br><br>
+                    
+                    <strong>The Math:</strong> If just ONE hour of strategic thinking per month generates a 
+                    $100K opportunity (new product, key hire, major client), that's $10,000+ per hour. 
+                    Yet most owners spend 80% of time on $20-100/hour tasks.
+                </div>
+            </div>
+        </div>
+    </div>
+    
+    <script>
+        let tasks = [];
+        let geniusHourValue = 10000; // Default $10K/hour for Zone of Genius work
+        
+        const presetTasks = {
+            email: { name: 'Email Management', hours: 10, frequency: 'weekly', cost: 25 },
+            bookkeeping: { name: 'Bookkeeping & Receipts', hours: 4, frequency: 'weekly', cost: 40 },
+            scheduling: { name: 'Calendar & Scheduling', hours: 3, frequency: 'weekly', cost: 20 },
+            strategy: { name: 'Strategic Planning', hours: 2, frequency: 'weekly', cost: 0 },
+            sales: { name: 'Sales Calls & Follow-ups', hours: 8, frequency: 'weekly', cost: 0 },
+            content: { name: 'Social Media Posts', hours: 5, frequency: 'weekly', cost: 30 }
+        };
+        
+        function addPreset(type) {
+            const preset = presetTasks[type];
+            document.getElementById('task-name').value = preset.name;
+            document.getElementById('task-hours').value = preset.hours;
+            document.getElementById('task-frequency').value = preset.frequency;
+            document.getElementById('delegate-cost').value = preset.cost;
+            addTask();
+        }
+        
+        function addTask() {
+            const name = document.getElementById('task-name').value;
+            const hours = parseFloat(document.getElementById('task-hours').value) || 0;
+            const frequency = document.getElementById('task-frequency').value;
+            const delegateCost = parseFloat(document.getElementById('delegate-cost').value) || 0;
+            
+            if (!name || hours === 0) {
+                alert('Please enter a task name and hours');
+                return;
+            }
+            
+            // Calculate weekly hours
+            let weeklyHours = hours;
+            if (frequency === 'daily') {
+                weeklyHours = hours * 5; // Assuming 5 work days
+            } else if (frequency === 'monthly') {
+                weeklyHours = hours / 4.33; // Average weeks per month
+            }
+            
+            const task = {
+                id: Date.now(),
+                name: name,
+                hours: hours,
+                frequency: frequency,
+                weeklyHours: weeklyHours,
+                delegateCost: delegateCost,
+                weeklyCost: weeklyHours * delegateCost,
+                opportunityCost: weeklyHours * geniusHourValue
+            };
+            
+            tasks.push(task);
+            renderTasks();
+            clearInputs();
+        }
+        
+        function clearInputs() {
+            document.getElementById('task-name').value = '';
+            document.getElementById('task-hours').value = '';
+            document.getElementById('task-frequency').value = 'weekly';
+            document.getElementById('delegate-cost').value = '';
+        }
+        
+        function deleteTask(id) {
+            tasks = tasks.filter(task => task.id !== id);
+            renderTasks();
+        }
+        
+        function renderTasks() {
+            const taskList = document.getElementById('task-list');
+            
+            if (tasks.length === 0) {
+                taskList.innerHTML = '<p style="text-align: center; color: #999;">No tasks added yet. Use the form above or click a preset to get started.</p>';
+                return;
+            }
+            
+            taskList.innerHTML = tasks.map(task => {
+                const costClass = task.delegateCost <= 50 ? 'cost-low' : 
+                                 task.delegateCost <= 100 ? 'cost-medium' : 'cost-high';
+                
+                const oppClass = task.opportunityCost >= 50000 ? 'opportunity-high' :
+                                task.opportunityCost >= 10000 ? 'opportunity-medium' : 'opportunity-low';
+                
+                const zone = task.delegateCost === 0 ? 'genius' :
+                            task.delegateCost <= 100 ? 'delegate' : 'eliminate';
+                
+                const zoneLabel = zone === 'genius' ? 'Zone of Genius' :
+                                 zone === 'delegate' ? 'Delegate This' : 'Eliminate/Automate';
+                
+                return `
+                    <div class="task-item">
+                        <div class="task-name">
+                            ${task.name}
+                            <span class="zone-indicator zone-${zone}">${zoneLabel}</span>
+                        </div>
+                        <div class="task-time">${task.hours} hrs/${task.frequency}</div>
+                        <div class="task-frequency">${task.weeklyHours.toFixed(1)} hrs/week</div>
+                        <div class="task-cost ${costClass}">$${task.delegateCost}/hr</div>
+                        <div class="task-opportunity ${oppClass}">$${task.opportunityCost.toLocaleString()}/wk lost</div>
+                        <button class="delete-btn" onclick="deleteTask(${task.id})">Remove</button>
+                    </div>
+                `;
+            }).join('');
+        }
+        
+        function calculateAnalysis() {
+            if (tasks.length === 0) {
+                alert('Please add at least one task to analyze');
+                return;
+            }
+            
+            // Calculate totals
+            const delegatableTasks = tasks.filter(t => t.delegateCost > 0);
+            const totalLowValueHours = delegatableTasks.reduce((sum, t) => sum + t.weeklyHours, 0);
+            const weeklyDelegationCost = delegatableTasks.reduce((sum, t) => sum + t.weeklyCost, 0);
+            const weeklyOpportunityCost = delegatableTasks.reduce((sum, t) => sum + t.opportunityCost, 0);
+            const annualOpportunityCost = weeklyOpportunityCost * 52;
+            const annualDelegationCost = weeklyDelegationCost * 52;
+            const roi = annualDelegationCost > 0 ? (annualOpportunityCost / annualDelegationCost).toFixed(1) : 0;
+            
+            // Update stats
+            document.getElementById('total-hours').textContent = totalLowValueHours.toFixed(1);
+            document.getElementById('weekly-cost').textContent = '$' + weeklyOpportunityCost.toLocaleString();
+            document.getElementById('annual-cost').textContent = '$' + annualOpportunityCost.toLocaleString();
+            document.getElementById('roi-multiple').textContent = roi + 'x';
+            
+            // Generate insight
+            let insight = '';
+            if (totalLowValueHours > 30) {
+                insight = `You're spending ${totalLowValueHours.toFixed(0)} hours per week on tasks worth $${(weeklyDelegationCost/totalLowValueHours).toFixed(0)}/hour on average. That's ${(totalLowValueHours/40*100).toFixed(0)}% of a full work week! Every week you don't delegate these tasks costs you $${weeklyOpportunityCost.toLocaleString()} in lost high-value opportunities.`;
+            } else if (totalLowValueHours > 15) {
+                insight = `You're losing $${annualOpportunityCost.toLocaleString()} per year by doing low-value work yourself. That's enough to hire a full-time assistant and still have money left over. The question isn't "Can I afford to delegate?" It's "Can I afford NOT to?"`;
+            } else if (totalLowValueHours > 5) {
+                insight = `Good job keeping low-value work under control! You could free up another ${totalLowValueHours.toFixed(0)} hours per week for just $${weeklyDelegationCost.toFixed(0)}/week. That time could generate ${roi}x returns if spent on strategic activities.`;
+            } else {
+                insight = `Excellent! You're already operating mostly in your Zone of Genius. Look for ways to eliminate or automate the remaining ${totalLowValueHours.toFixed(1)} hours of low-value work.`;
+            }
+            
+            document.getElementById('insight-content').textContent = insight;
+            
+            // Generate recommendations
+            const recommendations = [];
+            
+            // Sort tasks by opportunity cost
+            const sortedTasks = [...delegatableTasks].sort((a, b) => b.opportunityCost - a.opportunityCost);
+            
+            if (sortedTasks.length > 0) {
+                recommendations.push(`Delegate "${sortedTasks[0].name}" immediately - it's costing you $${sortedTasks[0].opportunityCost.toLocaleString()}/week in opportunity`);
+            }
+            
+            if (weeklyDelegationCost < 500) {
+                recommendations.push(`Hire a virtual assistant for $${(weeklyDelegationCost * 1.2).toFixed(0)}/week to handle ALL these tasks`);
+            }
+            
+            if (totalLowValueHours > 20) {
+                recommendations.push(`Block 2 hours every morning for Zone of Genius work BEFORE touching any $${Math.min(...delegatableTasks.map(t => t.delegateCost))}/hour tasks`);
+            }
+            
+            recommendations.push(`Create a "Never Again" list of all sub-$100/hour tasks and share with your team`);
+            
+            if (annualOpportunityCost > 100000) {
+                recommendations.push(`Your opportunity cost exceeds $100K/year - this should be your #1 priority to fix THIS WEEK`);
+            }
+            
+            const recList = document.getElementById('recommendations');
+            recList.innerHTML = recommendations.map(rec => `<li>${rec}</li>`).join('');
+            
+            // Show analysis
+            document.getElementById('analysis').style.display = 'block';
+            
+            // Scroll to analysis
+            document.getElementById('analysis').scrollIntoView({ behavior: 'smooth' });
+        }
+    </script>
+</body>
+</html>

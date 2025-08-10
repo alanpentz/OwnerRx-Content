@@ -1,0 +1,409 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Labor Efficiency Ratio Calculator - OwnerRx</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            min-height: 100vh;
+            padding: 20px;
+        }
+        
+        .container {
+            max-width: 800px;
+            margin: 0 auto;
+            background: white;
+            border-radius: 20px;
+            box-shadow: 0 20px 60px rgba(0,0,0,0.3);
+            overflow: hidden;
+        }
+        
+        .header {
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            color: white;
+            padding: 30px;
+            text-align: center;
+        }
+        
+        .header h1 {
+            font-size: 28px;
+            margin-bottom: 10px;
+        }
+        
+        .header p {
+            opacity: 0.9;
+            font-size: 14px;
+        }
+        
+        .content {
+            padding: 30px;
+        }
+        
+        .input-group {
+            margin-bottom: 25px;
+        }
+        
+        .input-group label {
+            display: block;
+            margin-bottom: 8px;
+            font-weight: 600;
+            color: #333;
+            font-size: 14px;
+        }
+        
+        .input-group input {
+            width: 100%;
+            padding: 12px;
+            border: 2px solid #e0e0e0;
+            border-radius: 8px;
+            font-size: 16px;
+            transition: border-color 0.3s;
+        }
+        
+        .input-group input:focus {
+            outline: none;
+            border-color: #667eea;
+        }
+        
+        .input-group .help-text {
+            font-size: 12px;
+            color: #666;
+            margin-top: 5px;
+        }
+        
+        .results {
+            background: #f8f9fa;
+            border-radius: 12px;
+            padding: 25px;
+            margin-top: 30px;
+        }
+        
+        .result-item {
+            margin-bottom: 20px;
+            padding-bottom: 20px;
+            border-bottom: 1px solid #e0e0e0;
+        }
+        
+        .result-item:last-child {
+            border-bottom: none;
+            margin-bottom: 0;
+            padding-bottom: 0;
+        }
+        
+        .result-label {
+            font-size: 14px;
+            color: #666;
+            margin-bottom: 5px;
+        }
+        
+        .result-value {
+            font-size: 32px;
+            font-weight: bold;
+            color: #333;
+        }
+        
+        .result-status {
+            display: inline-block;
+            padding: 4px 12px;
+            border-radius: 20px;
+            font-size: 12px;
+            font-weight: 600;
+            margin-left: 10px;
+        }
+        
+        .status-excellent {
+            background: #d4edda;
+            color: #155724;
+        }
+        
+        .status-good {
+            background: #d1ecf1;
+            color: #0c5460;
+        }
+        
+        .status-warning {
+            background: #fff3cd;
+            color: #856404;
+        }
+        
+        .status-danger {
+            background: #f8d7da;
+            color: #721c24;
+        }
+        
+        .insight-box {
+            background: white;
+            border-left: 4px solid #667eea;
+            padding: 15px;
+            margin-top: 15px;
+            border-radius: 4px;
+        }
+        
+        .insight-box h3 {
+            font-size: 14px;
+            color: #667eea;
+            margin-bottom: 8px;
+        }
+        
+        .insight-box p {
+            font-size: 14px;
+            color: #333;
+            line-height: 1.6;
+        }
+        
+        .calculate-btn {
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            color: white;
+            border: none;
+            padding: 15px 40px;
+            font-size: 16px;
+            font-weight: 600;
+            border-radius: 8px;
+            cursor: pointer;
+            width: 100%;
+            margin-top: 20px;
+            transition: transform 0.2s;
+        }
+        
+        .calculate-btn:hover {
+            transform: translateY(-2px);
+        }
+        
+        .tabs {
+            display: flex;
+            gap: 10px;
+            margin-bottom: 20px;
+        }
+        
+        .tab {
+            padding: 8px 16px;
+            background: #f0f0f0;
+            border-radius: 8px;
+            cursor: pointer;
+            font-size: 14px;
+            font-weight: 500;
+            transition: all 0.3s;
+        }
+        
+        .tab.active {
+            background: #667eea;
+            color: white;
+        }
+        
+        .hidden {
+            display: none;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="header">
+            <h1>Labor Efficiency Ratio Calculator</h1>
+            <p>Based on Greg Crabtree's Framework - "Labor is everyone's biggest cost and they need to measure it" - Alan Pentz</p>
+        </div>
+        
+        <div class="content">
+            <div class="tabs">
+                <div class="tab active" onclick="switchTab('simple')">Simple Mode</div>
+                <div class="tab" onclick="switchTab('detailed')">Detailed Mode</div>
+            </div>
+            
+            <div id="simple-mode">
+                <div class="input-group">
+                    <label for="revenue">Annual Revenue ($)</label>
+                    <input type="number" id="revenue" placeholder="e.g., 2000000" onchange="calculate()">
+                    <div class="help-text">Your total annual revenue</div>
+                </div>
+                
+                <div class="input-group">
+                    <label for="total-labor">Total Labor Cost ($)</label>
+                    <input type="number" id="total-labor" placeholder="e.g., 800000" onchange="calculate()">
+                    <div class="help-text">All wages, salaries, payroll taxes, and benefits</div>
+                </div>
+            </div>
+            
+            <div id="detailed-mode" class="hidden">
+                <div class="input-group">
+                    <label for="revenue-detailed">Annual Revenue ($)</label>
+                    <input type="number" id="revenue-detailed" placeholder="e.g., 2000000" onchange="calculateDetailed()">
+                </div>
+                
+                <div class="input-group">
+                    <label for="direct-labor">Direct Labor Cost ($)</label>
+                    <input type="number" id="direct-labor" placeholder="e.g., 500000" onchange="calculateDetailed()">
+                    <div class="help-text">People who work directly for/on customers</div>
+                </div>
+                
+                <div class="input-group">
+                    <label for="management-labor">Management & Admin Labor Cost ($)</label>
+                    <input type="number" id="management-labor" placeholder="e.g., 300000" onchange="calculateDetailed()">
+                    <div class="help-text">Management, admin, support staff</div>
+                </div>
+                
+                <div class="input-group">
+                    <label for="owner-salary">Owner Market Salary ($)</label>
+                    <input type="number" id="owner-salary" placeholder="e.g., 150000" onchange="calculateDetailed()">
+                    <div class="help-text">What you'd pay someone else to do your job</div>
+                </div>
+            </div>
+            
+            <button class="calculate-btn" onclick="calculateCurrent()">Calculate Labor Efficiency</button>
+            
+            <div id="results" class="results hidden">
+                <!-- Results will be inserted here -->
+            </div>
+        </div>
+    </div>
+    
+    <script>
+        let currentMode = 'simple';
+        
+        function switchTab(mode) {
+            currentMode = mode;
+            document.querySelectorAll('.tab').forEach(tab => tab.classList.remove('active'));
+            event.target.classList.add('active');
+            
+            if (mode === 'simple') {
+                document.getElementById('simple-mode').classList.remove('hidden');
+                document.getElementById('detailed-mode').classList.add('hidden');
+            } else {
+                document.getElementById('simple-mode').classList.add('hidden');
+                document.getElementById('detailed-mode').classList.remove('hidden');
+            }
+            
+            document.getElementById('results').classList.add('hidden');
+        }
+        
+        function calculateCurrent() {
+            if (currentMode === 'simple') {
+                calculate();
+            } else {
+                calculateDetailed();
+            }
+        }
+        
+        function calculate() {
+            const revenue = parseFloat(document.getElementById('revenue').value) || 0;
+            const totalLabor = parseFloat(document.getElementById('total-labor').value) || 0;
+            
+            if (revenue === 0 || totalLabor === 0) {
+                alert('Please enter both revenue and labor costs');
+                return;
+            }
+            
+            const ler = revenue / totalLabor;
+            displayResults(ler, null, null, revenue, totalLabor);
+        }
+        
+        function calculateDetailed() {
+            const revenue = parseFloat(document.getElementById('revenue-detailed').value) || 0;
+            const directLabor = parseFloat(document.getElementById('direct-labor').value) || 0;
+            const managementLabor = parseFloat(document.getElementById('management-labor').value) || 0;
+            const ownerSalary = parseFloat(document.getElementById('owner-salary').value) || 0;
+            
+            if (revenue === 0 || (directLabor === 0 && managementLabor === 0)) {
+                alert('Please enter revenue and at least one labor cost');
+                return;
+            }
+            
+            const totalLabor = directLabor + managementLabor + ownerSalary;
+            const overallLER = revenue / totalLabor;
+            const directLER = directLabor > 0 ? revenue / directLabor : 0;
+            const managementLER = managementLabor > 0 ? (revenue - directLabor) / managementLabor : 0;
+            
+            displayResults(overallLER, directLER, managementLER, revenue, totalLabor);
+        }
+        
+        function getStatus(ler) {
+            if (ler >= 3.0) return { class: 'excellent', text: 'Excellent' };
+            if (ler >= 2.0) return { class: 'good', text: 'Profitable' };
+            if (ler >= 1.5) return { class: 'warning', text: 'Break-even' };
+            return { class: 'danger', text: 'Unprofitable' };
+        }
+        
+        function getInsight(ler) {
+            if (ler >= 3.0) {
+                return "Outstanding efficiency! You're in the top tier, similar to high-margin SaaS businesses. Focus on maintaining this while scaling.";
+            } else if (ler >= 2.0) {
+                return "You're profitable with room to grow. This is Alan's benchmark for a healthy business where the owner pays themselves market rate.";
+            } else if (ler >= 1.5) {
+                return "You're essentially running a nonprofit. Time to either increase prices, improve efficiency, or reduce labor costs.";
+            } else {
+                return "Warning: You're losing money on labor alone. Immediate action needed - review pricing, productivity, and staffing levels.";
+            }
+        }
+        
+        function formatCurrency(num) {
+            return new Intl.NumberFormat('en-US', {
+                style: 'currency',
+                currency: 'USD',
+                minimumFractionDigits: 0,
+                maximumFractionDigits: 0
+            }).format(num);
+        }
+        
+        function displayResults(overallLER, directLER, managementLER, revenue, totalLabor) {
+            const status = getStatus(overallLER);
+            const insight = getInsight(overallLER);
+            const laborPercentage = (totalLabor / revenue * 100).toFixed(1);
+            
+            let resultsHTML = `
+                <div class="result-item">
+                    <div class="result-label">Overall Labor Efficiency Ratio</div>
+                    <div class="result-value">
+                        ${overallLER.toFixed(2)}
+                        <span class="result-status status-${status.class}">${status.text}</span>
+                    </div>
+                </div>
+            `;
+            
+            if (directLER !== null) {
+                resultsHTML += `
+                    <div class="result-item">
+                        <div class="result-label">Direct Labor Efficiency</div>
+                        <div class="result-value">${directLER.toFixed(2)}</div>
+                    </div>
+                    <div class="result-item">
+                        <div class="result-label">Management Labor Efficiency</div>
+                        <div class="result-value">${managementLER.toFixed(2)}</div>
+                    </div>
+                `;
+            }
+            
+            resultsHTML += `
+                <div class="result-item">
+                    <div class="result-label">Labor as % of Revenue</div>
+                    <div class="result-value">${laborPercentage}%</div>
+                </div>
+                
+                <div class="insight-box">
+                    <h3>Alan's Insight</h3>
+                    <p>${insight}</p>
+                </div>
+                
+                <div class="insight-box">
+                    <h3>Benchmark Guide</h3>
+                    <p>
+                        <strong>3.0+:</strong> Excellent (High-margin businesses)<br>
+                        <strong>2.0-3.0:</strong> Profitable (Alan's target)<br>
+                        <strong>1.5-2.0:</strong> Break-even (Needs improvement)<br>
+                        <strong>Below 1.5:</strong> Unprofitable (Urgent action needed)
+                    </p>
+                </div>
+            `;
+            
+            document.getElementById('results').innerHTML = resultsHTML;
+            document.getElementById('results').classList.remove('hidden');
+        }
+    </script>
+</body>
+</html>

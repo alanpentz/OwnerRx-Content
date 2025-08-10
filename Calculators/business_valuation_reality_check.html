@@ -1,0 +1,738 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Business Valuation Reality Check - OwnerRx</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
+            background: linear-gradient(135deg, #764ba2 0%, #667eea 100%);
+            min-height: 100vh;
+            padding: 20px;
+        }
+        
+        .container {
+            max-width: 900px;
+            margin: 0 auto;
+        }
+        
+        .header {
+            background: white;
+            border-radius: 20px;
+            box-shadow: 0 20px 60px rgba(0,0,0,0.3);
+            padding: 30px;
+            text-align: center;
+            margin-bottom: 30px;
+        }
+        
+        .header h1 {
+            font-size: 32px;
+            color: #333;
+            margin-bottom: 15px;
+        }
+        
+        .brutal-truth {
+            background: #f8d7da;
+            color: #721c24;
+            padding: 15px 20px;
+            border-radius: 12px;
+            font-weight: 600;
+            font-size: 18px;
+            margin-bottom: 15px;
+        }
+        
+        .header p {
+            color: #666;
+            font-size: 15px;
+            line-height: 1.6;
+        }
+        
+        .main-content {
+            background: white;
+            border-radius: 20px;
+            box-shadow: 0 20px 60px rgba(0,0,0,0.3);
+            padding: 30px;
+            margin-bottom: 30px;
+        }
+        
+        .section {
+            margin-bottom: 35px;
+        }
+        
+        .section-title {
+            font-size: 20px;
+            font-weight: 600;
+            color: #333;
+            margin-bottom: 20px;
+            padding-bottom: 10px;
+            border-bottom: 2px solid #f0f0f0;
+        }
+        
+        .input-group {
+            margin-bottom: 20px;
+        }
+        
+        .input-group label {
+            display: block;
+            font-size: 14px;
+            font-weight: 500;
+            color: #333;
+            margin-bottom: 8px;
+        }
+        
+        .input-group input, .input-group select {
+            width: 100%;
+            padding: 12px;
+            border: 2px solid #e0e0e0;
+            border-radius: 8px;
+            font-size: 15px;
+            transition: border-color 0.3s;
+        }
+        
+        .input-group input:focus, .input-group select:focus {
+            outline: none;
+            border-color: #667eea;
+        }
+        
+        .help-text {
+            font-size: 12px;
+            color: #999;
+            margin-top: 5px;
+        }
+        
+        .checkbox-group {
+            margin-bottom: 15px;
+        }
+        
+        .checkbox-item {
+            display: flex;
+            align-items: center;
+            margin-bottom: 12px;
+            padding: 12px;
+            background: #f8f9fa;
+            border-radius: 8px;
+            cursor: pointer;
+            transition: background 0.3s;
+        }
+        
+        .checkbox-item:hover {
+            background: #e9ecef;
+        }
+        
+        .checkbox-item input[type="checkbox"] {
+            margin-right: 12px;
+            width: 18px;
+            height: 18px;
+            cursor: pointer;
+        }
+        
+        .checkbox-item label {
+            cursor: pointer;
+            font-size: 14px;
+            color: #333;
+            flex: 1;
+        }
+        
+        .calculate-btn {
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            color: white;
+            border: none;
+            padding: 15px 40px;
+            font-size: 16px;
+            font-weight: 600;
+            border-radius: 8px;
+            cursor: pointer;
+            width: 100%;
+            margin: 20px 0;
+            transition: transform 0.2s;
+        }
+        
+        .calculate-btn:hover {
+            transform: translateY(-2px);
+        }
+        
+        .results-section {
+            background: white;
+            border-radius: 20px;
+            box-shadow: 0 20px 60px rgba(0,0,0,0.3);
+            padding: 30px;
+            display: none;
+        }
+        
+        .valuation-display {
+            text-align: center;
+            padding: 30px;
+            background: #f8f9fa;
+            border-radius: 16px;
+            margin-bottom: 30px;
+        }
+        
+        .valuation-label {
+            font-size: 14px;
+            color: #666;
+            margin-bottom: 10px;
+        }
+        
+        .valuation-amount {
+            font-size: 48px;
+            font-weight: bold;
+            margin-bottom: 10px;
+        }
+        
+        .valuation-zero {
+            color: #c62828;
+        }
+        
+        .valuation-low {
+            color: #f57c00;
+        }
+        
+        .valuation-medium {
+            color: #1976d2;
+        }
+        
+        .valuation-high {
+            color: #2e7d32;
+        }
+        
+        .valuation-range {
+            font-size: 16px;
+            color: #666;
+        }
+        
+        .reality-check {
+            background: #fff3cd;
+            border-left: 4px solid #ffc107;
+            padding: 20px;
+            border-radius: 8px;
+            margin-bottom: 20px;
+        }
+        
+        .reality-title {
+            font-size: 16px;
+            font-weight: 600;
+            color: #856404;
+            margin-bottom: 10px;
+        }
+        
+        .reality-content {
+            font-size: 14px;
+            color: #856404;
+            line-height: 1.6;
+        }
+        
+        .factors-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+            gap: 15px;
+            margin-bottom: 20px;
+        }
+        
+        .factor-card {
+            padding: 15px;
+            border-radius: 12px;
+            text-align: center;
+        }
+        
+        .factor-positive {
+            background: #d4edda;
+            border: 2px solid #c3e6cb;
+        }
+        
+        .factor-negative {
+            background: #f8d7da;
+            border: 2px solid #f5c6cb;
+        }
+        
+        .factor-icon {
+            font-size: 24px;
+            margin-bottom: 5px;
+        }
+        
+        .factor-label {
+            font-size: 13px;
+            font-weight: 600;
+            margin-bottom: 3px;
+        }
+        
+        .factor-positive .factor-label {
+            color: #155724;
+        }
+        
+        .factor-negative .factor-label {
+            color: #721c24;
+        }
+        
+        .factor-impact {
+            font-size: 16px;
+            font-weight: bold;
+        }
+        
+        .factor-positive .factor-impact {
+            color: #155724;
+        }
+        
+        .factor-negative .factor-impact {
+            color: #721c24;
+        }
+        
+        .improvement-box {
+            background: #d1ecf1;
+            border-left: 4px solid #17a2b8;
+            padding: 20px;
+            border-radius: 8px;
+            margin-bottom: 20px;
+        }
+        
+        .improvement-title {
+            font-size: 16px;
+            font-weight: 600;
+            color: #0c5460;
+            margin-bottom: 10px;
+        }
+        
+        .improvement-list {
+            list-style: none;
+            padding: 0;
+        }
+        
+        .improvement-list li {
+            padding: 8px 0;
+            color: #0c5460;
+            font-size: 14px;
+            padding-left: 20px;
+            position: relative;
+        }
+        
+        .improvement-list li::before {
+            content: '→';
+            position: absolute;
+            left: 0;
+            font-weight: bold;
+        }
+        
+        .multiple-display {
+            display: inline-block;
+            padding: 6px 12px;
+            border-radius: 20px;
+            font-size: 14px;
+            font-weight: 600;
+            margin-left: 10px;
+        }
+        
+        .multiple-good {
+            background: #d4edda;
+            color: #155724;
+        }
+        
+        .multiple-fair {
+            background: #fff3cd;
+            color: #856404;
+        }
+        
+        .multiple-poor {
+            background: #f8d7da;
+            color: #721c24;
+        }
+        
+        .benchmark-note {
+            background: #e8f5e9;
+            border-radius: 12px;
+            padding: 20px;
+            margin-top: 20px;
+        }
+        
+        .benchmark-note h3 {
+            font-size: 15px;
+            color: #2e7d32;
+            margin-bottom: 10px;
+        }
+        
+        .benchmark-note p {
+            font-size: 13px;
+            color: #333;
+            line-height: 1.6;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="header">
+            <h1>Business Valuation Reality Check</h1>
+            <div class="brutal-truth">⚠️ 80% of small businesses are worth ZERO to a buyer</div>
+            <p>
+                Based on Alan's experience: "After seeing hundreds of valuations, most owners are shocked. 
+                They think their business is worth 5x revenue. It's usually worth 2-3x profit IF they're lucky. 
+                And if you're needed to run it? Cut that in half."
+            </p>
+        </div>
+        
+        <div class="main-content">
+            <div class="section">
+                <div class="section-title">📊 Financial Performance</div>
+                
+                <div class="input-group">
+                    <label for="revenue">Annual Revenue</label>
+                    <input type="number" id="revenue" placeholder="e.g., 2000000">
+                    <div class="help-text">Total revenue from last 12 months</div>
+                </div>
+                
+                <div class="input-group">
+                    <label for="profit">EBITDA (Profit before owner salary)</label>
+                    <input type="number" id="profit" placeholder="e.g., 400000">
+                    <div class="help-text">Earnings before interest, taxes, depreciation, amortization, and owner compensation</div>
+                </div>
+                
+                <div class="input-group">
+                    <label for="growth">Annual Growth Rate (%)</label>
+                    <input type="number" id="growth" placeholder="e.g., 20" min="-100" max="500">
+                    <div class="help-text">Average growth rate over past 3 years</div>
+                </div>
+            </div>
+            
+            <div class="section">
+                <div class="section-title">🎯 Business Quality Factors</div>
+                
+                <div class="checkbox-group">
+                    <div class="checkbox-item">
+                        <input type="checkbox" id="recurring" onchange="updateFactors()">
+                        <label for="recurring">70%+ recurring/repeat revenue</label>
+                    </div>
+                    <div class="checkbox-item">
+                        <input type="checkbox" id="documented" onchange="updateFactors()">
+                        <label for="documented">All processes documented (business runs without you)</label>
+                    </div>
+                    <div class="checkbox-item">
+                        <input type="checkbox" id="management" onchange="updateFactors()">
+                        <label for="management">Strong management team in place</label>
+                    </div>
+                    <div class="checkbox-item">
+                        <input type="checkbox" id="diverse" onchange="updateFactors()">
+                        <label for="diverse">No customer over 20% of revenue</label>
+                    </div>
+                    <div class="checkbox-item">
+                        <input type="checkbox" id="growing" onchange="updateFactors()">
+                        <label for="growing">Growing market/industry</label>
+                    </div>
+                    <div class="checkbox-item">
+                        <input type="checkbox" id="tech" onchange="updateFactors()">
+                        <label for="tech">Proprietary technology or strong moat</label>
+                    </div>
+                </div>
+            </div>
+            
+            <div class="section">
+                <div class="section-title">⚠️ Risk Factors</div>
+                
+                <div class="checkbox-group">
+                    <div class="checkbox-item">
+                        <input type="checkbox" id="owner-dependent" onchange="updateFactors()">
+                        <label for="owner-dependent">Owner required for daily operations</label>
+                    </div>
+                    <div class="checkbox-item">
+                        <input type="checkbox" id="concentration" onchange="updateFactors()">
+                        <label for="concentration">One customer is 30%+ of revenue</label>
+                    </div>
+                    <div class="checkbox-item">
+                        <input type="checkbox" id="declining" onchange="updateFactors()">
+                        <label for="declining">Revenue declining or flat</label>
+                    </div>
+                    <div class="checkbox-item">
+                        <input type="checkbox" id="old-tech" onchange="updateFactors()">
+                        <label for="old-tech">Outdated technology or systems</label>
+                    </div>
+                    <div class="checkbox-item">
+                        <input type="checkbox" id="lease" onchange="updateFactors()">
+                        <label for="lease">Major lease or contract expiring soon</label>
+                    </div>
+                    <div class="checkbox-item">
+                        <input type="checkbox" id="industry" onchange="updateFactors()">
+                        <label for="industry">Industry being disrupted</label>
+                    </div>
+                </div>
+            </div>
+            
+            <div class="input-group">
+                <label for="industry-type">Industry Type</label>
+                <select id="industry-type">
+                    <option value="services">Professional Services</option>
+                    <option value="saas">SaaS/Software</option>
+                    <option value="ecommerce">E-commerce</option>
+                    <option value="manufacturing">Manufacturing</option>
+                    <option value="retail">Retail</option>
+                    <option value="construction">Construction</option>
+                    <option value="healthcare">Healthcare</option>
+                    <option value="other">Other</option>
+                </select>
+            </div>
+            
+            <button class="calculate-btn" onclick="calculateValuation()">Get Reality Check</button>
+        </div>
+        
+        <div class="results-section" id="results">
+            <div class="valuation-display">
+                <div class="valuation-label">Realistic Valuation Range</div>
+                <div class="valuation-amount" id="valuation-amount">$0</div>
+                <div class="valuation-range" id="valuation-range">-</div>
+                <div id="multiple-display"></div>
+            </div>
+            
+            <div class="reality-check" id="reality-message">
+                <div class="reality-title">Alan's Reality Check</div>
+                <div class="reality-content" id="reality-content">
+                    <!-- Dynamic content -->
+                </div>
+            </div>
+            
+            <div class="factors-grid" id="factors-grid">
+                <!-- Dynamic factor cards -->
+            </div>
+            
+            <div class="improvement-box">
+                <div class="improvement-title">How to Increase Your Valuation</div>
+                <ul class="improvement-list" id="improvements">
+                    <!-- Dynamic improvements -->
+                </ul>
+            </div>
+            
+            <div class="reality-check">
+                <div class="reality-title">The Sellability Test</div>
+                <div class="reality-content">
+                    <strong>Ask yourself:</strong> If you disappeared tomorrow, would the business survive 6 months?<br><br>
+                    If the answer is no, you don't have a sellable business - you have a job. 
+                    And jobs aren't worth anything to buyers.
+                </div>
+            </div>
+            
+            <div class="benchmark-note">
+                <h3>Industry Valuation Multiples (Reality)</h3>
+                <p>
+                    <strong>Services:</strong> 1.5-3x EBITDA (if owner not required)<br>
+                    <strong>SaaS:</strong> 3-6x ARR (if growing 20%+)<br>
+                    <strong>E-commerce:</strong> 2-4x EBITDA<br>
+                    <strong>Manufacturing:</strong> 3-5x EBITDA<br>
+                    <strong>Retail:</strong> 1-2x EBITDA<br><br>
+                    <strong>Remember:</strong> These assume a well-run, transferable business. 
+                    Most small businesses sell for much less or don't sell at all.
+                </p>
+            </div>
+        </div>
+    </div>
+    
+    <script>
+        function updateFactors() {
+            // Visual feedback when factors change
+            const checkboxes = document.querySelectorAll('input[type="checkbox"]');
+            checkboxes.forEach(cb => {
+                const item = cb.closest('.checkbox-item');
+                if (cb.checked) {
+                    item.style.background = '#e8f5e9';
+                } else {
+                    item.style.background = '#f8f9fa';
+                }
+            });
+        }
+        
+        function calculateValuation() {
+            const revenue = parseFloat(document.getElementById('revenue').value) || 0;
+            const profit = parseFloat(document.getElementById('profit').value) || 0;
+            const growth = parseFloat(document.getElementById('growth').value) || 0;
+            const industry = document.getElementById('industry-type').value;
+            
+            if (revenue === 0 || profit === 0) {
+                alert('Please enter both revenue and EBITDA');
+                return;
+            }
+            
+            // Base multiple based on industry
+            let baseMultiple = getIndustryMultiple(industry);
+            
+            // Adjust for profit margin
+            const margin = (profit / revenue) * 100;
+            if (margin < 10) baseMultiple *= 0.5;
+            else if (margin > 30) baseMultiple *= 1.3;
+            else if (margin > 20) baseMultiple *= 1.1;
+            
+            // Adjust for growth
+            if (growth > 30) baseMultiple *= 1.4;
+            else if (growth > 20) baseMultiple *= 1.2;
+            else if (growth > 10) baseMultiple *= 1.1;
+            else if (growth < 0) baseMultiple *= 0.6;
+            else if (growth < 5) baseMultiple *= 0.8;
+            
+            // Quality factors (positive)
+            let qualityBonus = 0;
+            if (document.getElementById('recurring').checked) qualityBonus += 0.5;
+            if (document.getElementById('documented').checked) qualityBonus += 0.4;
+            if (document.getElementById('management').checked) qualityBonus += 0.6;
+            if (document.getElementById('diverse').checked) qualityBonus += 0.3;
+            if (document.getElementById('growing').checked) qualityBonus += 0.2;
+            if (document.getElementById('tech').checked) qualityBonus += 0.3;
+            
+            // Risk factors (negative)
+            let riskDiscount = 0;
+            if (document.getElementById('owner-dependent').checked) riskDiscount += 0.5;
+            if (document.getElementById('concentration').checked) riskDiscount += 0.4;
+            if (document.getElementById('declining').checked) riskDiscount += 0.3;
+            if (document.getElementById('old-tech').checked) riskDiscount += 0.2;
+            if (document.getElementById('lease').checked) riskDiscount += 0.2;
+            if (document.getElementById('industry').checked) riskDiscount += 0.3;
+            
+            // Calculate final multiple
+            let finalMultiple = baseMultiple + qualityBonus - riskDiscount;
+            finalMultiple = Math.max(0, finalMultiple); // Can't be negative
+            
+            // Special case: owner-dependent with no management
+            if (document.getElementById('owner-dependent').checked && 
+                !document.getElementById('management').checked) {
+                finalMultiple = Math.min(finalMultiple, 1.5);
+            }
+            
+            // Calculate valuation
+            const valuation = profit * finalMultiple;
+            const lowRange = valuation * 0.8;
+            const highRange = valuation * 1.2;
+            
+            // Display results
+            displayResults(valuation, lowRange, highRange, finalMultiple, profit, revenue, margin, qualityBonus, riskDiscount);
+            
+            // Show results section
+            document.getElementById('results').style.display = 'block';
+            document.getElementById('results').scrollIntoView({ behavior: 'smooth' });
+        }
+        
+        function getIndustryMultiple(industry) {
+            const multiples = {
+                'services': 2.5,
+                'saas': 4.0,
+                'ecommerce': 3.0,
+                'manufacturing': 3.5,
+                'retail': 1.5,
+                'construction': 2.0,
+                'healthcare': 3.0,
+                'other': 2.5
+            };
+            return multiples[industry] || 2.5;
+        }
+        
+        function displayResults(valuation, low, high, multiple, profit, revenue, margin, qualityBonus, riskDiscount) {
+            // Valuation amount and range
+            const valuationElement = document.getElementById('valuation-amount');
+            const rangeElement = document.getElementById('valuation-range');
+            const multipleElement = document.getElementById('multiple-display');
+            
+            if (valuation < 100000) {
+                valuationElement.className = 'valuation-amount valuation-zero';
+                valuationElement.textContent = 'Near Zero';
+                rangeElement.textContent = 'Your business is essentially unsellable';
+            } else {
+                valuationElement.textContent = '$' + Math.round(valuation).toLocaleString();
+                rangeElement.textContent = '$' + Math.round(low).toLocaleString() + ' - $' + Math.round(high).toLocaleString();
+                
+                if (valuation < 500000) {
+                    valuationElement.className = 'valuation-amount valuation-low';
+                } else if (valuation < 2000000) {
+                    valuationElement.className = 'valuation-amount valuation-medium';
+                } else {
+                    valuationElement.className = 'valuation-amount valuation-high';
+                }
+            }
+            
+            // Multiple display
+            const multipleClass = multiple >= 3 ? 'multiple-good' : multiple >= 2 ? 'multiple-fair' : 'multiple-poor';
+            multipleElement.innerHTML = `<span class="multiple-display ${multipleClass}">${multiple.toFixed(1)}x EBITDA</span>`;
+            
+            // Reality message
+            const realityContent = document.getElementById('reality-content');
+            let message = '';
+            
+            if (multiple < 1) {
+                message = `Your business is worth less than one year's profit. This typically means it's completely dependent on you and has serious risk factors. No rational buyer would purchase this business - they'd rather start from scratch.`;
+            } else if (multiple < 2) {
+                message = `At ${multiple.toFixed(1)}x EBITDA, buyers see your business as a risky investment. They could get better returns in the stock market with less risk. You need to address the fundamental issues before thinking about selling.`;
+            } else if (multiple < 3) {
+                message = `A ${multiple.toFixed(1)}x multiple is below average but workable. Your business has value but significant improvements are needed to get a premium price. Focus on reducing owner dependence and building recurring revenue.`;
+            } else if (multiple < 4) {
+                message = `At ${multiple.toFixed(1)}x EBITDA, your business is reasonably attractive to buyers. You're in the range where deals actually happen. Small improvements could significantly increase your valuation.`;
+            } else {
+                message = `A ${multiple.toFixed(1)}x multiple puts you in the top 20% of small businesses. Your business has strong fundamentals that buyers value. You've built something truly sellable.`;
+            }
+            
+            realityContent.textContent = message;
+            
+            // Factor cards
+            const factorsGrid = document.getElementById('factors-grid');
+            factorsGrid.innerHTML = '';
+            
+            // Positive factors
+            if (margin > 20) {
+                factorsGrid.innerHTML += createFactorCard('positive', '💰', 'Strong Margins', `${margin.toFixed(0)}%`);
+            }
+            if (qualityBonus > 1) {
+                factorsGrid.innerHTML += createFactorCard('positive', '⭐', 'Quality Business', `+${qualityBonus.toFixed(1)}x`);
+            }
+            if (document.getElementById('management').checked) {
+                factorsGrid.innerHTML += createFactorCard('positive', '👥', 'Management Team', 'Transferable');
+            }
+            
+            // Negative factors
+            if (margin < 15) {
+                factorsGrid.innerHTML += createFactorCard('negative', '📉', 'Thin Margins', `${margin.toFixed(0)}%`);
+            }
+            if (riskDiscount > 1) {
+                factorsGrid.innerHTML += createFactorCard('negative', '⚠️', 'High Risk', `-${riskDiscount.toFixed(1)}x`);
+            }
+            if (document.getElementById('owner-dependent').checked) {
+                factorsGrid.innerHTML += createFactorCard('negative', '🔒', 'Owner Trapped', 'Not Transferable');
+            }
+            
+            // Improvements
+            const improvements = document.getElementById('improvements');
+            improvements.innerHTML = '';
+            
+            const improvementList = [];
+            
+            if (document.getElementById('owner-dependent').checked) {
+                improvementList.push('Document all processes and train a manager to run daily operations (+50% value)');
+            }
+            if (!document.getElementById('recurring').checked) {
+                improvementList.push('Convert to subscription/recurring model (+30% value)');
+            }
+            if (margin < 20) {
+                improvementList.push(`Increase prices 10-20% to improve margins (currently ${margin.toFixed(0)}%)`)`;
+            }
+            if (!document.getElementById('diverse').checked) {
+                improvementList.push('Diversify customer base - no customer over 20% (+20% value)');
+            }
+            if (!document.getElementById('documented').checked) {
+                improvementList.push('Create SOPs for all core processes (+25% value)');
+            }
+            
+            if (improvementList.length === 0) {
+                improvementList.push('Focus on growth - every 10% growth adds 10-20% to valuation');
+                improvementList.push('Build strategic partnerships to create competitive moats');
+                improvementList.push('Consider add-on acquisitions to increase scale');
+            }
+            
+            improvements.innerHTML = improvementList.map(item => `<li>${item}</li>`).join('');
+        }
+        
+        function createFactorCard(type, icon, label, impact) {
+            return `
+                <div class="factor-card factor-${type}">
+                    <div class="factor-icon">${icon}</div>
+                    <div class="factor-label">${label}</div>
+                    <div class="factor-impact">${impact}</div>
+                </div>
+            `;
+        }
+    </script>
+</body>
+</html>

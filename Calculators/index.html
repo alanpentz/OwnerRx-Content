@@ -1,0 +1,299 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>OwnerRx Business Calculators</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            min-height: 100vh;
+            padding: 20px;
+        }
+        
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+        }
+        
+        .header {
+            text-align: center;
+            color: white;
+            margin-bottom: 40px;
+        }
+        
+        .header h1 {
+            font-size: 42px;
+            margin-bottom: 10px;
+        }
+        
+        .header p {
+            font-size: 18px;
+            opacity: 0.9;
+        }
+        
+        .calculators-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(350px, 1fr));
+            gap: 25px;
+            margin-bottom: 40px;
+        }
+        
+        .calculator-card {
+            background: white;
+            border-radius: 16px;
+            box-shadow: 0 10px 30px rgba(0,0,0,0.2);
+            padding: 25px;
+            transition: transform 0.3s, box-shadow 0.3s;
+            cursor: pointer;
+            text-decoration: none;
+            color: inherit;
+            display: block;
+        }
+        
+        .calculator-card:hover {
+            transform: translateY(-5px);
+            box-shadow: 0 15px 40px rgba(0,0,0,0.3);
+        }
+        
+        .card-icon {
+            width: 60px;
+            height: 60px;
+            border-radius: 12px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-size: 28px;
+            margin-bottom: 20px;
+        }
+        
+        .icon-efficiency {
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+        }
+        
+        .icon-metrics {
+            background: linear-gradient(135deg, #11998e 0%, #38ef7d 100%);
+        }
+        
+        .icon-time {
+            background: linear-gradient(135deg, #fc4a1a 0%, #f7b733 100%);
+        }
+        
+        .icon-valuation {
+            background: linear-gradient(135deg, #4facfe 0%, #00f2fe 100%);
+        }
+        
+        .icon-risk {
+            background: linear-gradient(135deg, #fa709a 0%, #fee140 100%);
+        }
+        
+        .card-title {
+            font-size: 22px;
+            font-weight: 600;
+            color: #333;
+            margin-bottom: 10px;
+        }
+        
+        .card-description {
+            font-size: 14px;
+            color: #666;
+            line-height: 1.6;
+            margin-bottom: 15px;
+        }
+        
+        .card-insight {
+            background: #f8f9fa;
+            padding: 12px;
+            border-radius: 8px;
+            font-size: 13px;
+            color: #333;
+            font-style: italic;
+            border-left: 3px solid #667eea;
+        }
+        
+        .card-metrics {
+            display: flex;
+            gap: 20px;
+            margin-top: 15px;
+            padding-top: 15px;
+            border-top: 1px solid #e0e0e0;
+        }
+        
+        .metric {
+            flex: 1;
+            text-align: center;
+        }
+        
+        .metric-value {
+            font-size: 18px;
+            font-weight: bold;
+            color: #667eea;
+        }
+        
+        .metric-label {
+            font-size: 11px;
+            color: #999;
+            margin-top: 3px;
+        }
+        
+        .priority-badge {
+            display: inline-block;
+            background: #ff4444;
+            color: white;
+            padding: 4px 10px;
+            border-radius: 20px;
+            font-size: 11px;
+            font-weight: 600;
+            margin-bottom: 10px;
+        }
+        
+        .footer {
+            text-align: center;
+            color: white;
+            padding: 20px;
+        }
+        
+        .footer a {
+            color: white;
+            text-decoration: underline;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="header">
+            <h1>OwnerRx Business Calculators</h1>
+            <p>Transform Your Business with Data-Driven Insights</p>
+        </div>
+        
+        <div class="calculators-grid">
+            <!-- Labor Efficiency Ratio Calculator -->
+            <a href="labor_efficiency_ratio_calculator.html" class="calculator-card">
+                <div class="card-icon icon-efficiency">⚡</div>
+                <div class="card-title">Labor Efficiency Ratio</div>
+                <div class="card-description">
+                    Discover if you're making money on your team or just trading dollars. Based on Greg Crabtree's framework.
+                </div>
+                <div class="card-insight">
+                    "Labor is everyone's biggest cost and they need to measure it" - Alan Pentz
+                </div>
+                <div class="card-metrics">
+                    <div class="metric">
+                        <div class="metric-value">2.0x</div>
+                        <div class="metric-label">Target Ratio</div>
+                    </div>
+                    <div class="metric">
+                        <div class="metric-value">5 min</div>
+                        <div class="metric-label">To Complete</div>
+                    </div>
+                </div>
+            </a>
+            
+            <!-- 4 Napkin Metrics Dashboard -->
+            <a href="4_napkin_metrics_dashboard.html" class="calculator-card">
+                <div class="priority-badge">PRIORITY</div>
+                <div class="card-icon icon-metrics">📊</div>
+                <div class="card-title">4 Napkin Metrics Dashboard</div>
+                <div class="card-description">
+                    Track only what matters: Cash, Gross Margin, Labor Efficiency, and Profit. Nothing more.
+                </div>
+                <div class="card-insight">
+                    "If you can't calculate it on a napkin, it's too complicated" - Alan Pentz
+                </div>
+                <div class="card-metrics">
+                    <div class="metric">
+                        <div class="metric-value">4</div>
+                        <div class="metric-label">Key Metrics</div>
+                    </div>
+                    <div class="metric">
+                        <div class="metric-value">Daily</div>
+                        <div class="metric-label">Track Cash</div>
+                    </div>
+                </div>
+            </a>
+            
+            <!-- $10 vs $10,000 Hour Analyzer -->
+            <a href="10_vs_10000_hour_analyzer.html" class="calculator-card">
+                <div class="card-icon icon-time">⏰</div>
+                <div class="card-title">$10 vs $10,000 Hour Analyzer</div>
+                <div class="card-description">
+                    Calculate the true cost of doing low-value work yourself. See why delegation has infinite ROI.
+                </div>
+                <div class="card-insight">
+                    "Every hour on $20 work costs you $10,000 in opportunity" - Alan Pentz
+                </div>
+                <div class="card-metrics">
+                    <div class="metric">
+                        <div class="metric-value">$10K</div>
+                        <div class="metric-label">Your Genius Hour</div>
+                    </div>
+                    <div class="metric">
+                        <div class="metric-value">2500x</div>
+                        <div class="metric-label">Typical ROI</div>
+                    </div>
+                </div>
+            </a>
+            
+            <!-- Business Valuation Reality Check -->
+            <a href="business_valuation_reality_check.html" class="calculator-card">
+                <div class="priority-badge">REALITY CHECK</div>
+                <div class="card-icon icon-valuation">💰</div>
+                <div class="card-title">Business Valuation Reality Check</div>
+                <div class="card-description">
+                    Find out what your business is really worth to a buyer. Warning: 80% of businesses are worth zero.
+                </div>
+                <div class="card-insight">
+                    "Most owners think 5x revenue. It's usually 2-3x profit IF they're lucky" - Alan Pentz
+                </div>
+                <div class="card-metrics">
+                    <div class="metric">
+                        <div class="metric-value">80%</div>
+                        <div class="metric-label">Worth Zero</div>
+                    </div>
+                    <div class="metric">
+                        <div class="metric-value">2-3x</div>
+                        <div class="metric-label">Typical Multiple</div>
+                    </div>
+                </div>
+            </a>
+            
+            <!-- Customer Concentration Risk Tool -->
+            <a href="customer_concentration_risk.html" class="calculator-card">
+                <div class="card-icon icon-risk">⚠️</div>
+                <div class="card-title">Customer Concentration Risk</div>
+                <div class="card-description">
+                    Measure your single point of failure. If one customer is 30%+ of revenue, they own you.
+                </div>
+                <div class="card-insight">
+                    "Victory has 1000 fathers, defeat is an orphan" - Alan Pentz
+                </div>
+                <div class="card-metrics">
+                    <div class="metric">
+                        <div class="metric-value">20%</div>
+                        <div class="metric-label">Max Safe %</div>
+                    </div>
+                    <div class="metric">
+                        <div class="metric-value">20+</div>
+                        <div class="metric-label">Ideal Customers</div>
+                    </div>
+                </div>
+            </a>
+        </div>
+        
+        <div class="footer">
+            <p>Built from real-world insights from Alan Pentz and the OwnerRx framework</p>
+            <p style="margin-top: 10px;">
+                <a href="https://ownerrx.com">OwnerRx.com</a> | 
+                <a href="https://newsletter.ownerrx.com">Newsletter</a>
+            </p>
+        </div>
+    </div>
+</body>
+</html>

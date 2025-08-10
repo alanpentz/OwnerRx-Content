@@ -1,0 +1,859 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>4 Napkin Metrics Dashboard - OwnerRx</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
+            background: linear-gradient(135deg, #764ba2 0%, #667eea 100%);
+            min-height: 100vh;
+            padding: 20px;
+        }
+        
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+        }
+        
+        .header {
+            background: white;
+            border-radius: 20px;
+            box-shadow: 0 20px 60px rgba(0,0,0,0.3);
+            padding: 30px;
+            text-align: center;
+            margin-bottom: 30px;
+        }
+        
+        .header h1 {
+            font-size: 32px;
+            color: #333;
+            margin-bottom: 10px;
+        }
+        
+        .header p {
+            color: #666;
+            font-size: 16px;
+        }
+        
+        .quote {
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            color: white;
+            padding: 15px 20px;
+            border-radius: 12px;
+            margin-top: 20px;
+            font-style: italic;
+        }
+        
+        .metrics-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+            gap: 20px;
+            margin-bottom: 30px;
+        }
+        
+        .metric-card {
+            background: white;
+            border-radius: 16px;
+            box-shadow: 0 10px 30px rgba(0,0,0,0.2);
+            padding: 25px;
+            position: relative;
+            overflow: hidden;
+        }
+        
+        .metric-card::before {
+            content: '';
+            position: absolute;
+            top: 0;
+            left: 0;
+            right: 0;
+            height: 4px;
+            background: linear-gradient(90deg, #667eea 0%, #764ba2 100%);
+        }
+        
+        .metric-header {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            margin-bottom: 15px;
+        }
+        
+        .metric-title {
+            font-size: 18px;
+            font-weight: 600;
+            color: #333;
+        }
+        
+        .metric-icon {
+            width: 40px;
+            height: 40px;
+            border-radius: 50%;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-size: 20px;
+        }
+        
+        .cash-icon {
+            background: #e8f5e9;
+            color: #2e7d32;
+        }
+        
+        .margin-icon {
+            background: #e3f2fd;
+            color: #1565c0;
+        }
+        
+        .efficiency-icon {
+            background: #fff3e0;
+            color: #e65100;
+        }
+        
+        .profit-icon {
+            background: #f3e5f5;
+            color: #6a1b9a;
+        }
+        
+        .input-group {
+            margin-bottom: 15px;
+        }
+        
+        .input-group label {
+            display: block;
+            font-size: 13px;
+            color: #666;
+            margin-bottom: 5px;
+        }
+        
+        .input-group input {
+            width: 100%;
+            padding: 10px;
+            border: 2px solid #e0e0e0;
+            border-radius: 8px;
+            font-size: 15px;
+            transition: border-color 0.3s;
+        }
+        
+        .input-group input:focus {
+            outline: none;
+            border-color: #667eea;
+        }
+        
+        .metric-result {
+            background: #f8f9fa;
+            border-radius: 12px;
+            padding: 15px;
+            margin-top: 15px;
+        }
+        
+        .result-value {
+            font-size: 32px;
+            font-weight: bold;
+            color: #333;
+            margin-bottom: 5px;
+        }
+        
+        .result-label {
+            font-size: 13px;
+            color: #666;
+            margin-bottom: 10px;
+        }
+        
+        .status-indicator {
+            display: inline-block;
+            padding: 4px 12px;
+            border-radius: 20px;
+            font-size: 12px;
+            font-weight: 600;
+        }
+        
+        .status-excellent {
+            background: #d4edda;
+            color: #155724;
+        }
+        
+        .status-good {
+            background: #d1ecf1;
+            color: #0c5460;
+        }
+        
+        .status-warning {
+            background: #fff3cd;
+            color: #856404;
+        }
+        
+        .status-danger {
+            background: #f8d7da;
+            color: #721c24;
+        }
+        
+        .trend-indicator {
+            display: flex;
+            align-items: center;
+            gap: 5px;
+            margin-top: 10px;
+            font-size: 13px;
+        }
+        
+        .trend-up {
+            color: #2e7d32;
+        }
+        
+        .trend-down {
+            color: #c62828;
+        }
+        
+        .trend-flat {
+            color: #666;
+        }
+        
+        .analysis-panel {
+            background: white;
+            border-radius: 20px;
+            box-shadow: 0 20px 60px rgba(0,0,0,0.3);
+            padding: 30px;
+        }
+        
+        .analysis-header {
+            font-size: 24px;
+            font-weight: 600;
+            color: #333;
+            margin-bottom: 20px;
+        }
+        
+        .insight-box {
+            background: #f8f9fa;
+            border-left: 4px solid #667eea;
+            padding: 15px;
+            margin-bottom: 15px;
+            border-radius: 4px;
+        }
+        
+        .insight-title {
+            font-size: 14px;
+            font-weight: 600;
+            color: #667eea;
+            margin-bottom: 8px;
+        }
+        
+        .insight-content {
+            font-size: 14px;
+            color: #333;
+            line-height: 1.6;
+        }
+        
+        .calculate-all-btn {
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            color: white;
+            border: none;
+            padding: 15px 40px;
+            font-size: 16px;
+            font-weight: 600;
+            border-radius: 8px;
+            cursor: pointer;
+            width: 100%;
+            margin: 20px 0;
+            transition: transform 0.2s;
+        }
+        
+        .calculate-all-btn:hover {
+            transform: translateY(-2px);
+        }
+        
+        .comparison-toggle {
+            display: flex;
+            gap: 10px;
+            margin-bottom: 20px;
+        }
+        
+        .period-btn {
+            padding: 8px 16px;
+            background: #f0f0f0;
+            border: none;
+            border-radius: 8px;
+            cursor: pointer;
+            font-size: 14px;
+            font-weight: 500;
+            transition: all 0.3s;
+        }
+        
+        .period-btn.active {
+            background: #667eea;
+            color: white;
+        }
+        
+        .benchmark-note {
+            background: #e8f5e9;
+            border-radius: 12px;
+            padding: 15px;
+            margin-top: 20px;
+        }
+        
+        .benchmark-note h3 {
+            font-size: 14px;
+            color: #2e7d32;
+            margin-bottom: 10px;
+        }
+        
+        .benchmark-note ul {
+            list-style: none;
+            font-size: 13px;
+            color: #333;
+        }
+        
+        .benchmark-note li {
+            margin-bottom: 5px;
+            padding-left: 20px;
+            position: relative;
+        }
+        
+        .benchmark-note li::before {
+            content: '✓';
+            position: absolute;
+            left: 0;
+            color: #2e7d32;
+        }
+        
+        .warning-box {
+            background: #fff3cd;
+            border-radius: 12px;
+            padding: 15px;
+            margin-top: 20px;
+            display: none;
+        }
+        
+        .warning-box.show {
+            display: block;
+        }
+        
+        .warning-title {
+            font-size: 14px;
+            font-weight: 600;
+            color: #856404;
+            margin-bottom: 8px;
+        }
+        
+        .warning-content {
+            font-size: 13px;
+            color: #856404;
+            line-height: 1.6;
+        }
+        
+        .help-text {
+            font-size: 11px;
+            color: #999;
+            margin-top: 3px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="header">
+            <h1>4 Napkin Metrics Dashboard</h1>
+            <p>Track What Actually Matters - Nothing More</p>
+            <div class="quote">
+                "Cash daily. For the rest, if you can't calculate it on a napkin, it's too complicated." - Alan Pentz
+            </div>
+        </div>
+        
+        <div class="comparison-toggle">
+            <button class="period-btn active" onclick="setPeriod('current')">Current Month</button>
+            <button class="period-btn" onclick="setPeriod('last')">Last Month</button>
+            <button class="period-btn" onclick="setPeriod('compare')">Compare</button>
+        </div>
+        
+        <div class="metrics-grid">
+            <!-- Cash Metric -->
+            <div class="metric-card">
+                <div class="metric-header">
+                    <div class="metric-title">Cash</div>
+                    <div class="metric-icon cash-icon">💵</div>
+                </div>
+                
+                <div class="input-group">
+                    <label for="cash-current">Current Cash Balance</label>
+                    <input type="number" id="cash-current" placeholder="e.g., 150000" onchange="calculateCash()">
+                    <div class="help-text">Bank balance + receivables due in 30 days</div>
+                </div>
+                
+                <div class="input-group">
+                    <label for="cash-burn">Monthly Burn Rate</label>
+                    <input type="number" id="cash-burn" placeholder="e.g., 50000" onchange="calculateCash()">
+                    <div class="help-text">Total monthly expenses</div>
+                </div>
+                
+                <div class="input-group" id="cash-last-group" style="display: none;">
+                    <label for="cash-last">Last Month's Cash</label>
+                    <input type="number" id="cash-last" placeholder="e.g., 140000" onchange="calculateCash()">
+                </div>
+                
+                <div class="metric-result" id="cash-result" style="display: none;">
+                    <div class="result-value" id="cash-months">-</div>
+                    <div class="result-label">Months of Runway</div>
+                    <span class="status-indicator" id="cash-status">-</span>
+                    <div class="trend-indicator" id="cash-trend"></div>
+                </div>
+            </div>
+            
+            <!-- Gross Margin Metric -->
+            <div class="metric-card">
+                <div class="metric-header">
+                    <div class="metric-title">Gross Margin</div>
+                    <div class="metric-icon margin-icon">📊</div>
+                </div>
+                
+                <div class="input-group">
+                    <label for="revenue-current">Monthly Revenue</label>
+                    <input type="number" id="revenue-current" placeholder="e.g., 200000" onchange="calculateMargin()">
+                </div>
+                
+                <div class="input-group">
+                    <label for="cogs-current">Cost of Goods Sold</label>
+                    <input type="number" id="cogs-current" placeholder="e.g., 80000" onchange="calculateMargin()">
+                    <div class="help-text">Direct costs only - materials, direct labor</div>
+                </div>
+                
+                <div class="input-group" id="margin-last-group" style="display: none;">
+                    <label for="margin-last">Last Month's Margin %</label>
+                    <input type="number" id="margin-last" placeholder="e.g., 55" onchange="calculateMargin()">
+                </div>
+                
+                <div class="metric-result" id="margin-result" style="display: none;">
+                    <div class="result-value" id="margin-percent">-</div>
+                    <div class="result-label">Gross Margin %</div>
+                    <span class="status-indicator" id="margin-status">-</span>
+                    <div class="trend-indicator" id="margin-trend"></div>
+                </div>
+            </div>
+            
+            <!-- Labor Efficiency Metric -->
+            <div class="metric-card">
+                <div class="metric-header">
+                    <div class="metric-title">Labor Efficiency</div>
+                    <div class="metric-icon efficiency-icon">⚡</div>
+                </div>
+                
+                <div class="input-group">
+                    <label for="revenue-labor">Monthly Revenue</label>
+                    <input type="number" id="revenue-labor" placeholder="e.g., 200000" onchange="calculateEfficiency()">
+                </div>
+                
+                <div class="input-group">
+                    <label for="labor-cost">Total Labor Cost</label>
+                    <input type="number" id="labor-cost" placeholder="e.g., 80000" onchange="calculateEfficiency()">
+                    <div class="help-text">All wages, taxes, benefits</div>
+                </div>
+                
+                <div class="input-group" id="efficiency-last-group" style="display: none;">
+                    <label for="efficiency-last">Last Month's Ratio</label>
+                    <input type="number" id="efficiency-last" step="0.1" placeholder="e.g., 2.5" onchange="calculateEfficiency()">
+                </div>
+                
+                <div class="metric-result" id="efficiency-result" style="display: none;">
+                    <div class="result-value" id="efficiency-ratio">-</div>
+                    <div class="result-label">Labor Efficiency Ratio</div>
+                    <span class="status-indicator" id="efficiency-status">-</span>
+                    <div class="trend-indicator" id="efficiency-trend"></div>
+                </div>
+            </div>
+            
+            <!-- Profit Metric -->
+            <div class="metric-card">
+                <div class="metric-header">
+                    <div class="metric-title">Profit</div>
+                    <div class="metric-icon profit-icon">💰</div>
+                </div>
+                
+                <div class="input-group">
+                    <label for="revenue-profit">Monthly Revenue</label>
+                    <input type="number" id="revenue-profit" placeholder="e.g., 200000" onchange="calculateProfit()">
+                </div>
+                
+                <div class="input-group">
+                    <label for="expenses-total">Total Expenses</label>
+                    <input type="number" id="expenses-total" placeholder="e.g., 180000" onchange="calculateProfit()">
+                    <div class="help-text">All expenses including COGS</div>
+                </div>
+                
+                <div class="input-group" id="profit-last-group" style="display: none;">
+                    <label for="profit-last">Last Month's Profit %</label>
+                    <input type="number" id="profit-last" placeholder="e.g., 10" onchange="calculateProfit()">
+                </div>
+                
+                <div class="metric-result" id="profit-result" style="display: none;">
+                    <div class="result-value" id="profit-percent">-</div>
+                    <div class="result-label">Net Profit Margin %</div>
+                    <span class="status-indicator" id="profit-status">-</span>
+                    <div class="trend-indicator" id="profit-trend"></div>
+                </div>
+            </div>
+        </div>
+        
+        <button class="calculate-all-btn" onclick="calculateAll()">Calculate All Metrics</button>
+        
+        <div class="analysis-panel">
+            <div class="analysis-header">Napkin Analysis</div>
+            
+            <div id="overall-health" class="insight-box" style="display: none;">
+                <div class="insight-title">Overall Business Health</div>
+                <div class="insight-content" id="health-content">-</div>
+            </div>
+            
+            <div id="trend-analysis" class="insight-box" style="display: none;">
+                <div class="insight-title">Trend Analysis (3-5 Rule)</div>
+                <div class="insight-content" id="trend-content">-</div>
+            </div>
+            
+            <div id="priority-focus" class="insight-box" style="display: none;">
+                <div class="insight-title">Alan's Priority Focus</div>
+                <div class="insight-content" id="priority-content">-</div>
+            </div>
+            
+            <div class="warning-box" id="warning-box">
+                <div class="warning-title">⚠️ Critical Warning</div>
+                <div class="warning-content" id="warning-content">-</div>
+            </div>
+            
+            <div class="benchmark-note">
+                <h3>Alan's Benchmarks</h3>
+                <ul>
+                    <li><strong>Cash:</strong> 3+ months runway minimum, 6+ months ideal</li>
+                    <li><strong>Gross Margin:</strong> 50%+ for services, 30%+ for products</li>
+                    <li><strong>Labor Efficiency:</strong> 2.0+ for profitability</li>
+                    <li><strong>Net Profit:</strong> 10%+ after owner market salary</li>
+                </ul>
+            </div>
+        </div>
+    </div>
+    
+    <script>
+        let currentPeriod = 'current';
+        let trendHistory = {
+            cash: [],
+            margin: [],
+            efficiency: [],
+            profit: []
+        };
+        
+        function setPeriod(period) {
+            currentPeriod = period;
+            document.querySelectorAll('.period-btn').forEach(btn => btn.classList.remove('active'));
+            event.target.classList.add('active');
+            
+            // Show/hide comparison fields
+            const showComparison = period === 'last' || period === 'compare';
+            document.getElementById('cash-last-group').style.display = showComparison ? 'block' : 'none';
+            document.getElementById('margin-last-group').style.display = showComparison ? 'block' : 'none';
+            document.getElementById('efficiency-last-group').style.display = showComparison ? 'block' : 'none';
+            document.getElementById('profit-last-group').style.display = showComparison ? 'block' : 'none';
+            
+            // Recalculate if data exists
+            if (hasData()) {
+                calculateAll();
+            }
+        }
+        
+        function hasData() {
+            return document.getElementById('cash-current').value || 
+                   document.getElementById('revenue-current').value;
+        }
+        
+        function calculateCash() {
+            const cash = parseFloat(document.getElementById('cash-current').value) || 0;
+            const burn = parseFloat(document.getElementById('cash-burn').value) || 0;
+            const lastCash = parseFloat(document.getElementById('cash-last').value) || 0;
+            
+            if (cash === 0 || burn === 0) return;
+            
+            const months = cash / burn;
+            const status = getRunwayStatus(months);
+            
+            // Track trend
+            trendHistory.cash.push(months);
+            if (trendHistory.cash.length > 5) trendHistory.cash.shift();
+            
+            // Display results
+            document.getElementById('cash-months').textContent = months.toFixed(1);
+            document.getElementById('cash-status').textContent = status.text;
+            document.getElementById('cash-status').className = `status-indicator status-${status.class}`;
+            
+            // Show trend if comparing
+            if (currentPeriod !== 'current' && lastCash > 0) {
+                const change = ((cash - lastCash) / lastCash * 100).toFixed(1);
+                const trendClass = change > 0 ? 'trend-up' : change < 0 ? 'trend-down' : 'trend-flat';
+                const arrow = change > 0 ? '↑' : change < 0 ? '↓' : '→';
+                document.getElementById('cash-trend').innerHTML = `
+                    <span class="${trendClass}">${arrow} ${Math.abs(change)}% from last month</span>
+                `;
+            }
+            
+            document.getElementById('cash-result').style.display = 'block';
+        }
+        
+        function calculateMargin() {
+            const revenue = parseFloat(document.getElementById('revenue-current').value) || 0;
+            const cogs = parseFloat(document.getElementById('cogs-current').value) || 0;
+            const lastMargin = parseFloat(document.getElementById('margin-last').value) || 0;
+            
+            if (revenue === 0) return;
+            
+            const margin = ((revenue - cogs) / revenue * 100);
+            const status = getMarginStatus(margin);
+            
+            // Track trend
+            trendHistory.margin.push(margin);
+            if (trendHistory.margin.length > 5) trendHistory.margin.shift();
+            
+            // Display results
+            document.getElementById('margin-percent').textContent = margin.toFixed(1) + '%';
+            document.getElementById('margin-status').textContent = status.text;
+            document.getElementById('margin-status').className = `status-indicator status-${status.class}`;
+            
+            // Show trend if comparing
+            if (currentPeriod !== 'current' && lastMargin > 0) {
+                const change = margin - lastMargin;
+                const trendClass = change > 0 ? 'trend-up' : change < 0 ? 'trend-down' : 'trend-flat';
+                const arrow = change > 0 ? '↑' : change < 0 ? '↓' : '→';
+                document.getElementById('margin-trend').innerHTML = `
+                    <span class="${trendClass}">${arrow} ${Math.abs(change.toFixed(1))}% from last month</span>
+                `;
+            }
+            
+            document.getElementById('margin-result').style.display = 'block';
+        }
+        
+        function calculateEfficiency() {
+            const revenue = parseFloat(document.getElementById('revenue-labor').value) || 0;
+            const labor = parseFloat(document.getElementById('labor-cost').value) || 0;
+            const lastRatio = parseFloat(document.getElementById('efficiency-last').value) || 0;
+            
+            if (revenue === 0 || labor === 0) return;
+            
+            const ratio = revenue / labor;
+            const status = getEfficiencyStatus(ratio);
+            
+            // Track trend
+            trendHistory.efficiency.push(ratio);
+            if (trendHistory.efficiency.length > 5) trendHistory.efficiency.shift();
+            
+            // Display results
+            document.getElementById('efficiency-ratio').textContent = ratio.toFixed(2);
+            document.getElementById('efficiency-status').textContent = status.text;
+            document.getElementById('efficiency-status').className = `status-indicator status-${status.class}`;
+            
+            // Show trend if comparing
+            if (currentPeriod !== 'current' && lastRatio > 0) {
+                const change = ((ratio - lastRatio) / lastRatio * 100).toFixed(1);
+                const trendClass = change > 0 ? 'trend-up' : change < 0 ? 'trend-down' : 'trend-flat';
+                const arrow = change > 0 ? '↑' : change < 0 ? '↓' : '→';
+                document.getElementById('efficiency-trend').innerHTML = `
+                    <span class="${trendClass}">${arrow} ${Math.abs(change)}% from last month</span>
+                `;
+            }
+            
+            document.getElementById('efficiency-result').style.display = 'block';
+        }
+        
+        function calculateProfit() {
+            const revenue = parseFloat(document.getElementById('revenue-profit').value) || 0;
+            const expenses = parseFloat(document.getElementById('expenses-total').value) || 0;
+            const lastProfit = parseFloat(document.getElementById('profit-last').value) || 0;
+            
+            if (revenue === 0) return;
+            
+            const profit = ((revenue - expenses) / revenue * 100);
+            const status = getProfitStatus(profit);
+            
+            // Track trend
+            trendHistory.profit.push(profit);
+            if (trendHistory.profit.length > 5) trendHistory.profit.shift();
+            
+            // Display results
+            document.getElementById('profit-percent').textContent = profit.toFixed(1) + '%';
+            document.getElementById('profit-status').textContent = status.text;
+            document.getElementById('profit-status').className = `status-indicator status-${status.class}`;
+            
+            // Show trend if comparing
+            if (currentPeriod !== 'current' && lastProfit !== 0) {
+                const change = profit - lastProfit;
+                const trendClass = change > 0 ? 'trend-up' : change < 0 ? 'trend-down' : 'trend-flat';
+                const arrow = change > 0 ? '↑' : change < 0 ? '↓' : '→';
+                document.getElementById('profit-trend').innerHTML = `
+                    <span class="${trendClass}">${arrow} ${Math.abs(change.toFixed(1))}% from last month</span>
+                `;
+            }
+            
+            document.getElementById('profit-result').style.display = 'block';
+        }
+        
+        function calculateAll() {
+            calculateCash();
+            calculateMargin();
+            calculateEfficiency();
+            calculateProfit();
+            generateAnalysis();
+        }
+        
+        function getRunwayStatus(months) {
+            if (months >= 6) return { class: 'excellent', text: 'Healthy' };
+            if (months >= 3) return { class: 'good', text: 'Adequate' };
+            if (months >= 2) return { class: 'warning', text: 'Tight' };
+            return { class: 'danger', text: 'Critical' };
+        }
+        
+        function getMarginStatus(margin) {
+            if (margin >= 60) return { class: 'excellent', text: 'Excellent' };
+            if (margin >= 40) return { class: 'good', text: 'Good' };
+            if (margin >= 25) return { class: 'warning', text: 'Low' };
+            return { class: 'danger', text: 'Poor' };
+        }
+        
+        function getEfficiencyStatus(ratio) {
+            if (ratio >= 3.0) return { class: 'excellent', text: 'Excellent' };
+            if (ratio >= 2.0) return { class: 'good', text: 'Profitable' };
+            if (ratio >= 1.5) return { class: 'warning', text: 'Break-even' };
+            return { class: 'danger', text: 'Unprofitable' };
+        }
+        
+        function getProfitStatus(profit) {
+            if (profit >= 20) return { class: 'excellent', text: 'Excellent' };
+            if (profit >= 10) return { class: 'good', text: 'Healthy' };
+            if (profit >= 5) return { class: 'warning', text: 'Thin' };
+            return { class: 'danger', text: profit < 0 ? 'Loss' : 'Marginal' };
+        }
+        
+        function generateAnalysis() {
+            // Get all current values
+            const cash = parseFloat(document.getElementById('cash-current').value) || 0;
+            const burn = parseFloat(document.getElementById('cash-burn').value) || 0;
+            const months = cash / burn;
+            
+            const revenue = parseFloat(document.getElementById('revenue-current').value) || 0;
+            const cogs = parseFloat(document.getElementById('cogs-current').value) || 0;
+            const margin = revenue > 0 ? ((revenue - cogs) / revenue * 100) : 0;
+            
+            const laborRevenue = parseFloat(document.getElementById('revenue-labor').value) || 0;
+            const labor = parseFloat(document.getElementById('labor-cost').value) || 0;
+            const efficiency = laborRevenue > 0 && labor > 0 ? laborRevenue / labor : 0;
+            
+            const profitRevenue = parseFloat(document.getElementById('revenue-profit').value) || 0;
+            const expenses = parseFloat(document.getElementById('expenses-total').value) || 0;
+            const profit = profitRevenue > 0 ? ((profitRevenue - expenses) / profitRevenue * 100) : 0;
+            
+            // Overall health
+            let healthScore = 0;
+            let healthIssues = [];
+            
+            if (months >= 3) healthScore++;
+            else healthIssues.push('cash runway under 3 months');
+            
+            if (margin >= 40) healthScore++;
+            else healthIssues.push('gross margin below 40%');
+            
+            if (efficiency >= 2.0) healthScore++;
+            else healthIssues.push('labor efficiency below 2.0');
+            
+            if (profit >= 10) healthScore++;
+            else healthIssues.push('profit margin below 10%');
+            
+            let healthMessage;
+            if (healthScore === 4) {
+                healthMessage = "All four metrics are healthy. You're in the top 10% of small businesses. Focus on scaling what's working.";
+            } else if (healthScore >= 2) {
+                healthMessage = `Business is stable but has weaknesses: ${healthIssues.join(', ')}. Fix these before scaling.`;
+            } else {
+                healthMessage = `Business health is poor. Critical issues: ${healthIssues.join(', ')}. Stop everything and fix these first.`;
+            }
+            
+            document.getElementById('health-content').textContent = healthMessage;
+            document.getElementById('overall-health').style.display = 'block';
+            
+            // Trend analysis (3-5 rule)
+            let trendMessage = "Track these metrics for 3-5 months to identify real trends. ";
+            
+            if (trendHistory.cash.length >= 3) {
+                const cashTrend = checkTrend(trendHistory.cash);
+                if (cashTrend === 'declining') {
+                    trendMessage += "WARNING: Cash has declined 3+ months in a row. ";
+                }
+            }
+            
+            if (trendHistory.margin.length >= 3) {
+                const marginTrend = checkTrend(trendHistory.margin);
+                if (marginTrend === 'declining') {
+                    trendMessage += "WARNING: Margins declining - check pricing and costs. ";
+                }
+            }
+            
+            if (trendMessage === "Track these metrics for 3-5 months to identify real trends. ") {
+                trendMessage += "Remember: One bad month is noise, 3-5 in a row is a trend that needs action.";
+            }
+            
+            document.getElementById('trend-content').textContent = trendMessage;
+            document.getElementById('trend-analysis').style.display = 'block';
+            
+            // Priority focus
+            let priority;
+            if (months < 3) {
+                priority = "CASH EMERGENCY: Nothing else matters until you have 3+ months runway. Cut costs, accelerate collections, or raise capital NOW.";
+            } else if (efficiency < 1.5) {
+                priority = "LABOR CRISIS: You're losing money on every dollar of labor. Either raise prices 20%+ or cut staff immediately.";
+            } else if (margin < 30) {
+                priority = "MARGIN PROBLEM: Your gross margin is too thin to build a real business. Raise prices or find cheaper suppliers.";
+            } else if (profit < 5) {
+                priority = "PROFIT FOCUS: You have a lifestyle business, not a sellable asset. Cut 'other expenses' by 10% or raise prices.";
+            } else {
+                priority = "SCALE MODE: Your fundamentals are solid. Time to grow - add marketing spend, hire salespeople, or expand offerings.";
+            }
+            
+            document.getElementById('priority-content').textContent = priority;
+            document.getElementById('priority-focus').style.display = 'block';
+            
+            // Critical warnings
+            let showWarning = false;
+            let warningMessage = '';
+            
+            if (months < 2) {
+                showWarning = true;
+                warningMessage = "Less than 60 days of cash. This is a CODE RED situation. You need emergency action today.";
+            } else if (efficiency < 1.0) {
+                showWarning = true;
+                warningMessage = "Your labor costs more than your revenue. You're paying people to lose money. This is unsustainable.";
+            } else if (profit < -10) {
+                showWarning = true;
+                warningMessage = "You're losing more than 10% on every dollar. At this rate, you'll be out of business in months.";
+            }
+            
+            if (showWarning) {
+                document.getElementById('warning-content').textContent = warningMessage;
+                document.getElementById('warning-box').classList.add('show');
+            } else {
+                document.getElementById('warning-box').classList.remove('show');
+            }
+        }
+        
+        function checkTrend(history) {
+            if (history.length < 3) return 'insufficient';
+            
+            let declining = true;
+            let rising = true;
+            
+            for (let i = 1; i < history.length; i++) {
+                if (history[i] >= history[i-1]) declining = false;
+                if (history[i] <= history[i-1]) rising = false;
+            }
+            
+            if (declining) return 'declining';
+            if (rising) return 'rising';
+            return 'mixed';
+        }
+    </script>
+</body>
+</html>
