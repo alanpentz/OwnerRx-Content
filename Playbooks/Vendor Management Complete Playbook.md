@@ -260,6 +260,26 @@ Add enterprise metrics:
 - Services requiring deep business knowledge
 - Low-volume or non-critical services
 
+### Vendor Risk Management Essentials
+
+**Critical Risk Categories:**
+- **Financial:** Vendor bankruptcy or instability
+- **Operational:** Capacity or delivery failures
+- **Quality:** Standards not met
+- **Compliance:** Regulatory violations
+- **Reputational:** Vendor scandal impact
+- **Geographic:** Location-based disruptions
+- **Technology:** System incompatibilities
+
+**Risk Mitigation Strategies:**
+- Always have backup vendor identified
+- Maintain adequate inventory buffers
+- Regular financial health checks
+- Contractual performance guarantees
+- Business continuity planning
+
+**Alan's Risk Wisdom:** "Any vendor that can shut you down needs a backup. The vendor who can shut down your business owns you. Never have a single point of failure."
+
 ### Multi-Supplier Implementation
 
 **The 70/30 Rule:**
@@ -634,6 +654,24 @@ Remember Alan's core insight: "Vendors are like employees, every time you double
 The goal isn't perfect vendor management—it's good enough vendor management that supports your growth without becoming a bottleneck. Use this playbook to build vendor relationships that scale with you, not against you.
 
 Your vendors should be accelerating your success, not limiting it. If they're not, it's time for an upgrade.
+
+---
+
+## Alan's Final Vendor Management Wisdom
+
+"Most business owners think vendor management is about getting the lowest price. That's like thinking business is about making the most revenue. It's not wrong, but it's incomplete and often destructive.
+
+Your vendors are either multiplying your capabilities or multiplying your problems. The difference is how you select and manage them. A great vendor at fair price beats a terrible vendor at great price every single time.
+
+Here's what I learned the hard way: The vendor who can shut down your business owns you. Never have a single point of failure. Always have a backup. Always have leverage.
+
+But also remember: Vendors are businesses too. The best vendor relationships are win-win. Share your success. Solve problems together. Build partnerships, not just purchase orders.
+
+The vendors who've been with me longest aren't the cheapest—they're the ones who've saved my ass when it mattered. They're the ones who brought me ideas that made me money. They're the ones who grew with me.
+
+Manage your vendors like you manage your team: Clear expectations, regular feedback, fair treatment, and quick action when standards aren't met.
+
+Remember: Every vendor relationship either makes your business stronger or weaker. There's no neutral. Choose wisely, manage actively, and always have a Plan B."
 
 ---
 

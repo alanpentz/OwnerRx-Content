@@ -1040,6 +1040,207 @@ THE TIMELINE:
 [Accountability schedule]
 ```
 
+## 13. ADVANCED STRATEGIC FRAMEWORKS
+
+### When Traditional Analysis Adds Value
+
+**For Tier 3 Organizations:** Large companies, complex businesses, or those with formal stakeholder requirements may need traditional strategic analysis tools beyond the Crux methodology.
+
+### PESTLE Environmental Analysis
+
+**Political Factors:**
+- Regulatory changes
+- Government policies
+- Political stability
+- Trade regulations
+- Tax policies
+
+**Economic Factors:**
+- Economic growth/recession
+- Interest rates
+- Inflation
+- Exchange rates
+- Unemployment
+
+**Social Factors:**
+- Demographics shifts
+- Cultural trends
+- Lifestyle changes
+- Education levels
+- Health consciousness
+
+**Technological Factors:**
+- Emerging technologies
+- Automation potential
+- Digital transformation
+- R&D activity
+- Technology adoption rates
+
+**Legal Factors:**
+- Employment laws
+- Consumer protection
+- Health and safety
+- Data protection
+- Antitrust regulations
+
+**Environmental Factors:**
+- Climate change
+- Sustainability requirements
+- Resource scarcity
+- Environmental regulations
+- Carbon footprint
+
+### VRIO Internal Analysis
+
+**Valuable:**
+- Does it provide value to customers?
+- Does it help exploit opportunities or neutralize threats?
+
+**Rare:**
+- How many competitors have this?
+- Is it difficult to obtain?
+
+**Inimitable:**
+- Is it hard to copy?
+- Are there barriers to imitation?
+
+**Organized:**
+- Can we capture the value?
+- Do we have systems to leverage it?
+
+```
+VRIO ANALYSIS MATRIX:
+
+Resource/Capability | Valuable | Rare | Inimitable | Organized | Result
+Strong Brand       |    ✓     |  ✓   |     ✓      |     ✓     | Sustained Advantage
+Customer List      |    ✓     |  ✗   |     ✗      |     ✓     | Competitive Parity
+Proprietary Tech   |    ✓     |  ✓   |     ✓      |     ✗     | Unused Advantage
+```
+
+### McKinsey 7S Framework
+
+**Hard Elements:**
+- Strategy
+- Structure
+- Systems
+
+**Soft Elements:**
+- Shared Values
+- Skills
+- Staff
+- Style
+
+All elements must align for effective strategy execution.
+
+### BCG Growth-Share Matrix
+
+```
+              HIGH GROWTH    |    LOW GROWTH
+HIGH          Stars          |    Cash Cows
+SHARE         (Invest)       |    (Harvest)
+              _______________|_______________
+LOW           Question Marks |    Dogs
+SHARE         (Decide)       |    (Divest)
+```
+
+### Ansoff Growth Matrix
+
+```
+              EXISTING PRODUCTS  |  NEW PRODUCTS
+EXISTING      Market            |  Product
+MARKETS       Penetration       |  Development
+              (Lowest Risk)     |  (Medium Risk)
+              __________________|_________________
+NEW           Market            |  Diversification
+MARKETS       Development       |  (Highest Risk)
+              (Medium Risk)     |
+```
+
+### Innovation Portfolio Management
+
+```
+INNOVATION HORIZON MODEL:
+
+Horizon 1 (70%): Core Business Innovation
+- Incremental improvements
+- Existing markets/products
+- 1-2 year payback
+
+Horizon 2 (20%): Emerging Opportunities
+- Adjacent markets/products
+- 2-5 year development
+- Higher risk/return
+
+Horizon 3 (10%): Transformational Bets
+- New business models
+- 5+ year horizon
+- Venture-like returns
+```
+
+### Vision, Mission, and Values Development
+
+**Vision Components:**
+- Future state (5-10 years)
+- Inspirational and aspirational
+- Clear and memorable
+- Ambitious but achievable
+- Emotionally engaging
+
+**Vision Template:**
+"To [achievement/impact] by [differentiator] so that [benefit to world]"
+
+**Mission Elements:**
+- Present tense (what we do now)
+- Specific and actionable
+- Defines scope
+- Identifies stakeholders
+- Guides decisions
+
+**Mission Template:**
+"We [what we do] for [who we serve] by [how we do it] to [impact we create]"
+
+**Values Framework:**
+```
+VALUE: [One word or phrase]
+DEFINITION: [Clear explanation]
+BEHAVIORS WE'LL SEE:
+- [Specific action 1]
+- [Specific action 2]
+- [Specific action 3]
+BEHAVIORS WE WON'T ACCEPT:
+- [Opposite action 1]
+- [Opposite action 2]
+```
+
+## 14. SCENARIO PLANNING AND RISK MANAGEMENT
+
+### Strategic Risk Assessment
+
+```
+STRATEGIC RISK MATRIX:
+
+Risk | Probability | Impact | Score | Mitigation
+Market shift | High | High | 9 | Diversification
+Key person loss | Medium | High | 6 | Succession planning
+Technology disruption | Medium | Medium | 4 | Innovation investment
+Economic downturn | Low | High | 3 | Cash reserves
+```
+
+### Scenario Planning Process
+
+**Scenario Development:**
+1. Identify key uncertainties
+2. Develop 3-4 plausible scenarios
+3. Assess impact on strategy
+4. Identify early indicators
+5. Develop contingency plans
+
+**Example Scenarios:**
+- **Growth**: Market expands rapidly
+- **Stagnation**: Market stays flat
+- **Disruption**: New technology changes game
+- **Crisis**: Major economic downturn
+
 ## CONCLUSION: YOUR STRATEGIC TRANSFORMATION
 
 ### The Strategic Leadership Moment
