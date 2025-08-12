@@ -68,6 +68,16 @@ This framework contains 15 universal business insights derived from real coachin
 
 **Coach's Wisdom:** "Focus on your #1 challenge. Don't optimize secondary issues while your main constraint is killing growth."
 
+**The Initiative Distraction Pattern:**
+When companies have 10+ initiatives but core KPIs declining:
+1. List all active initiatives
+2. Score each 1-10 on impact to biggest problem
+3. Pause everything scoring <7
+4. Resource concentration on top issue only
+5. No new initiatives until constraint resolved
+
+**Red Flag:** If you have CRM implementation, process mapping, website redesign, and training programs while your biggest customer is leaving, you're rearranging deck chairs on the Titanic.
+
 ---
 
 ### **Phase 2: Operational Efficiency (Months 3-6)**
@@ -150,6 +160,22 @@ This framework contains 15 universal business insights derived from real coachin
    - Revenue declines briefly noted but not investigated
    - Same operational issues appearing meeting after meeting
 
+**Meeting Effectiveness Scoring System:**
+After every leadership meeting, each participant rates (1-10):
+- **Clarity:** How clear were the decisions?
+- **Resolution:** Did we solve real problems?
+- **Honesty:** Did we address the real issues?
+- **Action:** Do we have clear next steps?
+- **Overall:** How effective was this meeting?
+
+**Scoring Standards:**
+- 8-10: Excellent - maintain this approach
+- 6-7: Acceptable - identify improvements
+- 4-5: Poor - immediate changes needed
+- <4: Crisis - external facilitation recommended
+
+**The Rule:** Any meeting scoring <6 requires immediate debrief
+
 ---
 
 #### 7. The 80% Solution
@@ -174,6 +200,16 @@ This framework contains 15 universal business insights derived from real coachin
 - Who owns each outcome?
 
 **Red Flag:** When everyone attends everything, no one owns anything.
+
+**Sales Leadership Competency Requirements:**
+Not every good employee can run sales. Required capabilities:
+- **Data Analysis Mindset:** Lives in metrics, not feelings
+- **Conflict Comfort:** Can have difficult customer conversations
+- **System Building:** Creates repeatable processes, not just relationships
+- **Strategic Thinking:** Sees patterns and opportunities
+
+**Warning Sign:** If revenue declining since person took role = wrong person
+**Common Mistake:** Promoting loyal employee to sales leadership without these skills
 
 ---
 
