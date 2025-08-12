@@ -122,6 +122,54 @@
 
 ## Tactical Playbooks
 
+### Playbook: Three-Bucket Cash Reserve System
+*Based on Elizabeth Gore (Hello Alice) insights - Even Michael Dell loses sleep over cash flow*
+
+#### When This Works:
+- **Best for**: Every business, regardless of size or industry
+- **Critical for**: Businesses experiencing growth or facing uncertainty
+- **The Paradox**: Cash problems are WORSE during growth than decline
+
+#### Prerequisites:
+- [ ] Separate bank accounts (can be sub-accounts)
+- [ ] Monthly profit calculation capability
+- [ ] Discipline to not raid reserves
+
+#### The Three Buckets:
+
+1. **Operating Reserve Bucket**
+   - **Target**: 2-3 months expenses (minimum), 6 months ideal
+   - **Purpose**: Daily operations and regular surprises
+   - **Review**: Weekly with cash position
+   - **Alert**: Immediate action if below 2 months
+   - **Growth Note**: Big orders (Walmart/Target) require MORE reserves, not less
+
+2. **Tax Reserve Bucket**
+   - **Target**: 30% of quarterly profit
+   - **Purpose**: Quarterly tax payments and year-end true-up
+   - **Review**: Monthly after books close
+   - **Action**: Auto-transfer monthly, never touch until tax time
+   - **Warning**: This is NOT your money - you're just holding it for the IRS
+
+3. **Distribution/Opportunity Bucket**
+   - **Target**: Everything above Buckets 1 & 2
+   - **Purpose**: Owner distributions OR growth investments
+   - **Review**: Monthly after other buckets filled
+   - **Decision**: Distribute to owners or reinvest strategically
+   - **Key**: Only touch AFTER other buckets are full
+
+#### Implementation by Resource Level:
+- 🚀 **Solo/Bootstrap**: Start with 2% of revenue to Operating Reserve weekly
+- 💰 **Resourced**: Automate transfers, hire bookkeeper to monitor
+- 🏢 **Scaled**: CFO manages with board-approved reserve policies
+
+#### Red Flags:
+- ⚠️ Using tax reserves for operations = path to IRS problems
+- 🚨 Growth without increasing reserves = cash crisis incoming
+- 💥 Natural disasters affect 2/3 of US counties - you NEED reserves
+
+---
+
 ### Playbook: 13-Week Cash Flow Forecasting
 *Every business can use this tactic - HOW you implement it depends on your resources*
 

@@ -68,7 +68,49 @@ Sub-pillar complete when: All domains score ≥6 and owner reports working withi
 
 ---
 
-## 5. SUB-PILLAR: Personal Superpower Discovery
+## 5. SUB-PILLAR: Owner Energy Optimization Framework
+
+### Sub-pillar name: Owner Energy Optimization Framework
+**Stage used:** 0-1
+
+### 5.1 Purpose
+Why this workflow matters: Identifies tasks that energize vs drain the owner to maximize productivity and prevent burnout. Based on real data showing 82% of owners spend 8+ hours/week on email alone.
+
+### 5.2 Data Needed
+- **From Owner Profile:** Current role activities, typical weekly schedule
+- **From Live Metrics:** Hours per task category, energy levels after activities, productivity scores
+- **From Workflow Knowledge:** Energy matrix framework (Energy vs Importance), delegation opportunities
+
+### 5.3 Personalization Questions (Step 4)
+1. "List 5 things you did yesterday - which gave you energy vs drained you?"
+2. "What tasks do you dread but still do yourself?"
+3. "When do you feel most productive and engaged?"
+4. "What would you do all day if it moved the business forward?"
+
+### 5.4 Diagnosis Logic (Step 5)
+- Map all regular tasks to 2x2 matrix:
+  - High Energy + High Importance = Gold Zone (maximize)
+  - Low Energy + High Importance = Delegate Zone (hire expertise)
+  - High Energy + Low Importance = Minimize Zone (limit time)
+  - Low Energy + Low Importance = Eliminate Zone (stop/automate)
+- Calculate % time in Gold Zone (target: 60%+)
+- Flag if Gold Zone < 20% as critical misalignment
+
+### 5.5 Outputs (Step 6)
+- **Deliverable:** Personal Energy Matrix with weekly time allocation
+- **Numeric score:** Gold Zone Time % (0-100)
+- **Task seeds:**
+  - "Block 2 hours this week for [highest energy + importance] activity"
+  - "Delegate [one low-energy task] by Friday"
+  - "Eliminate or automate [lowest value task] this week"
+  - "Say no to one request that falls outside your Gold Zone"
+
+### 5.6 Promotion Trigger
+Sub-pillar complete when: Gold Zone time ≥40% and owner reports 20% increase in energy levels
+
+---
+
+## 6. SUB-PILLAR: Personal Superpower Discovery
 
 ### Sub-pillar name: Personal Superpower Discovery
 **Stage used:** 0-1
