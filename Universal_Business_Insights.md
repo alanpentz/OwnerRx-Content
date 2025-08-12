@@ -337,6 +337,108 @@ Not every good employee can run sales. Required capabilities:
 
 ---
 
+#### 17. The Perfect Operations, No Growth Paradox
+**Pillar:** Sales & Marketing / Operations  
+**Problem:** Flawless operations with marketing leadership vacuum
+
+**The Pattern:**
+- Processes fully documented
+- Team running smoothly
+- Could handle 2x volume
+- But leads declining yearly
+- CEO doing tactical marketing
+
+**The Numbers:**
+- Revenue flat for years
+- Can scale to 200% capacity
+- Marketing = "throwing darts"
+- No attribution tracking
+
+**Universal Truth:** "We're ready to scale... we just need someone to bring us customers"
+
+**The Fix:**
+- Hire marketing leadership NOW
+- CEO stops tactical work
+- Systematic testing approach
+- Attribution and ROI tracking
+
+---
+
+#### 18. The Visionary-Implementer Partnership
+**Pillar:** Team / Personal Vision  
+**Problem:** How to structure complementary leadership
+
+**Visionary Role:**
+- Strategic thinking and brainstorming
+- Public speaking and relationships
+- Big picture and vision
+- External focus
+- Can leave for weeks
+
+**Implementer Role:**
+- Metrics and organization
+- Team management
+- Daily operations
+- Internal focus
+- Keeps things running
+
+**Success Formula:**
+- Clear role division
+- Mutual respect
+- Neither does what they hate
+- Regular strategic alignment
+- 15+ year partnerships common
+
+**Warning:** Both doing everything = both failing
+
+---
+
+#### 19. The Local Saturation vs Geographic Expansion Decision
+**Pillar:** Business Strategy  
+**Problem:** Whether to dominate locally or expand geographically
+
+**Local Saturation Advantages:**
+- Google reviews compound
+- Cross-sell existing customers
+- Lower acquisition costs
+- Brand recognition exists
+- Referral networks stronger
+
+**Geographic Expansion Advantages:**
+- Larger total market
+- Escape local competition
+- Fresh positioning opportunity
+- Scale potential higher
+
+**Decision Framework:**
+1. Have you saturated your backyard? (Usually NO)
+2. Is your differentiator geographic? (Usually NO)
+3. Can you afford dual focus? (Usually NO)
+
+**Coach's Rule:** "Why are you in Boston when you haven't saturated your hometown?"
+
+---
+
+#### 20. The Underserved Segment Goldmine
+**Pillar:** Sales & Marketing  
+**Problem:** Competing in oversaturated markets
+
+**The Opportunity:**
+- Competitors chase top 20%
+- 60% middle market ignored
+- Different messaging needed
+- Less price sensitive
+- More loyalty when served
+
+**Example Positioning:**
+- Competitors: "For straight-A students"
+- You: "For the rest of us"
+- Result: Immediate differentiation
+
+**Universal Truth:** "All the other parents are like 'I cannot get this kid to do anything.' Those are our customers."
+
+---
+
 ## Core Success Principles
 
 1. **Metrics Without Micromanagement**
@@ -391,6 +493,19 @@ Not every good employee can run sales. Required capabilities:
 - Constraint Focus Principle
 - Growth Readiness Test
 - "Spinning Top" Syndrome
+- Local Saturation vs Expansion Framework
+
+### **Marketing Leadership Playbook**
+- Marketing Leadership Vacuum
+- Underserved Segment Strategy
+- GPT Lead Magnet System
+- Attribution & ROI Tracking
+
+### **Partnership Dynamics Playbook**
+- Visionary-Implementer Model
+- Role Division Framework
+- Complementary Leadership
+- Long-term Partnership Success
 
 ---
 
