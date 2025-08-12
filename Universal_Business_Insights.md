@@ -99,8 +99,12 @@ This framework contains 15 universal business insights derived from real coachin
 
 **The Calculation:**
 1. Track owner operational hours weekly
-2. Value owner time at $200-500/hour (or 3x highest paid employee)
-3. Add to labor costs for true LER
+2. Value owner time using this formula:
+   - Base: Market rate for that role (what you'd pay an employee)
+   - Plus: 50-100% premium for opportunity cost
+   - Example: Operations Manager at $50/hr market rate = $75-100/hr owner cost
+   - Example: Delivery Driver at $25/hr market rate = $38-50/hr owner cost
+3. Add this true cost to labor costs for accurate LER
 4. Use this reality to justify first operational hire
 
 **Red Flags:**
