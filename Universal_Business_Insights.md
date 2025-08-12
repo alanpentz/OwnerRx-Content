@@ -238,18 +238,44 @@ Not every good employee can run sales. Required capabilities:
 
 ---
 
-#### 11. Founder Extraction Method
+#### 11. Owner Energy & Flow State Discovery
 **Pillar:** Personal Vision  
-**Progressive Steps:**
-1. Remove from all recurring meetings except leadership
-2. Delegate all prep work
-3. Only do final decision/performance
-4. Create systems for others to execute
-5. Focus on strategy and key relationships
+**Problem:** Owners doing draining work instead of energizing work
+
+**Discovery Questions:**
+- "When do you lose track of time?"
+- "What work energizes vs drains you?"
+- "What do others say you're amazing at?"
+- "What feels like play to you but work to others?"
+
+**Common Owner Flow States:**
+- **The Builder:** Creating systems, products, processes
+- **The Strategist:** Solving complex problems, seeing patterns
+- **The Connector:** Building relationships, partnerships
+- **The Innovator:** R&D, experimentation, new concepts
+- **The Deal Maker:** M&A, negotiations, growth strategies
+
+**Universal Truth:** "Your flow state activity is probably the most productive work you'll ever do"
+
+**The $100 vs $10,000 Hour Framework:**
+- **$100/Hour Work:** Admin, operations, routine tasks
+- **$10,000/Hour Work:** Strategy, innovation, key relationships
+- **The Test:** If it energizes you AND only you can do it = $10,000 work
 
 ---
 
-#### 12. ROI of Small Incentives
+#### 12. Founder Extraction Method
+**Pillar:** Personal Vision  
+**Progressive Steps:**
+1. Identify your energy/flow state work
+2. Remove from all recurring meetings except leadership
+3. Delegate all prep work
+4. Only do final decision/performance
+5. Focus 80% time on energy-giving activities
+
+---
+
+#### 13. ROI of Small Incentives
 **Pillar:** Team  
 **Principle:** Small rewards drive big behaviors when tied to company constraints
 
@@ -266,7 +292,7 @@ Not every good employee can run sales. Required capabilities:
 ### **Phase 4: Strategic Growth & Systems (Months 9-12)**
 *Focus: Preparing for scale and advanced optimization*
 
-#### 13. Growth Readiness Test
+#### 14. Growth Readiness Test
 **Pillar:** Business Strategy  
 **Before Hiring Senior Roles:**
 - Are current people at 100% capacity?
@@ -278,7 +304,7 @@ Not every good employee can run sales. Required capabilities:
 
 ---
 
-#### 14. "Spinning Top" Syndrome
+#### 15. "Spinning Top" Syndrome
 **Pillar:** Business Strategy  
 **Problem:** Retasking people daily makes them ineffective
 
@@ -290,7 +316,7 @@ Not every good employee can run sales. Required capabilities:
 
 ---
 
-#### 15. The AI Automation Breakthrough
+#### 16. The AI Automation Breakthrough
 **Pillar:** Operations  
 **Problem:** Manual processes consuming 4+ hours per batch, limiting growth capacity
 
@@ -311,7 +337,7 @@ Not every good employee can run sales. Required capabilities:
 
 ---
 
-#### 16. The Sales Success → Operations Crisis Pattern
+#### 17. The Sales Success → Operations Crisis Pattern
 **Pillar:** Sales & Marketing / Operations  
 **Problem:** Successful sales efforts overwhelm unprepared operations
 
@@ -337,7 +363,7 @@ Not every good employee can run sales. Required capabilities:
 
 ---
 
-#### 17. The Perfect Operations, No Growth Paradox
+#### 18. The Perfect Operations, No Growth Paradox
 **Pillar:** Sales & Marketing / Operations  
 **Problem:** Flawless operations with marketing leadership vacuum
 
@@ -364,7 +390,7 @@ Not every good employee can run sales. Required capabilities:
 
 ---
 
-#### 18. The Visionary-Implementer Partnership
+#### 19. The Visionary-Implementer Partnership
 **Pillar:** Team / Personal Vision  
 **Problem:** How to structure complementary leadership
 
@@ -393,7 +419,7 @@ Not every good employee can run sales. Required capabilities:
 
 ---
 
-#### 19. The Local Saturation vs Geographic Expansion Decision
+#### 20. The Local Saturation vs Geographic Expansion Decision
 **Pillar:** Business Strategy  
 **Problem:** Whether to dominate locally or expand geographically
 
@@ -419,7 +445,7 @@ Not every good employee can run sales. Required capabilities:
 
 ---
 
-#### 20. The Underserved Segment Goldmine
+#### 21. The Underserved Segment Goldmine
 **Pillar:** Sales & Marketing  
 **Problem:** Competing in oversaturated markets
 

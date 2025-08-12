@@ -183,7 +183,7 @@ This is your superpower - your highest value work
 - Innovation vs. Operation
 - External vs. Internal
 
-**Common Founder Flow States:**
+**Common Owner Energy Types:**
 1. **The Builder:** Creating new systems/products
 2. **The Dealer:** Doing deals and negotiations
 3. **The Strategist:** Solving complex problems
@@ -203,10 +203,10 @@ This is your superpower - your highest value work
 
 ---
 
-## The Flow State Catalog
+## The Owner Energy Catalog
 
 ### Example: The Systems Creator
-**Flow Triggers:**
+**Energy Triggers:**
 - New automation challenge
 - Process optimization
 - Building from scratch
@@ -219,7 +219,7 @@ This is your superpower - your highest value work
 - Sellable assets
 
 ### Example: The Deal Maker
-**Flow Triggers:**
+**Energy Triggers:**
 - M&A analysis
 - Negotiation dynamics
 - Partnership creation
@@ -232,7 +232,7 @@ This is your superpower - your highest value work
 - Exit opportunities
 
 ### Example: The Content Creator
-**Flow Triggers:**
+**Energy Triggers:**
 - Writing frameworks
 - Teaching concepts
 - Building audiences

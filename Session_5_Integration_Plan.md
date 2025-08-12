@@ -14,7 +14,7 @@
 
 **Major Themes Discovered:**
 1. **Money Scarcity Programming** - Childhood financial trauma creating investment paralysis
-2. **Flow State Discovery** - Finding what truly energizes founders
+2. **Owner Energy Discovery** - Finding what truly energizes founders (consolidated with existing Owner Energy concept)
 3. **Platform vs Exit Framework** - Using business as vehicle for purpose
 4. **The $100 vs $10,000 Hour Work** - Clear framework for delegation
 5. **The Progressive Fear Ladder** - Why security is never enough
@@ -23,13 +23,13 @@
 
 ## Proposed Integrations
 
-### 1. NEW PLAYBOOK CREATED: Money Mindset & Flow State Playbook
-**Status:** ✅ Already created
-**Location:** `/Playbooks/Money_Mindset_Flow_State_Playbook.md`
+### 1. NEW PLAYBOOK CREATED: Money Mindset & Owner Energy Playbook
+**Status:** ✅ Already created and consolidated
+**Location:** `/Playbooks/Money_Mindset_Owner_Energy_Playbook.md`
 
 **Contents:**
 - Breaking childhood money programming
-- Flow state discovery process
+- Owner energy discovery process (consolidated with existing concept)
 - Platform vs exit decision framework
 - Investment hierarchy
 - Implementation roadmap
@@ -50,12 +50,14 @@
 **Solution:** Identify origin story, calculate real cost, create abundance rules
 ```
 
-#### New Insight #22: The Flow State Discovery
+#### UPDATE: Enhanced Owner Energy Framework (Insight #11)
 ```
 **Pillar:** Personal Vision
-**Problem:** Founder doing draining work instead of energizing work
-**Discovery Process:** Energy audit → Pattern recognition → Game theory
-**Solution:** Restructure business around flow state activities
+**Already exists as Owner Energy concept - ENHANCED with:**
+- Deeper discovery questions
+- $100 vs $10,000 hour framework
+- Common energy types catalog
+- Game theory perspective
 ```
 
 #### New Insight #23: The $100 vs $10,000 Hour Framework
@@ -158,10 +160,10 @@ Solution: Recognize pattern and break it
 
 ## Questions for Approval
 
-1. **Should we add all three new insights to Universal Business Insights?**
-   - Money Scarcity Programming
-   - Flow State Discovery
-   - $100 vs $10,000 Hour Framework
+1. **Should we add these insights to Universal Business Insights?**
+   - Money Scarcity Programming (NEW)
+   - Owner Energy Discovery (ENHANCED - already exists)
+   - $100 vs $10,000 Hour Framework (INTEGRATED into Owner Energy)
 
 2. **Should we enhance existing playbooks with the sections mentioned?**
 
