@@ -654,6 +654,107 @@ Not every good employee can run sales. Required capabilities:
 
 ---
 
+#### 30. The Opportunity Board System
+**Pillar:** Business Strategy  
+**Problem:** Missing growth opportunities while stuck in operations
+
+**The Framework:**
+- Weekly Opportunity Board review fed by:
+  - Inbound inquiries
+  - Sales team feedback
+  - Operations insights
+  - Customer requests
+- 2-week validation sprints (no long studies)
+- Paid pilots only (no free POCs)
+- Clear decision gates: Scale, Park, or Kill
+
+**The Validation Sprint:**
+1. Package the offer (scope/outcomes)
+2. Set good/better/best pricing
+3. Sell 3-5 paid pilots
+4. Track: lead velocity, conversion, margin, delivery time, NPS
+5. Make decision by week 2
+
+**Why Owner Must Be Free:**
+- Requires strategic thinking time
+- Needs rapid customer interaction
+- Demands quick decision making
+- Can't happen if owner is in delivery
+
+**Universal Truth:** "Every week the owner spends in operations = growth opportunities missed forever"
+
+---
+
+#### 31. The Outputs → Outcomes Accountability Model
+**Pillar:** Team/Operations  
+**Problem:** Vague accountability leading to dropped balls
+
+**The Framework:**
+1. Define the Outcomes you need (e.g., "Happy Clients," "Cash Collected," "Quality Delivery")
+2. List the Outputs that create them (quotes, invoices, QA checks)
+3. Assign each person 1-3 Outcomes
+4. Make them responsible for all related Outputs
+5. Rebalance quarterly as you scale
+
+**Example Mapping:**
+- Outcome: "Happy Clients"
+- Outputs: Welcome call, project updates, issue resolution, satisfaction surveys
+- Owner: Client Success Manager
+- Review: Weekly outcome metrics, not task lists
+
+**The Shift:** Stop managing activities, start managing results
+
+---
+
+#### 32. Data-Driven Hiring Triggers
+**Pillar:** Team  
+**Problem:** Hiring based on feelings not facts
+
+**The Trigger Points:**
+- Owner in delivery >40% for 3+ consecutive weeks
+- Backlog growing for 2+ weeks
+- Lead response time >24 hours consistently
+- Customer satisfaction dropping below threshold
+- Team utilization >85% for a month
+
+**The Hiring Sequence:**
+1. First: Try freelancer/contractor
+2. Second: Part-time employee
+3. Third: Full-time only if sustained need
+4. Always: Start with clearly defined Outputs
+
+**The Math:**
+- Cost of owner in delivery = Owner hourly rate × delivery hours
+- Cost of new hire = Salary + benefits + training
+- Hire when: Owner opportunity cost > New hire cost
+
+---
+
+#### 33. The Delegation Blocker Solutions
+**Pillar:** Team  
+**Problem:** Known delegation blockers with no clear solutions
+
+**Blocker 1: "I don't know what to delegate"**
+- Solution: Write your Top 3 owner-only outcomes
+- Delegate everything else
+- If it's not Top 3, it's not yours
+
+**Blocker 2: "I feel guilty overloading the team"**
+- Solution: Track utilization data
+- Under 70% = Room to delegate
+- Over 85% = Time to hire
+- Let data drive decisions, not guilt
+
+**Blocker 3: "They can't do it as well as me"**
+- Solution: Pilot with tight SOPs
+- Weekly reviews for first month
+- Accept 80% quality initially
+- Upgrade person only after 3 documented failures
+
+**The Test:** If you've thought "I should delegate this" 3+ times, delegate it NOW
+
+---
+
 ## Core Success Principles
 
 1. **Metrics Without Micromanagement**

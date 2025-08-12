@@ -66,7 +66,36 @@ Most business owners either:
 4. Create monthly transfer rule (30% of profit)
 5. Schedule monthly distribution decision
 
-### 3. Back Office Audit
+### 3. Finance Role Split & SLAs
+
+#### The Clean Division of Labor
+
+**CPA/Tax Accountant Role:**
+- Tax preparation and filing
+- Tax strategy and planning
+- High-level financial advice
+- Annual financial review
+- Entity structure optimization
+
+**Bookkeeper Role:**
+- Monthly close by Day 10 (non-negotiable SLA)
+- Daily transaction categorization
+- Bank reconciliations
+- Accounts receivable/payable
+- Monthly financial statements
+
+**Key SLAs (Service Level Agreements):**
+- Books closed by Day 10 of following month
+- 13-week rolling cash flow forecast updated weekly
+- Unit economics tracked by product/service
+- Materiality threshold: <$1,000 = book and move on (don't let edge cases delay close)
+
+**Why This Split Matters:**
+- CPAs doing bookkeeping = Overpaying by 3-5x
+- Bookkeepers giving tax advice = Dangerous
+- Clear roles = Better service at lower cost
+
+### 4. Back Office Audit
 
 #### Cost Benchmarks
 - **Admin Costs Target:** < 10% of revenue (15% for regulated industries)
