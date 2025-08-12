@@ -521,6 +521,139 @@ Not every good employee can run sales. Required capabilities:
 
 ---
 
+#### 24. The One-to-Many Multiplier Principle
+**Pillar:** Business Strategy  
+**Problem:** Trading time for money linearly when leverage exists
+
+**The Discovery:**
+- Linear model: 1 resource unit = 1 customer = 1x revenue
+- Leveraged model: 1 resource unit = 10 customers = 3-10x revenue
+- Same resource investment, exponential return
+
+**Universal Applications:**
+- Professional Services: Individual consulting → Workshop delivery
+- Software: Custom development → Productized solutions
+- Education: 1-on-1 tutoring → Classroom instruction
+- Manufacturing: Custom orders → Batch production
+- Healthcare: Individual appointments → Group programs
+
+**The Test:** Can you deliver 80% of the value to 10 people in the same time as 1?
+
+---
+
+#### 25. The Ecosystem Customer Expansion
+**Pillar:** Sales & Marketing  
+**Problem:** One sale per customer relationship
+
+**The Framework:**
+1. Map the customer's network/stakeholders
+2. Identify adjacent problems you can solve
+3. Create complementary offerings
+4. Bundle without discounting
+5. Multiply value per acquisition
+
+**Examples:**
+- B2B: Serve multiple departments in same company
+- B2C: Serve multiple family members
+- SaaS: Expand to full team
+- Retail: Increase basket size systematically
+
+**The Math:** Same acquisition cost, 2-5x lifetime value
+
+---
+
+#### 26. The Vendor Performance Binary
+**Pillar:** Operations  
+**Problem:** Tolerating mediocre vendor performance
+
+**The Rule:**
+- Set specific, measurable KPIs
+- Review performance monthly
+- Either meeting KPIs or terminated
+- No "friendly but ineffective" vendors
+- Replace immediately when standards not met
+
+**Red Flags:**
+- "They're nice but not proactive"
+- Can't provide basic metrics
+- Always surprised by requirements
+- You're "tolerating" them
+- Excuses instead of results
+
+**Cost of Tolerance:** Thousands monthly plus opportunity cost
+
+---
+
+#### 27. The 4x Management Efficiency Rule
+**Pillar:** Finance  
+**Problem:** Admin/management costs destroying profitability
+
+**The Formula:**
+- Management Labor Efficiency Ratio (MLER) = Gross Margin ÷ Admin/Management Labor
+- Target: 4x minimum (generate $4 gross margin per $1 admin cost)
+- Below 4x: Need more revenue or less admin
+- Above 4x: Room to invest in infrastructure
+
+**Examples:**
+- $100K gross margin needs max $25K admin costs
+- $50K admin costs needs min $200K gross margin
+- Hiring $60K admin role needs $240K additional gross margin
+
+**The Truth:** Most businesses operate at 2-3x and wonder why they're not profitable
+
+---
+
+#### 28. The 80% Delegation Rule
+**Pillar:** Team  
+**Problem:** Waiting for perfect conditions to delegate
+
+**The Paralysis Pattern:**
+- "When I understand it completely"
+- "When I find the perfect person"
+- "When things slow down"
+- Result: Never happens
+
+**The 80% Solution:**
+- Delegate when you understand 80%
+- Delegate to someone 80% capable
+- Accept 80% quality initially
+- Iterate to improvement
+
+**The Math:**
+- Your hourly value: $200
+- Task time: 10 hours/week
+- Annual cost of not delegating: $104,000
+- Cost of "imperfect" delegation: $30,000
+- Net gain even at 80%: $74,000
+
+---
+
+#### 29. Commitment vs Transaction Psychology
+**Pillar:** Sales & Marketing  
+**Problem:** Transactional relationships create churn
+
+**Transaction Model:**
+- Pay as you go
+- Easy to stop
+- Low psychological investment
+- Price focused decisions
+
+**Commitment Model:**
+- Prepaid programs
+- Psychological investment created
+- Higher completion rates
+- Value focused decisions
+
+**The Shift:**
+- Frame as programs not sessions
+- Require upfront commitment
+- Build in milestones
+- Celebrate completions
+
+**Impact:** 2-3x better retention, improved cash flow, higher customer success
+
+---
+
 ## Core Success Principles
 
 1. **Metrics Without Micromanagement**
