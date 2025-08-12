@@ -290,6 +290,53 @@ Not every good employee can run sales. Required capabilities:
 
 ---
 
+#### 15. The AI Automation Breakthrough
+**Pillar:** Operations  
+**Problem:** Manual processes consuming 4+ hours per batch, limiting growth capacity
+
+**The Journey:**
+- **Day 1-2:** Install VS Code and Python during coffee breaks
+- **Week 1-2:** Learn basics through ChatGPT/Claude
+- **Day of Truth:** 8-hour struggle session
+- **Hour 6:** Ready to quit
+- **Hour 8:** Breakthrough - process reduced to 10 minutes
+
+**Universal Truth:** "I was ready to quit at lunch. Might as well waste the rest of the day and see what happens."
+
+**The ROI:**
+- 4 hours → 10 minutes per batch
+- 52 batches/year = 208 hours saved
+- Zero ongoing software costs
+- Knowledge captured in code
+
+---
+
+#### 16. The Sales Success → Operations Crisis Pattern
+**Pillar:** Sales & Marketing / Operations  
+**Problem:** Successful sales efforts overwhelm unprepared operations
+
+**The Pattern:**
+- Sales lands multiple large accounts
+- Operations can't scale fast enough
+- Quality suffers, customers complain
+- Sales success becomes business failure
+
+**The Numbers:**
+- 35-40% growth in pipeline
+- Can't quote RFQs fast enough
+- Could hire 2 people immediately
+- 4+ hour manual processes per order
+
+**The Solution:**
+- **Fix processes BEFORE scaling sales**
+- **Automate first, hire second**
+- **Build capacity ahead of demand**
+- **Sales and Ops must plan together**
+
+**Warning Sign:** "We're so busy we can't deliver" = broken growth model
+
+---
+
 ## Core Success Principles
 
 1. **Metrics Without Micromanagement**
@@ -307,6 +354,12 @@ Not every good employee can run sales. Required capabilities:
 5. **People Problems are Usually System Problems**
    "Fix the structure before blaming the person"
 
+6. **Automate Before You Delegate**
+   "Why pay someone to do what code can do forever?"
+
+7. **Sales Success Requires Operations Readiness**
+   "Great sales with broken operations = customer loss"
+
 ---
 
 ## Playbook Organization
@@ -321,6 +374,12 @@ Not every good employee can run sales. Required capabilities:
 - Meeting Optimization System
 - 80% Solution
 - Org Chart Reality Check
+
+### **AI Automation Quick Start Playbook**
+- The VS Code Moment
+- 8-Hour Breakthrough Method
+- Process Automation Framework
+- Enterprise Software Replacement
 
 ### **Leadership Liberation System Playbook**
 - The Autonomy Test
