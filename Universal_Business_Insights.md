@@ -88,7 +88,34 @@ This framework contains 15 universal business insights derived from real coachin
 
 ---
 
-#### 6. Meeting Optimization System
+#### 6. Labor Efficiency Reality Check - Hidden Owner Labor
+**Pillar:** Operations/Finance  
+**The Hidden Cost:** When owners work IN the business, true labor efficiency is masked
+
+**The Math That Lies:**
+- **Apparent Direct Labor Efficiency:** 8x or higher (looks fantastic!)
+- **Reality:** Owner working weekends and evenings doing direct work
+- **True Efficiency:** Often 2.5-3x when owner labor valued properly
+
+**The Calculation:**
+1. Track owner operational hours weekly
+2. Value owner time at $200-500/hour (or 3x highest paid employee)
+3. Add to labor costs for true LER
+4. Use this reality to justify first operational hire
+
+**Red Flags:**
+- LER above 5x usually means owner is subsidizing
+- Owner doing direct delivery/service work past $1M revenue
+- "Great margins" but owner exhausted
+
+**The Fix:** 
+- Separate owner strategic time from operational time
+- Calculate true cost to show hiring ROI
+- Target: Owner operational time <20% by $2M revenue
+
+---
+
+#### 7. Meeting Optimization System
 **Pillar:** Operations  
 *Combined: Meeting Efficiency Framework + Meeting Purpose Test*
 
@@ -106,6 +133,18 @@ This framework contains 15 universal business insights derived from real coachin
 **If None Apply:** Cancel the meeting
 
 **Key Principle:** "If two leaders are in the same operational meeting, something's wrong."
+
+**AI-Powered Meeting Analysis Enhancement:**
+1. Record all leadership meetings (with consent)
+2. Upload transcripts to ChatGPT/Claude
+3. Key prompts to use:
+   - "What important issues were mentioned but not fully addressed?"
+   - "What revenue impacts are being ignored?"
+   - "What patterns show up repeatedly without resolution?"
+4. Common discoveries:
+   - Major customer problems mentioned once, never revisited
+   - Revenue declines briefly noted but not investigated
+   - Same operational issues appearing meeting after meeting
 
 ---
 

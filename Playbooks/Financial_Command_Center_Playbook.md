@@ -159,6 +159,77 @@ Most business owners either:
 - **Cash Conversion = DSO + Inventory Days - DPO**
 - **Operating Reserve Months = Cash ÷ Monthly Burn Rate**
 
+## The Equipment Purchase Validation Framework
+*Prevent impulsive buying when cash flow improves*
+
+### The Problem Pattern
+- Strong quarters create false confidence in gut decisions
+- Extra cash triggers "expansion fever" before strategy is clear
+- Equipment purchases feel productive but may not drive revenue
+- Success makes everything look like an opportunity
+
+### The Solution: Data-Driven Equipment Decisions
+
+#### Before ANY equipment purchase over $5,000:
+1. **Test Market Demand**
+   - Run $200-500 in targeted ads to test interest
+   - Track inquiries and conversion rates
+   - Compare to existing equipment performance
+
+2. **Customer Validation**
+   - Call 10 existing customers for feedback
+   - Ask: "Would this help you buy more from us?"
+   - Get specific use cases and frequency estimates
+
+3. **Full ROI Calculation**
+   - Include ALL costs: purchase, storage, maintenance, insurance
+   - Calculate utilization rate needed for profitability
+   - Compare to alternative investments (marketing, hiring, systems)
+
+4. **Success Metrics**
+   - Target: 50% ROI within 12-24 months
+   - Monthly revenue per equipment dollar invested
+   - Utilization rate minimum: 40% in first year
+
+### Red Flags to Stop Purchase:
+- ⚠️ Making decision within 48 hours of idea
+- ⚠️ Justifying with "everyone else has one"
+- ⚠️ No customer has specifically asked for it
+- ⚠️ Would be your only asset in that category
+- ⚠️ Buying because you have cash, not because you have demand
+
+---
+
+## The Seasonal Cash Trap
+*Why successful businesses run out of money*
+
+### The Behavioral Pattern
+Seasonal and cyclical businesses consistently misinterpret temporary cash abundance as permanent prosperity.
+
+### The Destructive Cycle:
+- **Q1:** Strong cash position from busy season
+- **Q2:** "We're killing it!" mindset triggers spending
+  - New equipment purchases
+  - Increased owner distributions  
+  - Deferred maintenance suddenly approved
+  - Office/facility upgrades
+- **Q3:** Cash crunch when slow season hits
+- **Q4:** Scramble to rebuild reserves, stress on team
+
+### The Discipline Framework:
+1. **Set Cash Floor:** Minimum 2 months expenses regardless of balance
+2. **Automate Reserves:** Transfer to savings before you see it
+3. **Review History:** Check last year's pattern before any major spending
+4. **Seasonal Adjustment:** Add 50% to reserve target for seasonal businesses
+
+### Implementation:
+- Calculate your slowest 3-month period from last year
+- Set reserves to cover 100% of that period's expenses
+- Create separate "Equipment Fund" - only buy from this account
+- Require 30-day cooling period for purchases over $10,000
+
+---
+
 ## Action Items Checklist
 
 ### Immediate (Today)

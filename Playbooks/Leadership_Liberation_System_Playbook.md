@@ -223,6 +223,30 @@ Your final list should only include:
 4. **Insufficient Documentation:** Record everything first time
 5. **Moving Too Fast:** Follow the progression path
 
+### The Leadership Rhythm Crisis
+**When Personal Challenges Disrupt Business Leadership**
+
+**The Pattern:** Personal crisis leads to "checking out" mentally
+- Skip weekly meetings during family emergencies
+- Summer/holiday drift from leadership duties
+- Team makes autonomous decisions without alignment
+- Momentum lost takes months to rebuild
+
+**The Minimum Viable Leadership Standard:**
+- **Never skip more than 2 consecutive weekly meetings**
+- **30-minute check-in better than nothing**
+- **Record meetings for later review if absent**
+- **Assign temporary meeting leader if needed**
+
+**Recovery Protocol:**
+1. Acknowledge the drift openly with team
+2. Reset with shortened meetings if needed
+3. Focus only on top 3 issues initially
+4. Rebuild rhythm before adding complexity
+5. Use AI to analyze missed patterns
+
+**Quote from the Field:** "We fell off meetings over the summer... everyone needs two things: goals and numbers"
+
 ## Tools & Resources
 
 ### Delegation Tools
