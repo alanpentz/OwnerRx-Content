@@ -755,6 +755,138 @@ Not every good employee can run sales. Required capabilities:
 
 ---
 
+#### 34. The Time-Span of Work Hierarchy
+**Pillar:** Team  
+**Problem:** Promoting doers to managers without checking capability
+
+**The Hierarchy:**
+- Individual Contributor: Hours/Days focus
+- Manager: Weeks/Months planning
+- Director: Quarters/Years strategy
+- Executive: Years/Decades vision
+
+**The Evaluation:**
+- Can they plan at the required horizon?
+- Do they deliver on multi-week commitments?
+- Can they see around corners?
+- Do they think in systems not tasks?
+
+**The Rule:** If someone can't operate at the required time horizon, don't shrink the role to fit them - upgrade the person
+
+**Common Mistake:** Great individual contributor promoted to manager, still thinking in daily tasks not weekly systems
+
+---
+
+#### 35. The Partner Cadence System
+**Pillar:** Sales & Marketing  
+**Problem:** Referral partnerships die from neglect
+
+**The Framework:**
+**Monthly:** Admin-to-admin operational sync
+- Referrals sent/received/scheduled/started
+- Process blockers identified
+- Quick fixes implemented
+
+**Quarterly:** Leadership strategic review
+- One-slide update: outcomes + asks
+- Relationship temperature check
+- Strategic alignment confirmation
+
+**Always Required:**
+- Named owner on each side
+- One-pager + FAQ collateral
+- "How to refer" documentation
+- Manual backup for tech failures
+
+**Universal Truth:** "Cadence beats heroics - boring consistency creates compound results"
+
+---
+
+#### 36. The Marketing Asset Ownership Rule
+**Pillar:** Sales & Marketing  
+**Problem:** Agencies holding your marketing hostage
+
+**The Non-Negotiables:**
+- All campaigns in YOUR ad accounts
+- All pixels/tracking in YOUR name
+- All data accessible to YOU
+- Weekly written reports required
+- Monthly full export capability
+
+**The Agency SLA:**
+"Campaigns run in our accounts with our tracking. Weekly update by Friday: spend, CTR, CPC, conversion rate, cost per lead, top keywords, tests run, next week's plan. Monthly export of all campaign data. We own everything."
+
+**Red Flag Phrases:**
+- "We run everything through our account"
+- "Our proprietary system doesn't allow exports"
+- "Trust us, we're the experts"
+- "You don't need to see that level of detail"
+
+**The Test:** Can you fire them today and keep running ads tomorrow?
+
+---
+
+#### 37. The Launch Gates Framework
+**Pillar:** Operations  
+**Problem:** Perpetual "almost ready" syndrome
+
+**The Binary Gates (all must be green):**
+1. Process tested end-to-end (mystery shopped)
+2. SOPs written and team trained
+3. Reporting/tracking systems live
+4. Customer collateral approved
+5. Day 1 escalation plan documented
+6. Launch communication scheduled
+
+**The Rules:**
+- Gates are binary: done or not done
+- No "90% complete" allowed
+- All gates green = launch
+- Any gate red = set new date ONCE
+- Second delay = kill or force launch
+
+**Example Launch Checklist:**
+- [ ] Intake tested with real scenario
+- [ ] Scripts finalized and practiced
+- [ ] Tracking from lead to completion
+- [ ] Materials live on website
+- [ ] Support coverage for week 1
+- [ ] Partner/team communications sent
+
+---
+
+#### 38. The Microtask Extraction Method
+**Pillar:** Team  
+**Problem:** Owner stuck doing because it's faster than explaining
+
+**The Three-Phase Process:**
+
+**Phase 1: Expose (one time only)**
+- Owner does task while recording/documenting
+- Manager shadows and takes notes
+- Every step captured, no matter how small
+
+**Phase 2: Transfer**
+- Manager writes the SOP from notes
+- Owner reviews ONCE for accuracy
+- Manager does task with owner watching ONCE
+
+**Phase 3: Own**
+- Manager owns task completely
+- Owner NEVER touches again
+- Manager trains others if needed
+
+**The Cardinal Rule:** If owner does it twice, the extraction failed
+
+**Common Failures:**
+- "Just this once" (becomes every time)
+- "It's faster if I do it" (forever trap)
+- "They're not ready" (they'll never be)
+
+**The Test:** Count how many times owner repeats "extracted" tasks - should be zero
+
+---
+
 ## Core Success Principles
 
 1. **Metrics Without Micromanagement**
