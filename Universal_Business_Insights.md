@@ -1195,6 +1195,97 @@ Always maintain TWO owned channels:
 
 ---
 
+#### 49. The Owner-Led Selling Power
+**Pillar:** Sales & Marketing  
+**Problem:** Sales team can't close like the founder
+
+**The Reality in B2B Under $5M:**
+- Founders close 2-3x faster than sales reps
+- Technical buyers want to talk to the owner
+- Credibility and passion can't be replicated
+- Vision and flexibility close deals
+
+**The Progression:**
+1. Owner leads all sales (startup to $1M)
+2. Owner + sales support ($1-3M)
+3. Sales team with owner on key deals ($3-5M)
+4. Full handoff only after repeatable motion ($5M+)
+
+**The Handoff Criteria:**
+- 20+ similar deals closed by owner
+- Clear buyer personas documented
+- Objection handling mapped
+- Pricing model proven
+- Sales playbook written from experience
+
+**The Mistake:** Hiring sales too early and wondering why they can't close
+
+**Universal Truth:** "In early B2B, the founder IS the product"
+
+---
+
+#### 50. Experience as the Differentiator
+**Pillar:** Sales & Marketing  
+**Problem:** Competing on features/price in commoditized markets
+
+**The Experience Differentiators:**
+- Speed of response (minutes not days)
+- Direct access to decision makers
+- Collaborative problem-solving approach
+- Proactive communication
+- Flexibility and customization
+- Personal relationship
+
+**How to Market Experience:**
+- Don't say "great service" - everyone says that
+- Show it through actual interactions
+- Let first touchpoint demonstrate speed
+- Share specific response time metrics
+- Feature customer collaboration stories
+- Make them feel it before they buy
+
+**Examples That Work:**
+- "Text the owner directly"
+- "Quote in 2 hours, not 2 weeks"
+- "We'll join your design review"
+- "Fixed point of contact who knows your business"
+
+**The Test:** Can customers describe your experience difference without prompting?
+
+---
+
+#### 51. Swing Labor Risk Mitigation
+**Pillar:** Team  
+**Problem:** Hiring permanent staff for uncertain demand
+
+**The Swing Labor Strategy:**
+- Use temp/contract workers for 30-60 days first
+- Test if demand is real and sustainable
+- Convert to permanent only after proven
+- Keep a bench of proven temps for surges
+
+**When to Use Swing Labor:**
+- New contract or customer onboarding
+- Seasonal demand spikes
+- Testing new service lines
+- Covering leave or transitions
+- Uncertain economic conditions
+
+**The Economics:**
+- Temp premium: 20-30% higher hourly
+- Bad hire cost: 1.5-2x annual salary
+- Severance risk: 3-6 months salary
+- Swing labor wins if demand uncertain
+
+**The Conversion Formula:**
+- 30 days sustained demand = Consider permanent
+- 60 days sustained = Make offer
+- 90 days sustained = Should already be permanent
+
+**Common Mistake:** Going straight to permanent hire and laying off 3 months later
+
+---
+
 ## Core Success Principles
 
 1. **Metrics Without Micromanagement**
