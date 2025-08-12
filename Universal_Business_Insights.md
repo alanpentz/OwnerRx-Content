@@ -465,6 +465,62 @@ Not every good employee can run sales. Required capabilities:
 
 ---
 
+#### 22. The Money Guilt Complex
+**Pillar:** Personal Vision  
+**Problem:** Feeling "dirty" about wanting financial success
+
+**The Internal Conflict:**
+- "We're doing good for the world"
+- "We're helping people/society"
+- "But wanting $5M seems dirty"
+- Purpose and profit feel opposing
+
+**The Reality Check:**
+- Money is byproduct, not goal
+- Purpose drives profit
+- Do what energizes you, money follows
+- Financial success enables greater impact
+
+**Coach's Wisdom:** "If money is your only goal, you will not be happy because there's always more money"
+
+**The Solution:**
+- Identify your true purpose
+- Set financial goals without guilt
+- View money as fuel for mission
+- Break childhood money programming
+
+---
+
+#### 23. The Darth Vader's Admiral Syndrome
+**Pillar:** Team  
+**Problem:** Setting good people up to fail in undefined roles
+
+**The Pattern:**
+- Ambitious, capable person in one area
+- Promoted to undefined/impossible role
+- No clear success framework
+- Inevitable failure and departure
+
+**The Confession:**
+- "I've done this three times"
+- "All awesome young people"
+- "Good at something, had potential"
+- "Didn't know how to structure the role"
+- "Called it being Darth Vader's Admiral"
+
+**Universal Truth:** "Great job for a while, but you're going to get killed at some point"
+
+**The Prevention:**
+- Define role completely BEFORE promotion
+- Set clear, achievable metrics
+- Create success framework
+- Regular reality checks
+- Exit path if not working
+
+**Red Flag:** If you've done this multiple times, it's a systematic problem, not a people problem
+
+---
+
 ## Core Success Principles
 
 1. **Metrics Without Micromanagement**

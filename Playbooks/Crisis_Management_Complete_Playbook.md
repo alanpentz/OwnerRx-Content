@@ -608,6 +608,152 @@ Evening:
 - Public messaging
 - Rumor management
 
+### Leadership Breaking Point Crisis
+
+**When a Key Leader Cracks Under Pressure**
+
+This is a special type of crisis that requires immediate intervention and specific protocols.
+
+**The Warning Signs (4-Week Pattern):**
+- Week 1: Increased stress, longer hours
+- Week 2: Missing targets, scrambling
+- Week 3: Visible exhaustion, mistakes increasing
+- Week 4: Emotional breakdown
+
+**The Breaking Point Moment:**
+- "I can't do this" (often with tears)
+- Public failure in front of team
+- Complete loss of confidence
+- Unable to make decisions
+- Team sees the breakdown
+
+**Immediate Response Protocol:**
+
+**Hour 1-2: Stabilize**
+- Remove from current responsibilities immediately
+- Private conversation: "You're valuable, role isn't working"
+- No decisions while emotional
+- Send home for the day
+- Cover their responsibilities
+
+**Day 1-2: Assess**
+- Is this burnout or role mismatch?
+- Can they recover in current role?
+- What's the team impact?
+- Flight risk assessment
+- Document the situation
+
+**Day 3-5: Restructure**
+
+**Option A: Role Redesign (if salvageable)**
+- Move to different department
+- Reduce scope dramatically
+- Change reporting structure
+- Clear success metrics
+- 90-day recovery plan
+
+**Option B: Managed Exit (if unsalvageable)**
+- "Scene of the crime" principle applies
+- Generous severance (they tried)
+- Help them save face
+- Transition plan for duties
+- Reference agreement
+
+**The Scene of the Crime Principle:**
+*"When someone fails publicly in a role, they usually can't recover in that organization. They're at the scene of the crime - everyone remembers the failure."*
+
+**Team Communication Script:**
+"[Name] has been carrying a huge load and needs to focus on [new area/transition]. We're restructuring to better support our growth. [Name] will be [new role/transitioning] and [new person/interim plan] will handle [responsibilities]."
+
+### The Darth Vader's Admiral Prevention System
+
+**How to Stop Setting Good People Up to Fail**
+
+**The Pattern to Break:**
+- See high performer in one area
+- Promote to undefined leadership role
+- No clear success metrics
+- They struggle and fail
+- You wonder why this keeps happening
+
+**Pre-Promotion Checklist:**
+```
+BEFORE PROMOTING ANYONE:
+
+□ Role completely defined (not "figure it out")
+□ Success metrics crystal clear
+□ Authority matches responsibility
+□ Resources adequate for success
+□ Development plan in place
+□ Exit strategy if not working
+□ 90-day check-in scheduled
+```
+
+**The Role Definition Framework:**
+
+**Must Define Before Day 1:**
+- Specific responsibilities (not "everything")
+- Clear decision rights
+- Budget authority
+- Team structure
+- Performance metrics
+- Reporting relationships
+
+**Red Flag: Vague Role Descriptions**
+- "Help with sales and marketing"
+- "Be my right hand"
+- "Figure out what we need"
+- "Wear many hats"
+- "Jack of all trades"
+
+These are death sentences for good people.
+
+**The 90-Day Reality Check:**
+- Week 2: Initial adjustment check
+- Week 4: First milestone review
+- Week 8: Mid-point assessment
+- Week 12: Success/pivot decision
+
+**If someone is struggling at Week 8, they won't magically improve. Make the change.**
+
+### Crisis Leadership Strategies
+
+**Leading When Everything's on Fire**
+
+**The Emotional Management Framework:**
+
+**For Yourself:**
+- Face reality in private first
+- Process emotions before team meetings
+- Find one confidant outside company
+- Maintain exercise routine
+- Sleep minimum 6 hours
+
+**For Your Team:**
+- Acknowledge the difficulty
+- Share facts not fears
+- Provide specific roles
+- Celebrate small wins
+- Protect from chaos
+
+**The Crisis Communication Rhythm:**
+- Morning: Energy and focus injection
+- Midday: Quick wins celebration
+- Evening: Tomorrow's clear priorities
+- Weekly: Bigger picture progress
+- As needed: Major updates
+
+**Maintaining Confidence While Acknowledging Reality:**
+
+**Say This:** "This is tough, here's our plan, we can do this"
+**Not This:** "Everything's fine" (when it's not)
+
+**Say This:** "We have 6 weeks of runway, here's how we extend it"
+**Not This:** "Don't worry about the finances"
+
+**Say This:** "I need your help with X specific thing"
+**Not This:** "Figure out how to save us"
+
 ## 7. CRISIS PREVENTION AND PREPARATION
 
 ### Essential Crisis Preparations
