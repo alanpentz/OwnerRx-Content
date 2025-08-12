@@ -887,6 +887,148 @@ Not every good employee can run sales. Required capabilities:
 
 ---
 
+#### 39. Data Hygiene Before Forecasting
+**Pillar:** Finance  
+**Problem:** Building forecasts on garbage data
+
+**The Reconciliation Requirement:**
+- CRM opportunities must match sales reports
+- ERP bookings must match financial records
+- Customer lists must match across systems
+- Historical data must be clean before projecting
+
+**The Simple Formula:**
+```
+Next Month = Current Bookings 
+            + Weighted Pipeline 
+            - Expected Churn
+```
+
+**The Rule:** No forecasting until three data sources agree
+
+**Common Failures:**
+- CRM shows $500K pipeline, finance shows $300K
+- Sales claims 50 customers, billing shows 35
+- Forecast assumes 90% close rate, history shows 30%
+
+**Fix First, Forecast Second:** 3 hours cleaning data saves 30 hours of bad decisions
+
+---
+
+#### 40. Installed Base Exploitation (ABM Over Spray-and-Pray)
+**Pillar:** Sales & Marketing  
+**Problem:** Hunting new while ignoring gold in existing accounts
+
+**The Account Mining Map:**
+1. List top 20% of accounts by revenue
+2. Calculate current share of wallet
+3. Identify adjacent products/services they need
+4. Map all decision makers by department
+5. Score expansion probability (High/Medium/Low)
+
+**The Playbook:**
+- Dormant account reactivation campaign
+- Cross-sell to other departments
+- Upsell to premium tiers
+- Executive relationship building
+- Reference and referral harvesting
+
+**The Math:**
+- Cost to expand existing account: $X
+- Cost to acquire new account: $5-10X
+- Success rate existing: 60-70%
+- Success rate new: 10-20%
+
+**Universal Truth:** "Your next million is hiding in your current customer list"
+
+---
+
+#### 41. The Switching Friction Framework
+**Pillar:** Sales & Marketing  
+**Problem:** Competing on features in mature markets
+
+**The Switch Kit Components:**
+1. **Migration Assistance:** We'll move your data/setup
+2. **Validation Documents:** Prove it works in your environment
+3. **Pilot Terms:** Try with low risk
+4. **Reliability Proof:** Case studies from similar switches
+5. **Strategic Pricing:** Only if everything else is equal
+
+**The Psychology:**
+- Switching cost isn't price - it's fear
+- Fear of disruption, failure, looking bad
+- Remove fear = remove friction = win deal
+
+**The Pitch Shift:**
+- Old: "We have better features"
+- New: "We make switching painless"
+
+**Test:** Can customer switch in 30 days with zero downtime?
+
+---
+
+#### 42. The Emerging Demand Radar
+**Pillar:** Business Strategy  
+**Problem:** Missing new opportunities while defending old ground
+
+**The Quarterly Radar Review:**
+
+**Inputs to Monitor:**
+- Conference themes and hot topics
+- Key opinion leader discussions
+- Early adopter requests
+- Competitor pivots
+- Technology shifts
+- Regulatory changes
+
+**The Process:**
+1. Maintain hypothesis list (10-15 items)
+2. Assign "scout" to each area
+3. Monthly 15-minute updates
+4. Quarterly deep dive (2 hours)
+5. Pick 1-2 to test with rapid prototypes
+
+**The Rapid Custom Pipeline:**
+- Small team (2-3 people)
+- 2-week sprint capability
+- Direct to 3-5 beta customers
+- Go/No-go in 30 days
+
+**Owner Requirement:** This dies without owner involvement - can't delegate vision
+
+---
+
+#### 43. The Growth Strategy Choice Matrix
+**Pillar:** Business Strategy  
+**Problem:** Pursuing growth strategy misaligned with life goals
+
+**Path A: Big & Fast Growth**
+- Requires: M&A, capital, price wars
+- Creates: High stress, equity dilution
+- Timeline: 3-5 year sprint
+- Exit: Usually required
+- Life Impact: All-consuming
+
+**Path B: Profitable & Sustainable**
+- Requires: Operational excellence, patience
+- Creates: Cash flow, flexibility
+- Timeline: 10+ year journey
+- Exit: Optional
+- Life Impact: Balanced possible
+
+**The Decision Framework:**
+1. What does success look like in 5 years?
+2. How much stress can you sustain?
+3. Do you want to run it or sell it?
+4. Is this your identity or your vehicle?
+5. What would make you proud at 65?
+
+**The Trap:** Defaulting to "big & fast" because it seems impressive
+
+**The Truth:** "Most owners are happier with profitable & sustainable but feel guilty choosing it"
+
+---
+
 ## Core Success Principles
 
 1. **Metrics Without Micromanagement**
