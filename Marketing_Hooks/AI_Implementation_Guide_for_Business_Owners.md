@@ -1,3 +1,21 @@
+<!-- META
+Dependencies:
+- Digital_Transformation_Complete_Playbook.md (AI-first approach, daily LLM usage, custom GPTs)
+- Financial_Automation_Complete_Playbook.md (automation philosophy, task value analysis)
+- Leadership_Development_Complete_Playbook.md (AI-powered playbooks, role documentation)
+- Operations_Scaling_Complete_Playbook.md (bottleneck identification, process documentation)
+- Time_Management_Systems_Complete_Playbook.md (task value framework: $10/$100/$1000/hour)
+- Universal_Business_Insights.md (various efficiency and automation insights)
+
+Last Updated: 2024-01-15
+Update Frequency: When AI capabilities or playbooks change
+Key Concepts to Track:
+- Alan's philosophy: "Work in your LLM every day"
+- Task value hierarchy updates
+- New AI tool recommendations
+- ROI metrics and case studies
+-->
+
 # The OwnerRx AI Implementation Guide
 ## From "I Should Use AI" to "$100K Impact in 90 Days"
 

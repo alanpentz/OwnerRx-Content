@@ -1,3 +1,22 @@
+<!-- META
+Dependencies:
+- Financial_Planning_Analysis_Complete_Playbook.md (MLER ratio: 4x target, gross margin targets)
+- Team_Evaluation_Complete_Playbook.md (meeting waste statistics)
+- Vendor_Management_Complete_Playbook.md (vendor replacement at 2x growth)
+- Account_Management_Expansion_Complete_Playbook.md (expansion revenue metrics: 3x margin, 5x close rate)
+- OwnerRx_Pillars_4_5_6_Complete.md (scope creep and revenue leakage)
+- Cash_Flow_Management_Complete_Playbook.md (82% failure from cash flow)
+- Hiring_and_Recruitment_Complete_Playbook.md (owner in delivery metrics)
+
+Last Updated: 2024-01-15
+Update Frequency: When dependencies change
+Key Metrics to Track:
+- MLER target: 4x (verify current)
+- Meeting waste: 30% of work time (verify current)
+- Collection velocity cost: 0.15% per day (verify current)
+- Expansion close rate: 60% (verify current)
+-->
+
 # The $100K Hidden in Your Business Hook Generator
 
 ## Primary Hook Variants

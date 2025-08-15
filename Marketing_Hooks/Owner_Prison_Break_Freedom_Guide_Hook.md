@@ -1,3 +1,21 @@
+<!-- META
+Dependencies:
+- Time_Management_Systems_Complete_Playbook.md (time audit, value analysis, delegation framework)
+- Leadership_Development_Complete_Playbook.md (one-level-up rule, succession planning)
+- Operations_Scaling_Complete_Playbook.md (owner as bottleneck, process documentation)
+- Energy_Management_Optimization_Complete_Playbook.md (hub-and-spoke model breaking point)
+- Hiring_and_Recruitment_Complete_Playbook.md (delegation triggers, hiring timing)
+- Universal_Business_Insights.md (task value levels, owner extraction principles)
+
+Last Updated: 2024-01-15
+Update Frequency: When dependencies change
+Key Metrics to Track:
+- Average owner work hours: 60-80/week (verify current)
+- Entrepreneur divorce rate: 60% (verify current)
+- Life expectancy impact: 10 years (verify current)
+- Business value discount for owner-dependence: 50% (verify current)
+-->
+
 # The Owner Prison Break Hook: Your 12-Week Escape Plan
 ## "From 70-Hour Prisoner to 40-Hour CEO Without Losing a Single Customer"
 

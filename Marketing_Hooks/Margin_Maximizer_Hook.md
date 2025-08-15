@@ -1,3 +1,23 @@
+<!-- META
+Dependencies:
+- Financial_Planning_Analysis_Complete_Playbook.md (gross margin thresholds, MLER ratio, price for value)
+- Pricing_Strategy_Complete_Playbook.md (20-30% margin optimization potential)
+- Account_Management_Expansion_Complete_Playbook.md (collection speed: 0.15% daily cost)
+- OwnerRx_Pillars_4_5_6_Complete.md (scope creep tolerance, revenue leakage)
+- Vendor_Management_Complete_Playbook.md (vendor replacement at 2x revenue)
+- Team_Evaluation_Complete_Playbook.md (meeting efficiency)
+- Universal_Business_Insights.md (margin compression warning: 50% in 3 years)
+- Financial_Dashboard_Reporting_Complete_Playbook.md (track gross margin religiously)
+
+Last Updated: 2024-01-15
+Update Frequency: When dependencies change
+Key Metrics to Track:
+- Gross margin threshold: <50% = race to bottom, <30% = dead (verify current)
+- MLER target: 4x minimum (verify current)
+- Industry margin benchmarks by type (update quarterly)
+- Scope creep impact: 2-3% per addition (verify current)
+-->
+
 # The "Margin Maximizer" Hook: Your Business Can Make 20-40% More Profit
 
 ## Primary Hook Variants

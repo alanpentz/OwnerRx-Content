@@ -1,3 +1,21 @@
+<!-- META
+Dependencies:
+- Time_Management_Systems_Complete_Playbook.md (meeting waste, first hour impact, calendar truth)
+- Universal_Business_Insights.md (context switching: 23 min recovery, work value levels, delegation trigger)
+- Energy_Management_Optimization_Complete_Playbook.md (hub-and-spoke trap, energy vs time)
+- Team_Evaluation_Complete_Playbook.md (meeting theater statistics)
+- Financial_Command_Center_Playbook.md (AI automation potential)
+- Hiring_and_Recruitment_Complete_Playbook.md (owner in delivery costs)
+
+Last Updated: 2024-01-15
+Update Frequency: When dependencies change
+Key Metrics to Track:
+- Meeting waste: Status updates that should be emails (verify current)
+- Context switch cost: 23 minutes recovery (verify current)
+- Work value levels: $20/$200/$2000/$10000 per hour (verify current)
+- Owner working hours: 60-80 typical (verify current)
+-->
+
 # The "Get Your Life Back" Hook: Reclaim 10 Hours/Week Without Losing Revenue
 
 ## Primary Hook Variants

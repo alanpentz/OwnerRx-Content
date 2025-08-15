@@ -1,3 +1,21 @@
+<!-- META
+Dependencies:
+- Financial_Planning_Analysis_Complete_Playbook.md (financial visibility, P&L analysis)
+- Cash_Flow_Management_Complete_Playbook.md (82% failure from cash flow, runway calculations)
+- Financial_Automation_Complete_Playbook.md (automation tools, manual vs automated processes)
+- Financial_Dashboard_Reporting_Complete_Playbook.md (KPI tracking, dashboard creation)
+- Financial_Risk_Controls_Complete_Playbook.md (early warning systems, variance tracking)
+- Universal_Business_Insights.md (financial visibility hierarchy, calendar spreadsheet time)
+
+Last Updated: 2024-01-15
+Update Frequency: When dependencies change
+Key Metrics to Track:
+- Business failure rate from cash flow: 82% (verify current)
+- Time spent on financial admin: 15-20 hours/week (verify current)
+- Manual error rates: 3-5% (verify current)
+- Days to get P&L from bookkeeper: 3 weeks typical (verify current)
+-->
+
 # The Sunday Night Panic Hook: Build Your Financial Command Center
 ## "From 'I Think We're Profitable' to 'I Know Every Dollar' in 60 Days"
 

@@ -1,3 +1,23 @@
+<!-- META
+Dependencies:
+- Account_Management_Expansion_Complete_Playbook.md (expansion metrics: 3x margin, 5x close rate, 60-70% success)
+- Sales_Methodology_Complete_Playbook.md (customer acquisition costs, sales process)
+- Customer_Service_Excellence_Complete_Playbook.md (customer retention, satisfaction metrics)
+- Pricing_Strategy_Complete_Playbook.md (wallet share, pricing power with existing customers)
+- Universal_Business_Insights.md (customer expansion principles, referral systems)
+- Financial_Planning_Analysis_Complete_Playbook.md (customer profitability analysis)
+
+Last Updated: 2024-01-15
+Update Frequency: When dependencies change
+Key Metrics to Track:
+- Customer acquisition cost: $5,000-15,000 (verify current)
+- Expansion cost: $500-1,500 (verify current)
+- New prospect close rate: 5-20% (verify current)
+- Existing customer close rate: 60-70% (verify current)
+- Expansion margin vs new: 40-60% vs 10-20% (verify current)
+- Annual churn rate: 10-30% (verify current)
+-->
+
 # The Empty Pipeline Emergency Hook: Extract $250K From Your Customer List
 ## "Your Customers Will Buy 3X More—You're Just Not Asking Right"
 
