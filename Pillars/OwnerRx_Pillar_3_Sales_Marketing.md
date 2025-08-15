@@ -104,6 +104,14 @@ Why this workflow matters: Builds diversified, profitable channels to reduce dep
 ### 5.6 Promotion Trigger
 Sub-pillar complete when: 3+ profitable channels active and tracked
 
+> **Universal Business Insight #57: The Disintermediation of Mediocrity**
+> 
+> **Problem:** Mediocre agencies charging $2K/month with unmeasurable ROI
+> 
+> AI-enabled specialists are replacing the old model of 10-person agencies with $2,500/month retainers and no measurable ROI. The new model: 1-2 person specialists with AI-powered execution, results-based pricing, clear attribution, and transparent value creation. AI doesn't replace good work - it exposes bad work that was hiding behind complexity.
+> 
+> **Universal Truth:** "AI doesn't replace good work - it exposes bad work that was hiding behind complexity"
+
 ---
 
 ## 6. SUB-PILLAR: Sales Process Optimization
@@ -141,6 +149,14 @@ Why this workflow matters: Creates repeatable, efficient sales process that conv
 
 ### 6.6 Promotion Trigger
 Sub-pillar complete when: Documented process with >25% close rate
+
+> **Universal Business Insight #72: The First 30 Seconds Rule**
+> 
+> **Problem:** Losing customers before demonstrating AI value
+> 
+> You have 30 seconds to establish competence. Value must be obvious immediately - by the time someone questions your capability, value should already be delivered. Perfect the opening, demonstrate capability immediately, solve before they question, and make detection irrelevant.
+> 
+> **Universal Truth:** "Win the first 30 seconds or lose the entire interaction"
 
 ---
 
@@ -214,6 +230,14 @@ Why this workflow matters: Maximizes customer lifetime value through retention a
   - "Call 3 at-risk customers this week"
   - "Launch simple referral incentive"
   - "Create upsell offer for best segment"
+
+> **Universal Business Insight #150: Trust-First Adoption Principle**
+> 
+> **Problem:** Fear blocks adoption of beneficial changes
+> 
+> Build trust before pushing transformation. Trust Building Sequence: acknowledge concerns openly, demonstrate security/safety, start with low-risk pilots, share success stories, and provide guarantees/insurance. Trust Destroyers include minimizing concerns, rushing implementation, hiding failures, overpromising results, and ignoring feedback.
+> 
+> **Universal Truth:** "Trust is built in drops and lost in buckets"
 
 ### 8.6 Promotion Trigger
 Sub-pillar complete when: Monthly churn <5% and NRR >100%

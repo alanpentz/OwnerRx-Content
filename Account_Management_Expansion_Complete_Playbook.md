@@ -13,6 +13,14 @@ This playbook shows you how to build systematic account management and expansion
 
 ## The Expansion Opportunity
 
+> **Universal Business Insight #14: Collection Velocity Optimization**
+> 
+> **Problem:** Getting paid 45+ days after delivery
+> 
+> Every day between delivery and payment costs you 0.15% (55% annually). Invoice immediately, offer 2% early payment discount, require credit cards for amounts under $5K. Speed of collection is speed of growth.
+> 
+> **Universal Truth:** "Revenue is vanity, profit is sanity, but cash is reality."
+
 ### The Hidden Economics of Expansion
 
 **New Customer Acquisition:**
@@ -33,6 +41,14 @@ This playbook shows you how to build systematic account management and expansion
 "In my best businesses, 40% of revenue came from expansion. It had 2x the profit margin of new business."
 
 ### Why Account Management Fails
+
+> **Universal Business Insight #25: The Ecosystem Customer Expansion**
+> 
+> **Problem:** One sale per customer relationship
+> 
+> Map your customer's network and stakeholders. Identify adjacent problems you can solve. Create complementary offerings without discounting. Same acquisition cost, 2-5x lifetime value through systematic expansion.
+> 
+> **Universal Truth:** "Your customer's problem exists in an ecosystem. Solve the ecosystem, own the account."
 
 #### The "Set and Forget" Mentality
 **The Problem:** Close deal, move on
@@ -184,6 +200,32 @@ Tier 3 (Bottom 50%): Monthly touch, annual review
    - Complementary services
 
 ### Expansion Opportunity Identification
+
+> **Universal Business Insight #40: Installed Base Exploitation**
+> 
+> **Problem:** Hunting new while ignoring gold in existing accounts
+> 
+> **The Account Mining Map:**
+> 1. List top 20% of accounts by revenue
+> 2. Calculate current share of wallet
+> 3. Identify adjacent products/services they need
+> 4. Map all decision makers by department
+> 5. Score expansion probability (High/Medium/Low)
+> 
+> **The Playbook:**
+> - Dormant account reactivation campaign
+> - Cross-sell to other departments
+> - Upsell to premium tiers
+> - Executive relationship building
+> - Reference and referral harvesting
+> 
+> **The Math:**
+> - Cost to expand existing account: $X
+> - Cost to acquire new account: $5-10X
+> - Success rate existing: 60-70%
+> - Success rate new: 10-20%
+> 
+> **Universal Truth:** "Your next million is hiding in your current customer list"
 
 **Trigger Events:**
 - Company growth (hiring, funding)

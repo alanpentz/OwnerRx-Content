@@ -13,6 +13,14 @@ This playbook shows you how to create sustainable work-life integration that sup
 
 ## The Integration Reality
 
+> **Universal Business Insight #6: Family Buy-In Formula**
+> 
+> **Success Equation:** Business Success = Family Support × Owner Focus
+> 
+> Your family is either your secret weapon or your hidden saboteur. Full buy-in means they understand the vision, see their benefit, and actively support the journey. Without it, you're fighting two battles.
+> 
+> **Universal Truth:** "A business can survive many things, but not a divided home."
+
 ### Why Balance Doesn't Work for Owners
 
 #### You Can't "Leave Work at Work"

@@ -13,6 +13,14 @@ This playbook shows you how to select, implement, and optimize sales technology 
 
 ## The Sales Technology Reality
 
+> **Universal Business Insight #17: Customer Success System**
+> 
+> **Problem:** Losing 20-30% of customers annually
+> 
+> Customer success isn't customer service. It's proactively ensuring customers achieve their desired outcome using your product/service. Check in monthly, measure their success metrics, solve problems before they ask.
+> 
+> **Universal Truth:** "A customer's success is your only sustainable competitive advantage."
+
 ### Why Most CRM Implementations Fail
 
 #### The "Field of Dreams" Fallacy

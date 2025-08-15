@@ -642,6 +642,29 @@ Gold → Platinum:
 
 ### Partner Communication
 
+> **Universal Business Insight #35: The Partner Cadence System**
+> 
+> **Problem:** Referral partnerships die from neglect
+> 
+> **The Framework:**
+> **Monthly:** Admin-to-admin operational sync
+> - Referrals sent/received/scheduled/started
+> - Process blockers identified
+> - Quick fixes implemented
+> 
+> **Quarterly:** Leadership strategic review
+> - One-slide update: outcomes + asks
+> - Relationship temperature check
+> - Strategic alignment confirmation
+> 
+> **Always Required:**
+> - Named owner on each side
+> - One-pager + FAQ collateral
+> - "How to refer" documentation
+> - Manual backup for tech failures
+> 
+> **Universal Truth:** "Cadence beats heroics - boring consistency creates compound results"
+
 **Communication Cadence:**
 
 **Daily:**

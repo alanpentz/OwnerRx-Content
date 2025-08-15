@@ -73,6 +73,14 @@
   - 💰 **Resourced** ($100-1000/mo): Global talent for remote work, AI for automation
   - 🏢 **Scaled** ($1000+/mo): Build hybrid teams with AI, global, and domestic talent
 
+> **Universal Business Insight #114: Skill Balance Hiring**
+> 
+> **Problem:** Hiring people like yourself
+> 
+> Deliberately hire opposite skills using the framework: 1) List your strengths, 2) List your weaknesses, 3) List your hates, 4) Hire for 2 & 3, 5) Never hire another you. Common founder gaps: Detail orientation (if visionary), Vision (if operator), Finance (if creative), People skills (if technical), Technical (if sales). First hire priorities: your biggest weakness, your most hated tasks, highest leverage area.
+> 
+> **Universal Truth:** "Hiring yourself is the most expensive mistake you'll make"
+
 **If** answers indicate performance issues:
 - **Root cause**: Lack of clear accountability and outcomes definition
 - **Solution path**: Implement outputs/outcomes framework with weekly reviews
@@ -174,6 +182,18 @@
 - **Optimization triggers**:
   - If cost >3x for same outcome, reassess approach
   - If quality <80%, add human oversight layer
+
+---
+
+> **Universal Business Insight #51: Swing Labor Risk Mitigation**
+> 
+> **Problem:** Hiring permanent staff for uncertain demand
+> 
+> Use temp/contract workers for 30-60 days first to test if demand is real and sustainable. Convert to permanent only after proven demand. Keep a bench of proven temps for surges.
+> 
+> **The Economics:** Temp premium (20-30% higher hourly) vs. bad hire cost (1.5-2x annual salary) plus severance risk (3-6 months salary). Swing labor wins when demand is uncertain.
+> 
+> **Universal Truth:** "Going straight to permanent hire and laying off 3 months later is the costliest mistake in hiring"
 
 ---
 
@@ -482,6 +502,14 @@
    - Core action: Check which checklists were completed vs missed
    - Success criteria: Consistent process adherence across team
    - Common mistake: Not following up on missed steps or incomplete checklists
+
+> **Universal Business Insight #138: Gamification Drives Adoption**
+> 
+> **Problem:** Training and change initiatives fail to engage
+> 
+> Apply game mechanics to business improvement: Progress bars (project completion), Levels (skill development), Points (performance metrics), Badges (achievements), Leaderboards (friendly competition). Implement in employee training, customer engagement, process adoption, goal achievement, and culture building.
+> 
+> **Universal Truth:** "What gets gamified gets done"
 
 #### Implementation Variations:
 

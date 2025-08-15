@@ -96,6 +96,14 @@
 - ⚠️ If working >70 hours/week consistently, this is actually a Team & Leadership problem
 - 🚨 If health issues emerging, stop everything and address personal sustainability first
 
+> **Universal Business Insight #125: Resilience Through Reality**
+> 
+> **Problem:** Unrealistic expectations crushing morale
+> 
+> Plan for inevitable setbacks (not if, when): Key employee quits, Major customer leaves, Lawsuit happens, Health crisis occurs, Natural disaster hits, Technology fails, Competitor attacks. Build resilience framework: Accept inevitability, Build redundancies, Create crisis plans, Maintain reserves, Develop mental toughness. Recovery protocol: Assess immediately, Communicate transparently, Act decisively, Learn completely, Improve systems.
+> 
+> **Universal Truth:** "Expect the punch; it hurts less"
+
 ---
 
 ### Problem: Lack of Clear Life Direction and Purpose
@@ -110,6 +118,14 @@
 1. Can you clearly articulate your personal "why" in one sentence?
 2. How do your daily business decisions connect to your long-term life goals?
 3. What would you do if you sold your business tomorrow?
+
+> **Universal Business Insight #130: The Infinite Game Mindset**
+> 
+> **Problem:** Finite goals lead to endless dissatisfaction
+> 
+> Play infinite games with your business. Finite game traps: Hit $10M revenue (then want $25M), Sell for $X (then regret it), Beat competitor (then find new one), Achieve status (never enough), Retire early (then bored). Infinite game approach: Continuous improvement, Daily progress, Learning journey, Impact creation, Purpose pursuit.
+> 
+> **Universal Truth:** "Finite games have winners and losers; infinite games have players"
 
 #### Root Cause Analysis:
 
@@ -389,6 +405,22 @@
    - Core action: Delegate/eliminate all tasks that drain energy but aren't business-critical
    - Success criteria: 20+ hours/week reclaimed from low-energy, low-value activities
    - Common mistake: Delegating to wrong people or not providing adequate training
+
+> **Universal Business Insight #136: Strategic Clarity Gap**
+> 
+> **Problem:** Owners lose focus on priorities daily
+> 
+> Build a daily priority reinforcement system: Morning: Top 3 priorities reminder, Midday: Progress check, Evening: Completion review, Weekly: Priority adjustment, Monthly: Strategic alignment. Ask yourself: What must happen today? What's getting in the way? Is this advancing priorities? What can be delegated? What should stop?
+> 
+> **Universal Truth:** "Strategic clarity isn't achieved once; it's maintained daily"
+
+> **Universal Business Insight #137: The Distraction Tax**
+> 
+> **Problem:** Shiny objects destroy momentum
+> 
+> Calculate the true cost of distraction: Lost momentum, Team confusion, Resource waste, Opportunity cost, Reputation damage. Protect yourself with: Written commitments, Public accountability, Progress tracking, Distraction log, Opportunity parking lot.
+> 
+> **Universal Truth:** "Every yes to a distraction is a no to your priority"
 
 #### Implementation Variations:
 

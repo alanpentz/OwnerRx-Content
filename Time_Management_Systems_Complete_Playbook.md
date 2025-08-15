@@ -209,6 +209,14 @@ Task Value = (Revenue Impact + Strategic Importance + Only You Can Do) / Time Re
 - Planning and review
 - Financial management
 
+> **Universal Business Insight #111: Calendar the Spreadsheet Time**
+> 
+> **Problem:** Business management happens when exhausted
+> 
+> Schedule specific times for business administration: Mon/Wed/Fri before opening, never leave for weekends, 90 minutes minimum non-negotiable blocks with phone off and door closed. Use this time for reviewing financials, planning week/month, analyzing metrics, strategic thinking, and problem solving. Fresh mind for complex work creates consistent rhythm and prevents pile-up.
+> 
+> **Universal Truth:** "What gets scheduled gets done; what gets delayed gets dropped"
+
 **Meeting Blocks** (Batched):
 - Internal team meetings
 - Client calls

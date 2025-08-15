@@ -175,6 +175,28 @@ Scenario: Each agent pitches to customers. Who wins and why?
 - Clearly communicable
 - Measurably better
 
+> **Universal Business Insight #41: The Switching Friction Framework**
+> 
+> **Problem:** Competing on features in mature markets
+> 
+> **The Switch Kit Components:**
+> 1. **Migration Assistance:** We'll move your data/setup
+> 2. **Validation Documents:** Prove it works in your environment
+> 3. **Pilot Terms:** Try with low risk
+> 4. **Reliability Proof:** Case studies from similar switches
+> 5. **Strategic Pricing:** Only if everything else is equal
+> 
+> **The Psychology:**
+> - Switching cost isn't price - it's fear
+> - Fear of disruption, failure, looking bad
+> - Remove fear = remove friction = win deal
+> 
+> **The Pitch Shift:**
+> - Old: "We have better features"
+> - New: "We make switching painless"
+> 
+> **Universal Truth:** "Can customer switch in 30 days with zero downtime?"
+
 ---
 
 ## Practical Competitive Intelligence Gathering

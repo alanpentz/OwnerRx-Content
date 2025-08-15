@@ -13,6 +13,14 @@ Most businesses fail at marketing because they treat it like art when it's actua
 
 ## The Marketing Investment Framework
 
+> **Universal Business Insight #10: Customer Communication Hierarchy**
+> 
+> **Priority Order:** Current customers > Past customers > Warm leads > Cold prospects
+> 
+> Most businesses chase new customers while ignoring the gold mine in their database. A past customer is 10x more likely to buy than a cold lead. Yet 90% of marketing budgets target strangers.
+> 
+> **Universal Truth:** "Your next sale is probably in your CRM, not your ad campaign."
+
 ### How Much to Actually Spend
 
 **Alan's 5-10% Rule:**
@@ -277,6 +285,14 @@ Most businesses fail at marketing because they treat it like art when it's actua
 
 ## Campaign Planning Framework
 
+> **Universal Business Insight #21: The Underserved Segment Goldmine**
+> 
+> **Problem:** Competing in oversaturated markets
+> 
+> While competitors chase the top 20%, the 60% middle market is ignored. They're less price sensitive, more loyal when served well, and desperately seeking someone who understands them. Position for "the rest of us."
+> 
+> **Universal Truth:** "Your biggest opportunity is the customers everyone else ignores."
+
 ### The 90-Day Campaign System
 
 **Alan's Agility Principle:** "You should plan out the next two or three weeks of marketing, not months ahead. AI is changing everything so fast."
@@ -439,6 +455,30 @@ Most businesses fail at marketing because they treat it like art when it's actua
 ## Marketing Team Building
 
 ### When to Hire vs. Outsource
+
+> **Universal Business Insight #36: The Marketing Asset Ownership Rule**
+> 
+> **Problem:** Agencies holding your marketing hostage
+> 
+> **The Non-Negotiables:**
+> - All campaigns in YOUR ad accounts
+> - All pixels/tracking in YOUR name
+> - All data accessible to YOU
+> - Weekly written reports required
+> - Monthly full export capability
+> 
+> **The Agency SLA:**
+> "Campaigns run in our accounts with our tracking. Weekly update by Friday: spend, CTR, CPC, conversion rate, cost per lead, top keywords, tests run, next week's plan. Monthly export of all campaign data. We own everything."
+> 
+> **Red Flag Phrases:**
+> - "We run everything through our account"
+> - "Our proprietary system doesn't allow exports"
+> - "Trust us, we're the experts"
+> - "You don't need to see that level of detail"
+> 
+> **The Test:** Can you fire them today and keep running ads tomorrow?
+> 
+> **Universal Truth:** "You own the assets, the data, and the results - or you own nothing when the relationship ends"
 
 **Alan's Specialist Rule:** "Hire experts not generalists. You need an expert in whatever channel you have chosen."
 

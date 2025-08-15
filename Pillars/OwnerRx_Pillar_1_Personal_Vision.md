@@ -73,6 +73,30 @@ Sub-pillar complete when: All domains score ≥6 and owner reports working withi
 ### Sub-pillar name: Owner Energy Optimization Framework
 **Stage used:** 0-1
 
+> **Universal Business Insight #4: Owner Role Evolution**
+> 
+> **The Journey:** Worker → Manager → Executive → Investor
+> 
+> Most owners get stuck in "Manager" mode, trying to control everything. The breakthrough comes when you realize your job isn't to do the work or even manage the work—it's to design the system that produces the work.
+> 
+> **Universal Truth:** "Work IN your business until $1M, ON it until $10M, ABOVE it after that."
+
+> **Universal Business Insight #5: Strategic Neglect**
+> 
+> **Problem:** Trying to optimize everything simultaneously
+> 
+> Stop trying to be good at everything. Pick the 20% that drives 80% of results and deliberately neglect the rest. Your competition wastes energy on perfection while you win on focus.
+> 
+> **Universal Truth:** "Strategy is about what you choose NOT to do."
+
+> **Universal Business Insight #55: The $10,000 Hour Philosophy**
+> 
+> **Problem:** Entrepreneurs stuck churning at $20/hour activities believing motion equals progress
+> 
+> Shift from activity to strategic thinking. Value hierarchy: $20/hour (doing tasks), $200/hour (managing processes), $2,000/hour (solving strategic problems), $10,000/hour (identifying critical points and marshaling resources). Move from "I'm so busy" as badge of honor to "I spent 3 hours thinking" as highest value work.
+> 
+> **Universal Truth:** "You earn $10,000/hour when thinking deeply about marshaling resources, not when running around frantically"
+
 ### 5.1 Purpose
 Why this workflow matters: Identifies tasks that energize vs drain the owner to maximize productivity and prevent burnout. Based on real data showing 82% of owners spend 8+ hours/week on email alone.
 
@@ -145,6 +169,14 @@ Why this workflow matters: Identifies owner's unique strengths to build business
 
 ### 5.6 Promotion Trigger
 Sub-pillar complete when: Superpower clearly defined and utilization > 60%
+
+> **Universal Business Insight #80: The Superpower Abandonment**
+> 
+> **Problem:** Owners abandon what they're best at for operational firefighting
+> 
+> Most owners started with sales/marketing genius, got customers, created operations problems, stopped selling to fix operations, now mediocre at both, business stagnates. The fix: identify your superpower explicitly, calculate hourly value of that work, delegate everything else at any cost, measure time in superpower weekly, never let it drop below 50%.
+> 
+> **Universal Truth:** "Even 85% from someone else beats you not doing your superpower at all"
 
 ---
 
@@ -226,6 +258,22 @@ Sub-pillar complete when: Energy score > 75 and ideal week implemented
 
 ## 8. SUB-PILLAR: Personal Board of Directors
 
+> **Universal Business Insight #151: The Knowledge-Possibility Gap**
+> 
+> **Problem:** Owners don't know what's possible with modern tools
+> 
+> What seems like magic is now routine. Yesterday's impossible is today's standard. Knowledge gaps create poor decisions, while amazement indicates opportunity. Regular exposure to new capabilities through demonstrations, peer learning, and experimentation closes this gap.
+> 
+> **Universal Truth:** "The biggest barrier to innovation is not knowing what's possible"
+
+> **Universal Business Insight #22: The Money Guilt Complex**
+> 
+> **Problem:** Feeling "dirty" about wanting financial success
+> 
+> Many owners feel conflicted between purpose and profit. The reality: money is a byproduct, not the goal. Do what energizes you and money follows. Financial success enables greater impact, not less.
+> 
+> **Universal Truth:** "If money is your only goal, you'll never have enough. If impact is your goal, money becomes fuel."
+
 ### Sub-pillar name: Personal Board of Directors
 **Stage used:** 2-3
 
@@ -260,7 +308,23 @@ Why this workflow matters: Creates support system of advisors and mentors to acc
 ### 8.6 Promotion Trigger
 Sub-pillar complete when: 3+ regular advisors engaged monthly
 
+> **Universal Business Insight #84: The High-Friction Coaching Problem**
+> 
+> **Problem:** Traditional coaching requires commitment that prevents starting
+> 
+> High friction points include scheduling group sessions, relationship management, exit difficulty, high cost barriers, and time commitments. The new model offers daily 5-minute check-ins, asynchronous interaction, month-to-month commitment, AI-augmented support, and bite-sized improvements that build momentum.
+> 
+> **Universal Truth:** "The best coaching is the coaching you actually start"
+
 ---
+
+> **Universal Business Insight #58: The Focus Terror**
+> 
+> **Problem:** Businesses are terrified of focus and strategic thinking space
+> 
+> Overcome the psychological barriers to concentration. The fear pattern: Activity feels productive (it's not), Stillness feels lazy (it's strategic), Many initiatives feel safer (they're not), Focus feels risky (it's the only path). The courage required: Say no to good opportunities, sit with uncertainty, think before acting, trust the focus process.
+> 
+> **Universal Truth:** "Most businesses fail because they're terrified of the focus that would save them"
 
 ## 9. SUB-PILLAR: Vision-to-Daily Practice
 

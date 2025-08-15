@@ -131,6 +131,34 @@ When you hit $5M, branding matters because:
 - Relationship-based selling
 - Service becomes differentiator
 
+> **Universal Business Insight #50: Experience as the Differentiator**
+> 
+> **Problem:** Competing on features/price in commoditized markets
+> 
+> **The Experience Differentiators:**
+> - Speed of response (minutes not days)
+> - Direct access to decision makers
+> - Collaborative problem-solving approach
+> - Proactive communication
+> - Flexibility and customization
+> - Personal relationship
+> 
+> **How to Market Experience:**
+> - Don't say "great service" - everyone says that
+> - Show it through actual interactions
+> - Let first touchpoint demonstrate speed
+> - Share specific response time metrics
+> - Feature customer collaboration stories
+> - Make them feel it before they buy
+> 
+> **Examples That Work:**
+> - "Text the owner directly"
+> - "Quote in 2 hours, not 2 weeks"
+> - "We'll join your design review"
+> - "Fixed point of contact who knows your business"
+> 
+> **Universal Truth:** "Can customers describe your experience difference without prompting?"
+
 **Path 2: Price Leadership Position**
 - Lower margins (15-30% gross)
 - Volume requirements 3-5x higher

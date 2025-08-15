@@ -116,6 +116,26 @@ Your top performers aren't motivated by money alone—they want growth. If you'r
 
 ## 4. ROLE SCORECARDS
 
+> **Universal Business Insight #34: The Time-Span of Work Hierarchy**
+> 
+> **Problem:** Promoting doers to managers without checking capability
+> 
+> **The Hierarchy:**
+> - Individual Contributor: Hours/Days focus
+> - Manager: Weeks/Months planning
+> - Director: Quarters/Years strategy
+> - Executive: Years/Decades vision
+> 
+> **The Evaluation:**
+> - Can they plan at the required horizon?
+> - Do they deliver on multi-week commitments?
+> - Can they see around corners?
+> - Do they think in systems not tasks?
+> 
+> **The Rule:** If someone can't operate at the required time horizon, don't shrink the role to fit them - upgrade the person
+> 
+> **Universal Truth:** "Time horizon thinking determines role capacity - promote based on planning ability, not just performance"
+
 ### The Complete Role Scorecard
 
 **Position: [Role Title]**

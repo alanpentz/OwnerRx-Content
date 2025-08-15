@@ -90,6 +90,18 @@ Revolutionary simplicity: Stop categorizing every expense. Focus only on what ma
 
 ### The MLER Signal
 
+> **Universal Business Insight #16: Expense Benchmarking Framework**
+> 
+> **The Ratios That Matter:**
+> - Rent: <10% of revenue
+> - Marketing: 5-10% of revenue
+> - Labor: 30-50% of revenue
+> - Profit: 10-20% minimum
+> 
+> If any ratio is off by >5%, you have a structural problem, not an efficiency problem. Fix the model, not the margins.
+> 
+> **Universal Truth:** "Expenses are habits. Change the habit, change the expense."
+
 **"We measure management and admin labor and turn it into a ratio called MLER. You can see MLER starting to creep up. That's when you know to start paying attention to what you need to add in the back office."**
 
 Management and Labor Efficiency Ratio (MLER) = Management & Admin Labor ÷ Total Labor
@@ -238,6 +250,32 @@ Please identify:
 ```
 
 ### Building Your First Forecast
+
+> **Universal Business Insight #39: Data Hygiene Before Forecasting**
+> 
+> **Problem:** Building forecasts on garbage data
+> 
+> **The Reconciliation Requirement:**
+> - CRM opportunities must match sales reports
+> - ERP bookings must match financial records
+> - Customer lists must match across systems
+> - Historical data must be clean before projecting
+> 
+> **The Simple Formula:**
+> ```
+> Next Month = Current Bookings 
+>             + Weighted Pipeline 
+>             - Expected Churn
+> ```
+> 
+> **The Rule:** No forecasting until three data sources agree
+> 
+> **Common Failures:**
+> - CRM shows $500K pipeline, finance shows $300K
+> - Sales claims 50 customers, billing shows 35
+> - Forecast assumes 90% close rate, history shows 30%
+> 
+> **Universal Truth:** "Clean data first, forecast second - 3 hours cleaning data saves 30 hours of bad decisions"
 
 **Week 1: Gather Intelligence**
 - Call top 10 customers
@@ -492,6 +530,14 @@ Need Credit?     Y/N         Y/N       Y/N
 ```
 
 ## 6. THE VITAL SIGNS DASHBOARD
+
+> **Universal Business Insight #20: Variable Cost Management**
+> 
+> **Target:** Variable costs <30% of revenue
+> 
+> Fixed costs are predictable; variable costs kill you. Every variable cost should be tied directly to revenue production. If it doesn't generate 3x its cost in revenue, eliminate it.
+> 
+> **Universal Truth:** "Fixed costs are decisions; variable costs are habits."
 
 ### The Seven Vital Signs
 

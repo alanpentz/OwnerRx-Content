@@ -27,6 +27,14 @@
 - 50% gross margins minimum or the business isn't sustainable
 - Every dollar should have a job before it arrives
 
+> **Universal Business Insight #53: The Three Currencies of Business**
+> 
+> **Problem:** Businesses only measure revenue, missing two critical value streams
+> 
+> Track and optimize all three currencies simultaneously: **Gross Margin** (immediate value capture), **Knowledge Compounding** (expertise accumulation that goes into reverse slowest), and **Reputation** (market trust that compounds exponentially when positive but can evaporate overnight).
+> 
+> **Universal Truth:** "These three currencies create reinforcing flywheels - ignore any one and the others eventually collapse"
+
 ### The One Metric That Matters
 - **Primary KPI**: Labor Efficiency Ratio (LER)
 - **How to measure**: Revenue ÷ Total Labor Cost
@@ -43,6 +51,14 @@
 - Monthly gross margin percentage
 - Net profit margin
 - Cash runway (months of expenses covered)
+
+> **Universal Business Insight #113: Business Health Score System**
+> 
+> **Problem:** Not knowing if you're ready for growth/capital
+> 
+> Create a 0-100 score with improvement roadmap using five key metrics: Cash position (0-20 points), Revenue trends (0-20 points), Profit margins (0-20 points), Customer metrics (0-20 points), Operational efficiency (0-20 points). Score interpretation: 0-40 crisis mode, 41-60 stabilize first, 61-80 growth ready, 81-100 scale ready. Focus 90-day improvement on 1-2 lowest score areas with daily actions, weekly measurement, monthly assessment.
+> 
+> **Universal Truth:** "You can't improve what you don't measure"
 
 ---
 
@@ -657,6 +673,14 @@
    - Core action: Use different financing tools for different business needs
    - Success criteria: Optimal cost and terms for each financing purpose
    - Common mistake: Using expensive credit cards or personal loans for everything
+
+> **Universal Business Insight #123: Financial Product Alignment**
+> 
+> **Problem:** Wrong financing destroying businesses
+> 
+> Match financing to actual patterns: Seasonal business → Line of credit, Equipment need → Equipment financing, Growth investment → Revenue-based financing, Emergency → Credit cards (short-term), Expansion → Term loans. Avoid mismatches: Long-term need with short-term product, High-rate product for low-margin business, Fixed payments with variable revenue, Personal credit for business needs. Use decision criteria: True cost (not just rate), Payment flexibility, Speed to funding, Collateral required, Impact on future options.
+> 
+> **Universal Truth:** "The wrong money at the right time is still wrong"
 
 3. **Maintain Optimal Leverage Ratio**
    - Core action: Keep debt service below 25% of cash flow

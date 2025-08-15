@@ -17,6 +17,14 @@ Most business owners either:
 
 ### 1. Financial Visibility Hierarchy
 
+> **Universal Business Insight #1: Financial Visibility Hierarchy**
+> 
+> **Core Principle:** Know your key metrics without drowning in data
+> 
+> Most owners either track nothing (flying blind) or everything (analysis paralysis). The solution is a hierarchy: 5 numbers weekly, 10 monthly, 20 quarterly. This creates clarity without overwhelm.
+> 
+> **The Universal Truth:** "You can't manage what you don't measure, but measuring everything manages you."
+
 #### Weekly Dashboard (5 minutes)
 - **Cash Position:** Total in all accounts
 - **Weekly Cash Flow:** Money in vs. money out
@@ -38,6 +46,14 @@ Most business owners either:
 - **Tax Reserve Adequacy**
 
 ### 2. Cash Flow Clarity Framework
+
+> **Universal Business Insight #2: Cash Flow Clarity Framework**
+> 
+> **Problem Solved:** "I don't know where the money goes"
+> 
+> The Three Bucket System creates automatic financial discipline: Operating Reserve (2-3 months expenses), Tax Reserve (30% of profit), and Distribution (everything above reserves). This prevents the feast-or-famine cycle that kills businesses.
+> 
+> **The Universal Truth:** "Cash is oxygen - you notice it most when it's gone."
 
 #### The Three Bucket System
 
@@ -232,6 +248,14 @@ Most business owners either:
 ## AI-Powered Financial Automation
 *Replace manual financial processes with intelligent automation*
 
+> **Universal Business Insight #69: The Parity Point Economics**
+> 
+> **Problem:** Not understanding when AI becomes economically inevitable
+> 
+> AI costs 25% of human equivalent, performance already at parity with top performers, improving while costs stay flat. 4x cost advantage becoming 10x. The decision framework: Below parity = Test and prepare; At parity = Aggressive adoption; Above parity = Full transformation.
+> 
+> **Universal Truth:** "When AI reaches 75% cost reduction at equal quality, not adopting becomes economically irresponsible"
+
 ### The Opportunity
 Most financial tasks are repetitive, rule-based, and perfect for automation. Stop spending 20+ hours monthly on tasks that AI can do in minutes.
 
@@ -253,6 +277,14 @@ Most financial tasks are repetitive, rule-based, and perfect for automation. Sto
 - Bank reconciliation: 2 hours/week
 
 ### The Automation Solution
+
+> **Universal Business Insight #67: The Custom Tool Revolution**
+> 
+> **Problem:** Expensive one-size-fits-all enterprise software
+> 
+> Build exactly what you need with AI. The shift: From one $50k CRM to 100 custom mini-tools. Cost: Near-zero marginal cost. Fit: Perfect for your business. Build in hours not months, modify instantly, no vendor lock-in, exactly your workflow.
+> 
+> **Universal Truth:** "Why buy generic when you can build perfect?"
 
 #### Quick Wins (Implement This Week)
 1. **Automated Invoice Generation**

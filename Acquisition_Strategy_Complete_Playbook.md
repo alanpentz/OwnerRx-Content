@@ -302,6 +302,14 @@ Maximum Acceptable: 4 years
 - Teams don't integrate, productivity drops
 - Solution: Cultural assessment, slow integration, retention bonuses
 
+> **Universal Business Insight #142: Cultural Fit Drives M&A Success**
+> 
+> **Problem:** Acquisitions fail due to cultural mismatch
+> 
+> Prioritize culture alignment over financial metrics. Use a Culture First Framework: define your core culture clearly, assess target's cultural DNA, identify alignment gaps, plan cultural integration, and measure cultural health post-merger. Cultural deal breakers include conflicting values, incompatible work styles, different customer philosophies, opposing leadership styles, and misaligned incentives.
+> 
+> **Universal Truth:** "Culture eats strategy for breakfast, and acquisitions for lunch"
+
 **5. The Integration Nightmare**
 - Systems don't work together, costs explode
 - Solution: Technical due diligence, phased integration, budgeted reserves

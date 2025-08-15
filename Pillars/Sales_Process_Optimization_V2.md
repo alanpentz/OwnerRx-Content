@@ -139,6 +139,22 @@
 
 ## Tactical Playbooks
 
+> **Universal Business Insight #12: Minimum Viable Sales Process**
+> 
+> **The 4-Step Foundation:** Discovery → Education → Proposal → Close
+> 
+> Until you have 10+ sales/month, you don't need a complex CRM or sales process. You need consistent conversations and systematic follow-up. Complexity kills more sales than simplicity ever will.
+> 
+> **Universal Truth:** "A simple process executed beats a perfect process planned."
+
+> **Universal Business Insight #13: Pricing Evolution Framework**
+> 
+> **The Journey:** Hourly → Project → Value → Subscription
+> 
+> Most businesses undercharge by 30-50%. Test raising prices 20% with next 5 prospects. If more than 2 say yes, you were too cheap. Keep testing until you find resistance, then back off 10%.
+> 
+> **Universal Truth:** "Your price is a story about value, not a calculation of costs."
+
 ### Playbook: Lead Generation Through Referrals
 *Every business can generate referrals - HOW you systematize it depends on your resources*
 

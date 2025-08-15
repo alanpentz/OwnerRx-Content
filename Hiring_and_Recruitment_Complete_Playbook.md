@@ -11,6 +11,22 @@ This playbook will show you how to implement a systematic hiring process that re
 
 ## 1. TACTIC IDENTIFICATION
 
+> **Universal Business Insight #32: Data-Driven Hiring Triggers**
+> 
+> **Problem:** Hiring based on feelings not facts
+> 
+> The Trigger Points: Owner in delivery >40% for 3+ weeks. Backlog growing for 2+ weeks. Lead response time >24 hours. Customer satisfaction dropping. Team utilization >85% for a month. Cost of owner in delivery = Owner hourly rate × delivery hours. Hire when: Owner opportunity cost > New hire cost.
+> 
+> **Universal Truth:** "If you're hiring based on pain, you're already too late."
+
+> **Universal Business Insight #115: The 4th-5th Employee Threshold**
+> 
+> **Problem:** Expecting relief too early
+> 
+> Recognize the real transition point: Employees 1-3 still means drowning, Employees 4-5 brings breathing room, Employees 6-10 creates momentum, Employees 11+ requires systems. Why 4-5 matters: Owner can finally delegate, specialization begins, cross-coverage exists, culture forms, systems emerge. Before threshold expect 60+ hour weeks, everything urgent, no real delegation, constant firefighting.
+> 
+> **Universal Truth:** "The first three employees are fingers; the fourth is finally a hand"
+
 ### Why Most Small Businesses Hire Poorly
 
 Small business hiring fails for three primary reasons:

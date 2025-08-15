@@ -11,6 +11,14 @@ The journey ahead: From hoping the numbers work out to knowing exactly what driv
 
 ## 1. TACTIC IDENTIFICATION
 
+> **Universal Business Insight #11: Product Margins Reality**
+> 
+> **The Math:** Revenue - COGS = Gross Profit (Aim for 50%+)
+> 
+> If your gross margins are below 50%, you're in a race to the bottom. Below 30%, you're already dead but don't know it yet. Price for value, not competition.
+> 
+> **Universal Truth:** "Gross margin is destiny. Everything else is noise."
+
 ### Why Businesses Fail at Financial Planning
 
 **The Three Financial Planning Failures:**
@@ -34,6 +42,14 @@ The journey ahead: From hoping the numbers work out to knowing exactly what driv
 - Result: Information without action
 
 ### The Cost of Poor Financial Planning
+
+> **Universal Business Insight #27: The 4x Management Efficiency Rule**
+> 
+> **Problem:** Admin/management costs destroying profitability
+> 
+> Management Labor Efficiency Ratio (MLER) = Gross Margin ÷ Admin Labor. Target: 4x minimum. Generate $4 gross margin per $1 admin cost. Below 4x means you need more revenue or less admin overhead.
+> 
+> **Universal Truth:** "Most businesses operate at 2-3x and wonder why they're not profitable."
 
 **Direct Costs:**
 - 30% lower profitability than planned businesses
@@ -195,6 +211,14 @@ FINANCING CASH FLOW:
 - Dividends/Distributions
 ```
 
+> **Universal Business Insight #118: Preventive Line of Credit**
+> 
+> **Problem:** Trying to get credit when desperate
+> 
+> Secure credit when you don't need it. Get line of credit when business is profitable, cash flow positive, showing growth trajectory, before any stress. Amount: 3-6 months expenses or 50% annual profit, whichever is greater. Best practices: never use unless emergency, test it annually, keep relationship warm, multiple sources better, review terms yearly.
+> 
+> **Universal Truth:** "Banks lend umbrellas when it's sunny and want them back when it rains"
+
 ### Planning Horizons
 
 **Rolling 13-Week Cash Flow**
@@ -257,6 +281,14 @@ FINANCING CASH FLOW:
 - Variance analysis
 - ROI tracking
 - Predictive modeling
+
+> **Universal Business Insight #95: The Speed-to-Market Revolution**
+> 
+> **Problem:** Traditional product development takes months
+> 
+> The new timeline: Website in hours not weeks, product in days not months, testing immediate not planned, revenue possible on day one. The stack includes Lovable/Replit for website, Cursor/Claude for code, Stripe for payments - "6 months CS experience = functional product." Speed multipliers include no need for full development team, extensive planning, perfection before launch, or large investment. 
+> 
+> **Universal Truth:** "Speed to market is the new scale advantage - launch in days or lose to someone who did"
 
 **Investment Priorities:**
 - Planning software ($200-1000/month)

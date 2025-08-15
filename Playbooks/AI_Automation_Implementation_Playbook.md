@@ -76,6 +76,14 @@
 
 ### Day 1: The ChatGPT Awakening
 
+> **Universal Business Insight #66: The Vibe Coding Phenomenon**
+> 
+> **Problem:** Non-technical people think they can't build technical solutions
+> 
+> AI makes everyone a programmer. The pattern: Start with simple problem, AI guides solution, get addicted to creating. Metal fab owner: 4 hours → 10 minutes. Natural language is the new code. Can't stop once started.
+> 
+> **Universal Truth:** "Creation becomes as addictive as consumption when barriers disappear"
+
 **Morning: Get Started**
 1. Sign up for ChatGPT Plus ($20/month)
 2. Sign up for Claude Pro ($20/month)
@@ -319,6 +327,14 @@ I should act on?", A:Z)
 **Total AI Workforce Cost:** $425/month
 **Equivalent Human Cost:** $25,000/month
 
+> **Universal Business Insight #63: The Multi-Agent Orchestra**
+> 
+> **Problem:** Trying to build one AI to do everything
+> 
+> Multiple specialized agents with specific context, passing results between them, orchestrated by a coordinator. Impact: 10 hours → 30-45 minutes, higher quality outputs, scalable complexity, maintainable systems.
+> 
+> **Universal Truth:** "Complex tasks require orchestrated specialists, not generalists"
+
 ### Month 3: The AI-First Processes
 
 **Redesign Everything for AI:**
@@ -344,6 +360,30 @@ Process Transformation Checklist
 ```
 
 **The 80/20 Rule:** AI does 80%, humans do the 20% that matters.
+
+> **Universal Business Insight #61: The Agentic Threshold**
+> 
+> **Problem:** Most "AI agents" are just workflows in disguise
+> 
+> True agent capability: Access to multiple tools, decides which tools to use, determines how many times, loops until goal achieved. Workflows are step-by-step and rigid; agents are goal-oriented and adaptive.
+> 
+> **Universal Truth:** "An agent pursues goals; a workflow follows steps"
+
+> **Universal Business Insight #92: The Agent Orchestra Framework**
+> 
+> **Problem:** Trying to build one AI to do everything
+> 
+> Agent components include Brain (the LLM chosen based on task), Memory (short-term, persistent, knowledge base context), Tools (capabilities and integrations), and Orchestration (coordination between agents). The evolution goes from human in the loop to human oversight to fully autonomous, from single agent to multiple agents to agent swarms, from task completion to goal achievement to strategic execution. Context window management requires "not too much, not too little" information with proper memory hierarchy.
+> 
+> **Universal Truth:** "One generalist agent fails; orchestrated specialists succeed"
+
+> **Universal Business Insight #62: The 80/20 AI Operations Rule**
+> 
+> **Problem:** Trying to fully automate or fully manual - no middle ground
+> 
+> AI does 80% (bulk work, processing, analysis, creation), humans do critical 20% (taste, judgment, approval, quality control). New roles emerging: AI Operators, Orchestrators, Quality controllers, Taste makers.
+> 
+> **Universal Truth:** "Humans remain essential for the critical 20% that requires judgment"
 
 ### The 90-Day AI Maturity
 
@@ -374,6 +414,22 @@ Process Transformation Checklist
 - ChatGPT Plus: $20
 - Claude Pro: $20
 - Perplexity Pro: $20
+
+> **Universal Business Insight #65: The Model Selection Paradox**
+> 
+> **Problem:** 80% of users stick with older/wrong AI models
+> 
+> Common mistakes: Using GPT-4 when O3 (reasoning) needed, assuming higher numbers = better, never switching models. Quick info: Fast generative models; Complex reasoning: Reasoning models (O3); Writing: Claude Sonnet; Coding: Claude or GPT-5.
+> 
+> **Universal Truth:** "Using the wrong model is like using a hammer for screws"
+
+> **Universal Business Insight #97: The Agent Definition Framework**
+> 
+> **Problem:** Not understanding what AI agents actually are
+> 
+> Core components include Brain (LLM chosen based on task requirements), Memory (short-term, persistent, knowledge base context), Tools (APIs, integrations, actions), and Orchestration (how agents work together). Evaluation criteria: Does it have the right brain for your task? Can it remember what matters? Does it have tools to take action? Can it work with other systems?
+> 
+> **Universal Truth:** "An agent without tools is just a chatbot; an agent without memory is just a script"
 
 **Automation:**
 - Zapier: $20
@@ -471,6 +527,14 @@ Analyze my competitor [name] and tell me:
 Base this on their website: [URL]
 ```
 
+> **Universal Business Insight #93: The One-Hour Expert Building**
+> 
+> **Problem:** Hiring experts takes weeks and costs thousands
+> 
+> Build AI experts in one hour: Find content/course/expertise (10 min), feed to AI for summary (10 min), create specialized prompt (10 min), build agent with tools (20 min), add to workspace (10 min) - "time for coffee included." The comparison: old way takes weeks to find, hire, onboard expert costing thousands per month; new way takes one hour to build expert agent costing dollars per month. You can build marketing strategists, financial analysts, sales specialists, operations optimizers, and any domain expert.
+> 
+> **Universal Truth:** "Why hire when you can build? One hour today saves one year of salary"
+
 ---
 
 ## MEASURING AI ROI
@@ -558,6 +622,14 @@ ROI: ____x
 ---
 
 ## THE 30-DAY QUICK START
+
+> **Universal Business Insight #70: The After-Hours Testing Strategy**
+> 
+> **Problem:** Fear of AI failure during critical operations
+> 
+> Start testing where failure is acceptable: After-hours operations, overflow capacity, edge cases, non-critical processes, internal operations first. Implementation path: 1) Identify low-risk scenarios, 2) Run parallel systems, 3) Measure performance, 4) Build confidence, 5) Expand gradually.
+> 
+> **Universal Truth:** "Test new technology where failure costs least, scale where success matters most"
 
 **Week 1: Foundation**
 □ Day 1: Sign up for ChatGPT Plus

@@ -605,6 +605,39 @@ Where:
 4. **Communicate transparently:** Share the formula and results
 5. **Pay consistently:** Regular schedule builds trust
 
+> **Universal Business Insight #48: The Synthetic Equity Compensation Model**
+> 
+> **Problem:** Can't retain A-players without ownership upside
+> 
+> **The Two-Part Structure:**
+> 
+> **Part 1: Profit Sharing (Immediate)**
+> - 3-5% of quarterly EBITDA
+> - Distributed to key players
+> - 2-3 year vesting schedule
+> - Clawback if they leave early
+> 
+> **Part 2: Phantom Equity (Exit)**
+> - 5-15% of exit value above threshold
+> - Only pays on actual sale
+> - No dilution or voting rights
+> - Aligns everyone to exit value
+> 
+> **The Math Example:**
+> - Current EBITDA: $1M
+> - Profit share: 5% = $50K/year to pool
+> - Exit at 5x EBITDA: $5M
+> - Phantom equity: 10% of gain = $500K to pool
+> 
+> **Why This Works:**
+> - Immediate reward (profit share)
+> - Long-term alignment (phantom equity)
+> - No equity dilution
+> - Cheaper than owner doing the work
+> - A-players stay and perform
+> 
+> **Universal Truth:** "Define the pool size (5-20% typical), set vesting schedules, document in employment agreements"
+
 ---
 
 ## Sales Compensation Structures

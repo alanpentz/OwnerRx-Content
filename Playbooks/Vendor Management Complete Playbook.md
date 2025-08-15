@@ -32,6 +32,14 @@ This playbook gives you the frameworks to upgrade proactively instead of reactiv
 
 ## The Revenue Doubling Vendor Crisis
 
+> **Universal Business Insight #26: The Vendor Performance Binary**
+> 
+> **Problem:** Tolerating mediocre vendor performance
+> 
+> Set specific, measurable KPIs. Review monthly. Either meeting standards or terminated. No "friendly but ineffective" vendors. The cost of tolerance is thousands monthly plus massive opportunity cost.
+> 
+> **Universal Truth:** "A vendor is either solving problems or creating them. There's no middle ground."
+
 ### Why Vendors Break When You Scale
 
 Every time you double revenue, three things happen to your vendor requirements:

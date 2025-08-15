@@ -68,6 +68,35 @@ This playbook shows you how to build an innovation engine using AI, regardless o
 - Thursday: Simulation and testing
 - Friday: Implementation planning
 
+> **Universal Business Insight #42: The Emerging Demand Radar**
+> 
+> **Problem:** Missing new opportunities while defending old ground
+> 
+> **The Quarterly Radar Review:**
+> 
+> **Inputs to Monitor:**
+> - Conference themes and hot topics
+> - Key opinion leader discussions
+> - Early adopter requests
+> - Competitor pivots
+> - Technology shifts
+> - Regulatory changes
+> 
+> **The Process:**
+> 1. Maintain hypothesis list (10-15 items)
+> 2. Assign "scout" to each area
+> 3. Monthly 15-minute updates
+> 4. Quarterly deep dive (2 hours)
+> 5. Pick 1-2 to test with rapid prototypes
+> 
+> **The Rapid Custom Pipeline:**
+> - Small team (2-3 people)
+> - 2-week sprint capability
+> - Direct to 3-5 beta customers
+> - Go/No-go in 30 days
+> 
+> **Universal Truth:** "This dies without owner involvement - can't delegate vision"
+
 ### Resourced Stage ($1M-$5M)
 **Systematic Innovation Process**
 

@@ -260,6 +260,31 @@ LTV:CAC Benchmarks:
 > 5:1 = Could grow faster
 ```
 
+> **Universal Business Insight #44: The LTV:CAC Optimization Range**
+> 
+> **Problem:** Either leaving growth on table or buying unprofitable customers
+> 
+> **The Target Zones by Business Type:**
+> - SaaS: 3:1 minimum, 4-5:1 optimal
+> - Services: 4-5:1 optimal range  
+> - E-commerce: 3:1 minimum
+> - High-touch B2B: 5-7:1 acceptable
+> 
+> **What Your Ratio Tells You:**
+> - 10:1+ = You're under-spending, growth left on table
+> - 4-5:1 = Sweet spot for sustainable growth
+> - 3:1 = Minimum viable, watch closely
+> - <3:1 = Buying unprofitable growth, stop
+> 
+> **The Testing Protocol:**
+> 1. Calculate current LTV:CAC
+> 2. If >5:1, increase spend 50% for 60 days
+> 3. Measure new cohort LTV:CAC
+> 4. Keep pushing until ratio hits 4-5:1
+> 5. Lock in that spend level
+> 
+> **Universal Truth:** "If your LTV:CAC is sky-high, you're being too conservative"
+
 ## 7. FUNNEL OPTIMIZATION
 
 ### Conversion Funnel Stages

@@ -47,6 +47,14 @@ Many businesses implement elaborate risk controls that look impressive but don't
 
 ### The Survival Statistics
 
+> **Universal Business Insight #18: Customer Diversification Rules**
+> 
+> **The 20% Rule:** No single customer should exceed 20% of revenue
+> 
+> Customer concentration is invisible until it kills you. If any customer is >20% of revenue, you don't have a business—you have a disguised job. Actively diversify or accept you're one phone call from disaster.
+> 
+> **Universal Truth:** "Your biggest customer is your biggest risk."
+
 **With Proper Risk Management:**
 - 85% survival rate during financial crisis
 - 60% faster recovery from setbacks
@@ -180,6 +188,14 @@ The best crisis management tool isn't a response plan—it's unused credit avail
 - Are there checks and balances in financial processes?
 - Do we reconcile accounts regularly?
 - Are there unusual patterns in expenses or cash flow?
+
+> **Universal Business Insight #148: Cybercrime Economics Shift**
+> 
+> **Problem:** SMBs now profitable targets for cybercriminals
+> 
+> Recognize elevated threat level and respond accordingly. Criminal ROI Changes include attack cost ($5,000 → $50), success rate (5% → 50%), profit margin (20% → 90%), target pool (Thousands → Millions), and geographic limits (Regional → Global). SMB Response Requirements: assume you're a target, implement basic hygiene, train every employee, plan incident response, and get cyber insurance.
+> 
+> **Universal Truth:** "When crime becomes profitable at your level, you become a target"
 
 ### Risk Assessment Framework
 

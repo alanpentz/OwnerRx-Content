@@ -44,6 +44,22 @@ Companies without clear strategic focus grow 50% slower than focused competitors
 
 ## 2. ALAN'S INSIGHTS: THE CRUX REVOLUTION
 
+> **Universal Business Insight #30: The Opportunity Board System**
+> 
+> **Problem:** Missing growth opportunities while stuck in operations
+> 
+> Weekly Opportunity Board review of inbound inquiries, sales feedback, customer requests. 2-week validation sprints with paid pilots only. Clear gates: Scale, Park, or Kill. Requires owner freedom from delivery.
+> 
+> **Universal Truth:** "Every week the owner spends in operations = growth opportunities missed forever."
+
+> **Universal Business Insight #112: Work ON vs IN Schedule**
+> 
+> **Problem:** Always in the business, never on it
+> 
+> Create rigid boundaries for strategic work. Split time: 60-70% IN the business (operations), 30-40% ON the business (strategy), minimum 20% ON time. ON activities include systems improvement, strategy development, team development, market analysis, and innovation. Protection strategies: block calendar in advance, leave physical location, turn off all notifications, have accountability partner, measure and report time.
+> 
+> **Universal Truth:** "If you don't schedule time ON the business, the business schedules all your time"
+
 ### Strategy Is About Choices and Trade-offs
 
 **"Strategy is all about making choices and trade-offs. I believe in Richard Rumelt's idea of the Crux. What's the most important challenge or opportunity facing the company. That's all that matters."**
@@ -157,6 +173,14 @@ For each challenge, ask: "What would guarantee we fail here?"
 - What trends could kill us?
 - What competitors could destroy us?
 - What internal weaknesses could cripple us?
+
+> **Universal Business Insight #96: The Pain-Change Threshold Framework**
+> 
+> **Problem:** Not knowing when to make major changes
+> 
+> Change happens when: Pain of changing < Pain of status quo. Most businesses wait too long because fear is the biggest driver. Use this to time all major transitions by asking: What's the cost of not changing? (quantify) What's the cost of changing? (time, money, risk) When does equation flip? What reduces change pain? What increases status quo pain?
+> 
+> **Universal Truth:** "You only change when staying the same hurts more than changing"
 
 **Step 3: Crux Identification (Week 3)**
 Cluster related challenges and identify the Crux:
@@ -301,6 +325,33 @@ Inversion analysis:
 - What internal factors could sabotage growth? (Quality problems, team turnover, cash flow)
 
 The inversion reveals the real constraints and risks that traditional planning misses.
+
+> **Universal Business Insight #43: The Growth Strategy Choice Matrix**
+> 
+> **Problem:** Pursuing growth strategy misaligned with life goals
+> 
+> **Path A: Big & Fast Growth**
+> - Requires: M&A, capital, price wars
+> - Creates: High stress, equity dilution
+> - Timeline: 3-5 year sprint
+> - Exit: Usually required
+> - Life Impact: All-consuming
+> 
+> **Path B: Profitable & Sustainable**
+> - Requires: Operational excellence, patience
+> - Creates: Cash flow, flexibility
+> - Timeline: 10+ year journey
+> - Exit: Optional
+> - Life Impact: Balanced possible
+> 
+> **The Decision Framework:**
+> 1. What does success look like in 5 years?
+> 2. How much stress can you sustain?
+> 3. Do you want to run it or sell it?
+> 4. Is this your identity or your vehicle?
+> 5. What would make you proud at 65?
+> 
+> **Universal Truth:** "Most owners are happier with profitable & sustainable but feel guilty choosing it"
 
 ### Step 3: Crux Clustering and Selection
 

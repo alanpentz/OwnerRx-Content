@@ -384,6 +384,14 @@ The graveyard of startups is full of companies that were "ahead of their time." 
 
 Most businesses try to serve everyone and end up serving no one well. The path to growth isn't starting broad—it's starting narrow and expanding from a position of strength.
 
+> **Universal Business Insight #120: New Majority Market Strategy**
+> 
+> **Problem:** Fighting in oversaturated markets
+> 
+> Identify underserved segments in existing markets: Geographic (rural, urban deserts), Demographic (age, culture), Situational (credit challenges), Temporal (off-hours needs), Accessibility (physical, digital). Advantages: less competition, higher loyalty, premium pricing possible, stronger word-of-mouth, mission alignment. Implementation: 1) Identify barriers others won't address, 2) Solve specifically for them, 3) Build trust through understanding, 4) Create community, 5) Expand carefully.
+> 
+> **Universal Truth:** "The customers everyone ignores will be most loyal to whoever doesn't"
+
 **The Expansion Sequence:**
 1. Dominate a tiny niche (100 customers)
 2. Expand to adjacent niche (1,000 customers)

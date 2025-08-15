@@ -9,6 +9,14 @@ Most businesses fail not from lack of effort but from diffused effort. This play
 
 Historical Example: Gandhi achieved independence for India with only 3 campaigns in 40 years. Each was precisely chosen for maximum leverage. Your business needs the same discipline.
 
+> **Universal Business Insight #54: The Critical Point Strategy**
+> 
+> **Problem:** Resources scattered across too many initiatives with minimal impact
+> 
+> Identify and attack the single critical point for maximum leverage: 1) Define your predetermined outcome clearly, 2) Inventory your scarce resources honestly, 3) Identify the ONE point of maximum leverage, 4) Concentrate ALL discretionary resources there, 5) Say no to everything else until breakthrough. Gandhi used only 3 campaigns in 40 years - each precisely chosen.
+> 
+> **Universal Truth:** "Strategy is the concentration of scarce resources on one critical point for exponential leverage"
+
 ---
 
 ## Part 1: Identifying Your Critical Point

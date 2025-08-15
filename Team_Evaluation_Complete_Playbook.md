@@ -13,6 +13,14 @@ This is the evaluation system every owner must complete quarterly. It takes 30 m
 
 ## The Three-Dimension Evaluation Matrix
 
+> **Universal Business Insight #7: Meeting Transformation Rules**
+> 
+> **From Time Waste to Value Creation**
+> 
+> Most meetings are status updates that should be emails. Real meetings solve problems, make decisions, or create breakthroughs. Everything else is organizational theater that kills productivity.
+> 
+> **Universal Truth:** "A meeting without a decision is just an expensive conversation."
+
 ### The Only Three Things That Matter
 
 **Dimension 1: Performance (Past 6 Months)**
@@ -41,6 +49,14 @@ This is the evaluation system every owner must complete quarterly. It takes 30 m
 - NO: Start exit planning
 
 **Alan's Rule:** "If you wouldn't rehire them, why are they here?"
+
+> **Universal Business Insight #23: The Darth Vader's Admiral Syndrome**
+> 
+> **Problem:** Setting good people up to fail in undefined roles
+> 
+> Promoting capable people into vague "right-hand" roles without clear success metrics is a death sentence. They'll excel briefly, then inevitably fail when expectations aren't clear. Define the role completely BEFORE promotion.
+> 
+> **Universal Truth:** "Great job for a while, but you're going to get killed at some point."
 
 ---
 

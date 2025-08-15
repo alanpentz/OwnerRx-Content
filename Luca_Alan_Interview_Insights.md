@@ -1,4 +1,4 @@
-# Luca-Alan Interview: Comprehensive Insights by Pillar
+# Interview Analysis: Comprehensive Insights by Pillar
 *AI Transformation, Dark Knowledge, and the Urgency of Adoption*
 
 ## Business Strategy
@@ -283,6 +283,6 @@
 
 ---
 
-*Source: Luca Rosetti Interview on Small Business Black Holes Podcast*
+*Source: Interview Analysis on Small Business Black Holes Podcast*
 *Date: July 8, 2025*
 *Key Theme: The urgency of AI adoption and the revolution in business operations*

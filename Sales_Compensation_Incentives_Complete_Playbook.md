@@ -31,6 +31,14 @@ This playbook shows you how to design, implement, and optimize sales compensatio
 
 ### The Psychology of Sales Compensation
 
+> **Universal Business Insight #29: Commitment vs Transaction Psychology**
+> 
+> **Problem:** Transactional relationships create churn
+> 
+> Frame offerings as programs, not sessions. Require upfront commitment. Build in milestones and celebrate completions. Result: 2-3x better retention, improved cash flow, higher customer success rates.
+> 
+> **Universal Truth:** "Commitment creates value. Transactions create churn."
+
 **What Salespeople Really Want:**
 1. Uncapped earning potential
 2. Clear path to earnings

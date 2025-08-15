@@ -73,6 +73,30 @@ The solution isn't aggressive collection agencies. It's systematic, friendly com
 
 ## 3. THE ONE-PAGE 13-WEEK FORECAST
 
+> **Universal Business Insight #15: Working Capital Optimization**
+> 
+> **Formula:** (Current Assets - Current Liabilities) / Monthly Expenses = Months of Runway
+> 
+> Most businesses need 2-3 months of working capital minimum. Below 2 months, you're in constant crisis. Above 6 months, you're hoarding cash that should be invested in growth.
+> 
+> **Universal Truth:** "Working capital is the shock absorber between success and failure."
+
+> **Universal Business Insight #116: Cashflow Paradox**
+> 
+> **Problem:** Thinking cash problems only happen in decline
+> 
+> Recognize growth kills cash too. Growth cash killers: inventory for big orders, hiring ahead of revenue, equipment for capacity, marketing investment, extended payment terms. Decline cash killers: fixed costs remain, revenue drops, collections slow, credit tightens, liquidation costs. Protection strategy: monitor weekly, stress test scenarios, multiple funding sources, variable cost structure, quick pivot ability.
+> 
+> **Universal Truth:** "Cash flow problems don't care if you're growing or dying"
+
+> **Universal Business Insight #117: Growth Cash Crunch**
+> 
+> **Problem:** Big orders bankrupting companies
+> 
+> Calculate true cost of growth before accepting large orders. The Walmart Order Problem: need 5x normal inventory, 90-day payment terms, quality requirements cost, logistics investment, can't serve other customers. Pre-order checklist: 1) Calculate total cash need, 2) Add 50% buffer, 3) Secure funding first, 4) Negotiate terms, 5) Have Plan B. Red flags: order >50% of capacity, terms >60 days, new quality standards, penalty clauses, no partial delivery.
+> 
+> **Universal Truth:** "The order that makes you can break you"
+
 ### Why Exactly 13 Weeks
 
 **"13 weeks is one quarter. It's far enough to see problems coming but close enough to be accurate. Anything longer is fantasy."**

@@ -30,6 +30,32 @@ This playbook shows you how to build organic growth systems that compound over t
 **The Reality:** Strategic content beats volume every time
 **The Fix:** Every piece should target specific keywords with buying intent
 
+> **Universal Business Insight #45: AI/LLM as Marketing Channel**
+> 
+> **Problem:** Missing the new discovery channel - AI answers
+> 
+> **The New Reality:**
+> - People ask ChatGPT/Claude before Google
+> - AI synthesizes answers from multiple sources
+> - Traditional SEO doesn't capture this traffic
+> - First-mover advantage still available
+> 
+> **The LLM SEO Strategy:**
+> 1. Track "Found via AI" in your source attribution
+> 2. Identify knowledge gaps in AI training data
+> 3. Create comprehensive, structured content
+> 4. Get cited by authoritative sources AI trusts
+> 5. Build tools/calculators AI can reference
+> 
+> **Content That AI Loves:**
+> - Clear problem-solution format
+> - Structured data and lists
+> - Unique insights not found elsewhere
+> - Tools and calculators
+> - Case studies with numbers
+> 
+> **Universal Truth:** "Ask every lead 'How did you hear about us?' - include AI options"
+
 ---
 
 ## Implementation by Revenue Stage

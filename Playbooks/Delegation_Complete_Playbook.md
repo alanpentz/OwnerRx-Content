@@ -45,6 +45,14 @@ You can do it better and faster yourself. Of course you can—you've been doing 
 
 ## 2. ALAN'S INSIGHTS: THE DELEGATION BREAKTHROUGH
 
+> **Universal Business Insight #28: The 80-90% Delegation Rule**
+> 
+> **Problem:** Waiting for perfect conditions to delegate
+> 
+> Delegate when you understand 80% of the task to someone 80-90% as capable. Accept 80-90% quality initially. Their 90% frees you for $10,000/hour work. The math: Even "imperfect" delegation nets $74,000 annually per task.
+> 
+> **Universal Truth:** "Perfect delegation tomorrow costs more than imperfect delegation today."
+
 ### The Zone of Genius Principle
 
 **"The ones that get into their zone of genius grow fast. The ones that don't stay stuck."**
@@ -173,6 +181,29 @@ The solution? Let AI force you to think it through first.
 - Vendor relationships
 
 ## 4. THE CHATGPT DELEGATION PREP SYSTEM
+
+> **Universal Business Insight #38: The Microtask Extraction Method**
+> 
+> **Problem:** Owner stuck doing because it's faster than explaining
+> 
+> **The Three-Phase Process:**
+> 
+> **Phase 1: Expose (one time only)**
+> - Owner does task while recording/documenting
+> - Manager shadows and takes notes
+> - Every step captured, no matter how small
+> 
+> **Phase 2: Transfer**
+> - Manager writes the SOP from notes
+> - Owner reviews ONCE for accuracy
+> - Manager does task with owner watching ONCE
+> 
+> **Phase 3: Own**
+> - Manager owns task completely
+> - Owner NEVER touches again
+> - Manager trains others if needed
+> 
+> **Universal Truth:** "If you do it twice after 'delegating' it, the extraction failed - document once, delegate forever"
 
 ### The Master Prompt Template
 
@@ -383,6 +414,29 @@ If task value < 20% of your hourly value = DELEGATE
 5. What one task will I delegate next week?
 
 ## 9. OVERCOMING DELEGATION OBSTACLES
+
+> **Universal Business Insight #33: The Delegation Blocker Solutions**
+> 
+> **Problem:** Known delegation blockers with no clear solutions
+> 
+> **Blocker 1: "I don't know what to delegate"**
+> - Solution: Write your Top 3 owner-only outcomes
+> - Delegate everything else
+> - If it's not Top 3, it's not yours
+> 
+> **Blocker 2: "I feel guilty overloading the team"**
+> - Solution: Track utilization data
+> - Under 70% = Room to delegate
+> - Over 85% = Time to hire
+> - Let data drive decisions, not guilt
+> 
+> **Blocker 3: "They can't do it as well as me"**
+> - Solution: Pilot with tight SOPs
+> - Weekly reviews for first month
+> - Accept 80% quality initially
+> - Upgrade person only after 3 documented failures
+> 
+> **Universal Truth:** "Data drives decisions better than guilt - utilization under 70% means room to delegate, over 85% means time to hire"
 
 ### "I Can't Afford Help"
 

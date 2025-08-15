@@ -31,6 +31,14 @@ The e-commerce landscape has fundamentally shifted toward marketplace-first comm
 
 ### Strategic Advantages of Marketplace Selling
 
+> **Universal Business Insight #19: Supplier Redundancy Requirements**
+> 
+> **The Rule:** Every critical input needs 2+ suppliers
+> 
+> Single supplier dependency is a ticking time bomb. When (not if) they fail, raise prices, or go out of business, you're held hostage. Always maintain a backup, even if you never use them.
+> 
+> **Universal Truth:** "Your supplier's problem becomes your customer's problem."
+
 **Immediate Benefits:**
 1. **Built-in Traffic**: Leverage existing customer bases without marketing spend
 2. **Trust Infrastructure**: Benefit from established payment and review systems

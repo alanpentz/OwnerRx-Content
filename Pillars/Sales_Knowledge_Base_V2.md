@@ -91,6 +91,14 @@ This knowledge base shows you how to build a sales engine that consistently gene
 - 2-3 active channels
 - Basic automation
 - Structured referral program
+
+> **Universal Business Insight #124: Referral System Design**
+> 
+> **Problem:** Random, inconsistent referrals
+> 
+> Engineer systematic referral generation with five system components: Trigger points (when to ask), Ask scripts (how to ask), Incentive structure, Tracking mechanism, Thank you process. Use trigger points: After success delivery, Positive feedback moment, Renewal time, Problem resolution, Milestone achievements. Compound effect grows from 2 referrals month 1 to 50+ monthly by year 2.
+> 
+> **Universal Truth:** "Systematic referrals beat random referrals 100:1"
 - Investment: $3-5K/month
 
 **Scaled ($5M+):**
@@ -98,6 +106,14 @@ This knowledge base shows you how to build a sales engine that consistently gene
 - Multi-channel orchestration
 - Full automation stack
 - Channel partnerships
+
+> **Universal Business Insight #127: Partnership Distribution Channels**
+> 
+> **Problem:** Building customer base from zero
+> 
+> Leverage existing customer bases through partnership strategy: Identify non-competing businesses with your target customers, Create mutual value proposition, Start with small test, Scale what works. Value exchanges: Revenue share, Reciprocal referrals, Bundled offerings, Co-marketing, Shared resources. Success factors: Clear agreements, Regular communication, Measured results, Win-win structure, Easy to execute.
+> 
+> **Universal Truth:** "Why build a customer base when you can borrow one?"
 - Investment: 10-15% of revenue
 
 ### Stage 2: Qualification & Discovery
@@ -223,6 +239,14 @@ This knowledge base shows you how to build a sales engine that consistently gene
 - Renewal optimization
 - Advocacy program development
 - Net revenue retention strategies
+
+> **Universal Business Insight #121: Community-Driven Retention**
+> 
+> **Problem:** High customer churn
+> 
+> Create peer connections among customers through customer-only groups, peer learning events, success story sharing, problem-solving together, and celebrations/recognition. This works because switching means leaving friends, peer pressure to stay, value beyond product, network effects, and organic referrals. Measure through retention rate increase, referral rate, engagement metrics, LTV improvement, and NPS scores.
+> 
+> **Universal Truth:** "Customers stay for community long after product novelty fades"
 
 ### Event & Field Sales Playbooks
 

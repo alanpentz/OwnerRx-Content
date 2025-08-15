@@ -63,6 +63,31 @@ The owner must lead enterprise sales because:
 - **Relationship Investment:** Enterprise deals are built on long-term relationships
 - **Problem Solving:** Only you can architect creative solutions in real-time
 
+> **Universal Business Insight #49: The Owner-Led Selling Power**
+> 
+> **Problem:** Sales team can't close like the founder
+> 
+> **The Reality in B2B Under $5M:**
+> - Founders close 2-3x faster than sales reps
+> - Technical buyers want to talk to the owner
+> - Credibility and passion can't be replicated
+> - Vision and flexibility close deals
+> 
+> **The Progression:**
+> 1. Owner leads all sales (startup to $1M)
+> 2. Owner + sales support ($1-3M)
+> 3. Sales team with owner on key deals ($3-5M)
+> 4. Full handoff only after repeatable motion ($5M+)
+> 
+> **The Handoff Criteria:**
+> - 20+ similar deals closed by owner
+> - Clear buyer personas documented
+> - Objection handling mapped
+> - Pricing model proven
+> - Sales playbook written from experience
+> 
+> **Universal Truth:** "In early B2B, the founder IS the product"
+
 ### The Owner's Enterprise Sales Responsibilities
 
 **Strategy and Planning (20% of time):**

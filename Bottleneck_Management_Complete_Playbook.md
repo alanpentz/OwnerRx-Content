@@ -11,6 +11,14 @@ This playbook teaches you The Goal methodology (Theory of Constraints) in practi
 
 ## 1. THE BOTTLENECK BLINDNESS EPIDEMIC
 
+> **Universal Business Insight #3: Back Office Audit**
+> 
+> **Target:** Admin costs < 10% of revenue (15% for regulated industries)
+> 
+> Most businesses don't have a sales problem; they have a constraint problem. One bottleneck determines your entire throughput. Find it, strip everything non-essential from it, make everything else serve it. Only then consider adding resources.
+> 
+> **Universal Truth:** "Every system is perfectly designed to produce exactly the results it's producing."
+
 ### Why Businesses Can't Find Their Real Constraint
 
 **The Visible Queue Deception**

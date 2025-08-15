@@ -178,6 +178,15 @@ Your final list should only include:
 - [ ] Begin documentation
 
 ### Month 2: Training
+
+> **Universal Business Insight #64: The Bottom-Up + Top-Down Meeting**
+> 
+> **Problem:** AI adoption fails when only executives or only employees drive it
+> 
+> The failure modes: Top-down only creates no buy-in, fear, resistance; Bottom-up only creates no strategy, scattered, unsupported. The success formula: Train entire company together, create common language, build psychological safety, "Everyone meets in the middle."
+> 
+> **Universal Truth:** "AI transformation requires the whole organization moving together"
+
 - [ ] Assign delegation levels to team
 - [ ] Start weekly check-ins
 - [ ] Implement shadow training

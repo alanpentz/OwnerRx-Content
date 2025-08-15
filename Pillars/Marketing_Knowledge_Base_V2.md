@@ -411,6 +411,14 @@ This knowledge base shows you how to build marketing that generates measurable r
 ### Customer Journey Optimization
 **[Customer Journey Mapping Complete Playbook](../Customer_Journey_Mapping_Complete_Playbook.md)**
 
+> **Universal Business Insight #134: Friction Reduction Strategy**
+> 
+> **Problem:** High commitment requirements kill adoption
+> 
+> Remove every possible barrier: Long-term contracts, Complex onboarding, Unclear value, High upfront cost, Relationship burden. Instead offer: Daily touchpoints vs monthly commitments, Self-service options, Clear ROI demonstration, Low-risk trials, Easy exit paths.
+> 
+> **Universal Truth:** "Reduce friction by 50%, increase adoption by 500%"
+
 #### Journey Stages:
 - Awareness: They know they have a problem
 - Consideration: They know you might solve it
