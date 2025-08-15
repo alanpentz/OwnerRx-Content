@@ -56,8 +56,10 @@ Key Metrics to Track:
 
 **2 Hours - The Meeting Massacre**
 From the repo: "Most meetings are status updates that should be emails. Real meetings solve problems, make decisions, or create breakthroughs."
-- **Action:** Cancel all meetings without clear decisions needed
-- **Script:** "Converting this to written update to save everyone time"
+- **Action:** Cancel all status meetings, replace with Loom videos
+- **The Loom Method:** Direct reports send 5-minute weekly Loom showing their work, progress, and blockers
+- **Script:** "Converting our weekly status meeting to Loom updates. Record 5 min showing your work every Friday by 3pm"
+- **Bonus:** Get transcripts for trend analysis, can watch at 2x speed, no scheduling hassles
 - **Proof:** Team_Evaluation_Complete_Playbook.md
 
 **1 Hour - The Email Batch**
@@ -107,7 +109,16 @@ From the repo: "$20/hour: Doing tasks (email, admin, routine work)"
 
 ### 3. **The Status Update Theater** (3 hours/week)
 From the repo: "Status meetings waste $31K/year"
-- **Fix:** Async updates via Slack/email
+- **Fix:** Loom video updates instead of meetings
+- **How:** Each person records 3-5 minute Loom weekly
+  - Show their actual work on screen
+  - Walk through what's done, what's next
+  - Flag any blockers or needs
+- **Benefits:** 
+  - Watch at 2x speed = 30 min for 10 reports
+  - Transcripts for documentation
+  - Can review anytime, anywhere
+  - People are more concise on video
 - **Savings:** 8 hours/week across team
 - **Proof:** Previous hooks analysis
 

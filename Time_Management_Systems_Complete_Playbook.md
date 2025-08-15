@@ -422,8 +422,8 @@ Question: Did this meeting generate $500+ in value?
 ### Meeting Elimination Framework
 
 **Meetings to Kill:**
-- Status updates (use written reports)
-- Information sharing (send a memo)
+- Status updates (use Loom videos instead)
+- Information sharing (send a memo or Loom)
 - No agenda meetings (cancel them)
 - No decision meetings (waste of time)
 - Standing meetings without purpose
@@ -434,6 +434,41 @@ Question: Did this meeting generate $500+ in value?
 - Complex problem-solving
 - Relationship building
 - Crisis management
+
+### The Loom Revolution: Async Updates That Actually Work
+
+**Replace Status Meetings with Loom:**
+Instead of hour-long weekly status meetings, implement the Loom Update System:
+
+**The Weekly Loom Update Protocol:**
+Every Friday by 3pm, each direct report records a 5-minute Loom:
+- **Minutes 0-2:** Show actual work completed this week (share screen)
+- **Minutes 2-3:** Walk through current status of projects
+- **Minutes 3-4:** Identify blockers and what you need
+- **Minutes 4-5:** Preview next week's priorities
+
+**Why Loom Beats Meetings:**
+- **Time Savings:** 10 people × 1-hour meeting = 10 hours. Loom: 50 minutes total (5 min × 10 to record, 25 min to watch at 2x)
+- **Better Documentation:** Automatic transcripts for trend analysis
+- **Flexibility:** Watch when convenient, rewatch if needed
+- **Show Don't Tell:** See actual work, not just hear about it
+- **Accountability:** People can't hide behind vague updates
+- **Searchable:** Find that update from 3 months ago instantly
+
+**Implementation Steps:**
+1. Cancel all status meetings
+2. Send team this template:
+   "Starting this Friday, replace our status meeting with a 5-min Loom. Show your work, share progress, identify blockers."
+3. Set calendar reminder: "Review team Looms" - 30 min block
+4. Respond via Loom when needed (2-min videos)
+5. Monthly: Review transcripts for patterns
+
+**Advanced Loom Strategies:**
+- **Performance Reviews:** Quarterly Loom self-reviews before 1-on-1s
+- **Training Library:** Record once, onboard forever
+- **Client Updates:** Send Loom instead of scheduling calls
+- **Project Handoffs:** Complete context in 10-minute walkthrough
+- **Decision Requests:** "Here's the situation, I need approval on X"
 
 ### Meeting Optimization Rules
 

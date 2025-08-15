@@ -166,10 +166,18 @@ Pick your biggest time drain:
 **Week 7-8: The Multiplication Effect**
 Apply same process to:
 - Email responses (templates + rules)
-- Regular meetings (delegate attendance)
+- Regular meetings (replace with Loom updates)
 - Routine decisions (framework)
 - Daily operations (morning manager)
 - Customer service (escalation path)
+
+**The Loom Liberation Method:**
+Instead of 10 weekly status meetings:
+- Each direct report sends 5-min Friday Loom
+- Show work, progress, blockers on screen
+- You watch all at 2x speed (25 min total)
+- Reply with Loom if needed (2 min each)
+- Save 8+ hours weekly, get better visibility
 
 **The Delegation Script:**
 "I need you to own [specific area]. Success looks like [clear outcome]. You have authority to [boundaries]. Check in with me [frequency]. I'm here if you need me, but I trust you to handle this."
@@ -205,8 +213,11 @@ Apply same process to:
 ### Level 1: Basic Extraction ($0-100/month)
 **Tools:**
 - Google Docs for processes
-- Loom for training videos
-- WhatsApp for team communication
+- Loom for training AND status updates
+  - Training: Record how-to videos once
+  - Updates: Weekly 5-min progress videos
+  - Reviews: Monthly performance Looms
+- WhatsApp for urgent only
 - Google Calendar for scheduling
 - Basic project management (Trello free)
 

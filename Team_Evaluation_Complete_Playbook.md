@@ -17,9 +17,9 @@ This is the evaluation system every owner must complete quarterly. It takes 30 m
 > 
 > **From Time Waste to Value Creation**
 > 
-> Most meetings are status updates that should be emails. Real meetings solve problems, make decisions, or create breakthroughs. Everything else is organizational theater that kills productivity.
+> Most meetings are status updates that should be Loom videos. Real meetings solve problems, make decisions, or create breakthroughs. Everything else is organizational theater that kills productivity. Replace weekly status meetings with 5-minute Loom updates where people show their work on screen. Watch at 2x speed, get transcripts for trends, save 8+ hours weekly.
 > 
-> **Universal Truth:** "A meeting without a decision is just an expensive conversation."
+> **Universal Truth:** "A meeting without a decision is just an expensive conversation. A Loom update is proof of progress."
 
 ### The Only Three Things That Matter
 

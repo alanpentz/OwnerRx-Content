@@ -618,7 +618,7 @@ Welcome to your AI-powered future. It starts with your next prompt.
 ... (continue daily)
 
 ### Advanced Training Resources
-- Follow Ethan Mollick for AI strategy
+- Follow leading AI strategists and researchers
 - Follow Alan for practical business application
 - Join AI business communities
 - Share wins and learnings
