@@ -17,23 +17,34 @@ Key Metrics to Track:
 - Expansion close rate: 60% (verify current)
 -->
 
-# The $100K Hidden in Your Business Hook Generator
+# The Hidden Money in Your Business Hook Generator
 
-## Primary Hook Variants
+## Primary Hook Variants (Scaled by Business Size)
 
-### Hook A: "Find $100K in 14 days without a single new customer"
-### Hook B: "Your business is bleeding $100K/year—here's the treasure map"
-### Hook C: "The 50/50 Formula: Cut $50K costs, add $50K sales in 2 weeks"
+### For $500K-$2M Businesses:
+**Hook A:** "Find 8-12% of Your Annual Revenue Hidden in 5 Places (30-Day Recovery Plan)"
+
+### For $2M-$5M Businesses:
+**Hook B:** "The $100K Hidden in Your Business (And the 30-Day Plan to Find It)"
+
+### For $5M+ Businesses:
+**Hook C:** "Recover $200K+ Without New Sales: The 5-Point Profit Inspection"
 
 ## Full Marketing Entry Hook
 
 ---
 
-**Hook:** Your business is hiding $100K—find $50K in costs, $50K in sales in 14 days
+**Hook:** Your business is hiding 8-12% of revenue in 5 predictable places—here's the 30-day recovery plan
 
-**Why now?** Just saw your P&L: admin costs over 40% of gross margin, AR over 45 days, and you're in delivery 40+ hours/week
+**Why now?** While you're stressed about growth, you're hemorrhaging profits through subscription zombies, pricing mistakes, inefficient processes, forgotten receivables, and tax oversights
 
-**Problem explained in plain English:** Every SMB has $100K hiding in plain sight—bleeding through inflated admin costs, slow collections, unbilled work, and ignored customer expansion opportunities. You don't need new customers; you need to plug leaks and mine gold you already own.
+**Problem explained in plain English:** Right now, your business is leaking money in at least 5 predictable places. Not pennies—we're talking 8-12% of your annual revenue, sitting there like forgotten cash in old coat pockets. The average $2M business has $100K+ hiding in these gaps. You don't need new customers; you need to plug leaks and mine gold you already own.
+
+**Industry-Specific Examples:**
+- **Service Businesses:** Unbilled scope creep, underpriced contracts, slow collections
+- **Manufacturing/Distribution:** Vendor overpayment, inventory inefficiencies, pricing errors
+- **Professional Services:** Write-offs, realization rates, subscription redundancies
+- **Construction:** Change order leakage, equipment inefficiencies, warranty callbacks
 
 **1-Minute First Win:** Calculate right now: (Your Gross Margin ÷ Admin Salaries) = Your ratio. If it's under 4x, you're bleeding $2K/month minimum.
 
@@ -89,7 +100,25 @@ Key Metrics to Track:
 - Action: Bill every change order
 - Proof: "Common leakage points include scope creep tolerance" - OwnerRx_Pillars_4_5_6_Complete.md
 
-## 14-Day Implementation Journey
+## 30-Day Implementation Journey (Phased by Business Size)
+
+### For Smaller Businesses ($500K-$2M): Simple Start
+**Week 1: Quick Wins**
+- Audit subscriptions (save $500-2K/month)
+- Review top 3 vendor contracts
+- Speed up collections by 7 days
+
+**Week 2-3: Revenue Recovery**
+- Identify unbilled work
+- Contact lapsed customers
+- Implement change order process
+
+**Week 4: Systematize**
+- Document findings
+- Create monitoring system
+- Calculate total recovery
+
+### For Mid-Size Businesses ($2M-$5M): Standard Plan
 
 **Week 1: Stop the Bleeding (Days 1-7)**
 - Day 1: Calculate admin ratio, identify cuts
@@ -116,15 +145,35 @@ Key Metrics to Track:
 - Owner delivery hours (target: <20/week)
 - Cash runway (target: >90 days)
 
-## Conservative ROI Estimate
-- Month 1: $8,333 ($100K ÷ 12)
-- Month 3: $25,000 (accumulated)
-- Month 6: $50,000 (half-year run rate)
-- Month 12: $100,000 (full capture)
+## ROI by Business Size
+
+### $1M Business:
+- Month 1: $3,333 (Quick wins)
+- Month 3: $10,000 (Systems in place)
+- Month 6: $40,000 (Half-year run rate)
+- Month 12: $80,000-120,000 (8-12% of revenue)
+
+### $3M Business:
+- Month 1: $8,333 (Immediate savings)
+- Month 3: $30,000 (Accumulated)
+- Month 6: $120,000 (Half-year run rate)
+- Month 12: $240,000-360,000 (8-12% of revenue)
+
+### $5M+ Business:
+- Month 1: $15,000+ (Quick wins)
+- Month 3: $60,000+ (Systems optimized)
+- Month 6: $200,000+ (Half-year run rate)
+- Month 12: $400,000-600,000 (8-12% of revenue)
 
 ## Risk Mitigation
 **Risk:** Trying everything at once, accomplishing nothing
-**Mitigation:** Follow the 14-day sequence exactly—each day builds on previous wins
+**Mitigation:** Follow the phased sequence for your business size—each week builds on previous wins
+
+**Implementation Support Options:**
+- **DIY Track:** Use our templates and checklists
+- **Guided Track:** Weekly check-ins and troubleshooting
+- **Done-With-You Track:** We audit alongside you
+- **Delegated Track:** Your team implements with our guidance
 
 ## A/B Test Variants for Marketing
 
@@ -144,7 +193,13 @@ Key Metrics to Track:
 
 This isn't about working harder or finding new customers. It's about seeing what's already there. The OwnerRx system reveals the $100K that's been hiding in plain sight—in your admin costs, your collections, your existing customers, your unbilled work.
 
-**The Universal Truth:** "Every business over $500K revenue has $100K hiding in inefficiency and missed opportunity. The question isn't whether it's there—it's whether you'll capture it."
+**The Universal Truth:** "Every business has 8-12% of revenue hiding in inefficiency and missed opportunity. The question isn't whether it's there—it's whether you'll capture it before your competitors do."
+
+**Proof Points by Industry:**
+- **Digital Agency:** Recovered $127K through scope documentation and collection improvements
+- **Manufacturing:** Found $198K in vendor overpayments and inventory optimization
+- **Construction:** Captured $156K from change orders and equipment utilization
+- **Professional Services:** Identified $142K in subscription waste and billing gaps
 
 ## Call to Action Options
 

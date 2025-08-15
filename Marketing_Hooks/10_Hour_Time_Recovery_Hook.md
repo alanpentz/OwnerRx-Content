@@ -16,23 +16,34 @@ Key Metrics to Track:
 - Owner working hours: 60-80 typical (verify current)
 -->
 
-# The "Get Your Life Back" Hook: Reclaim 10 Hours/Week Without Losing Revenue
+# The Simple Time Recovery Hook
 
-## Primary Hook Variants
+## Primary Hook Variants (Simplified for All Business Types)
 
-### Hook A: "You're working 60 hours to produce 30 hours of value—here's the fix"
-### Hook B: "Reclaim 10 hours/week in 10 days without dropping a single ball"
-### Hook C: "Stop being a $500/hour CEO doing $20/hour work—the 10-hour liberation plan"
+### Universal Version:
+"Steal Back 10 Hours Every Week in 15 Days (While Your Business Actually Runs Better)"
+
+### For Service Businesses:
+"Stop Drowning: 5 Simple Changes That Free Up 10 Hours Weekly"
+
+### For Traditional Businesses:
+"Work Less, Earn More: The Common-Sense Guide to Getting Your Week Back"
 
 ## Full Marketing Entry Hook
 
 ---
 
-**Hook:** Working 60+ hours? You're wasting 20 on nonsense—reclaim 10 hours this week
+**Hook:** You're drowning in tasks that someone else could do for 1/3 your hourly rate. Here's how to reclaim 10 hours every week in just 15 days.
 
 **Why now?** Another week where you worked nights/weekends, missed family dinner, and still didn't finish your important work
 
-**Problem explained in plain English:** Most owners work 60-80 hours but only produce 30-40 hours of value. The rest is wasted on meetings without decisions, emails that should be automated, $20/hour tasks you should delegate, and constant interruptions that destroy focus. You're not time-poor—you're time-stupid.
+**Problem explained in plain English:** While you're updating spreadsheets at 9 PM, your competitors are thinking strategy. The average business owner wastes 10-15 hours weekly on work that shouldn't even cross their desk. This isn't about complex systems or technology—it's about simple changes that free up your time immediately.
+
+**Works for Every Business Type:**
+- **Service:** Stop doing work your team should handle
+- **Retail:** Automate routine tasks eating your day
+- **Manufacturing:** Delegate operational details
+- **Professional Services:** Bill for value, not hours in chair
 
 **1-Minute First Win:** Cancel tomorrow's most useless meeting right now. Text: "Converting to email update—will send summary instead."
 
@@ -52,15 +63,15 @@ Key Metrics to Track:
 
 ## The 10-Hour Recovery Plan (Specific Sources)
 
-### IMMEDIATE WINS: 4 Hours This Week
+### IMMEDIATE WINS: 4 Hours This Week (No Tech Required)
 
-**2 Hours - The Meeting Massacre**
-From the repo: "Most meetings are status updates that should be emails. Real meetings solve problems, make decisions, or create breakthroughs."
-- **Action:** Cancel all status meetings, replace with Loom videos
-- **The Loom Method:** Direct reports send 5-minute weekly Loom showing their work, progress, and blockers
-- **Script:** "Converting our weekly status meeting to Loom updates. Record 5 min showing your work every Friday by 3pm"
-- **Bonus:** Get transcripts for trend analysis, can watch at 2x speed, no scheduling hassles
-- **Proof:** Team_Evaluation_Complete_Playbook.md
+**2 Hours - The Meeting Fix (Simple Version)**
+**For Tech-Comfortable:** Replace status meetings with 5-minute video updates
+**For Traditional:** Replace hour meetings with 15-minute standing meetings
+**For Solo/Small:** Batch all calls into two afternoons per week
+**Universal Rule:** No meeting without a decision to be made
+
+**Result:** Save 2+ hours weekly immediately
 
 **1 Hour - The Email Batch**
 From the repo: "Touch it once or schedule it" 
@@ -107,20 +118,12 @@ From the repo: "$20/hour: Doing tasks (email, admin, routine work)"
 - **Fix:** Anything under $100/hour = delegate/automate
 - **Proof:** Universal_Business_Insights.md
 
-### 3. **The Status Update Theater** (3 hours/week)
-From the repo: "Status meetings waste $31K/year"
-- **Fix:** Loom video updates instead of meetings
-- **How:** Each person records 3-5 minute Loom weekly
-  - Show their actual work on screen
-  - Walk through what's done, what's next
-  - Flag any blockers or needs
-- **Benefits:** 
-  - Watch at 2x speed = 30 min for 10 reports
-  - Transcripts for documentation
-  - Can review anytime, anywhere
-  - People are more concise on video
-- **Savings:** 8 hours/week across team
-- **Proof:** Previous hooks analysis
+### 3. **The Update Problem** (3 hours/week)
+**Tech Solution:** Video updates or project management software
+**Simple Solution:** One-page weekly reports emailed Monday morning
+**Micro Business Solution:** 5-minute daily huddle replaces multiple check-ins
+
+**Key:** Information sharing shouldn't require meetings
 
 ### 4. **The Admin Quicksand** (4 hours/week)
 From the repo: "20+ hours monthly on tasks that AI can do in minutes"
@@ -132,12 +135,35 @@ From the repo: "9 hours/week context switching"
 - **Fix:** Office hours for questions, batch similar work
 - **Proof:** Universal_Business_Insights.md
 
-## 10-Day Implementation Journey
+## 15-Day Simple Implementation (Choose Your Path)
 
-**Days 1-3: Stop the Bleeding**
-- Day 1: Cancel 50% of meetings, convert to updates
-- Day 2: Implement 2x daily email check
-- Day 3: Block first 2 hours for deep work
+### Path A: For Comfortable with Technology
+
+**Week 1: Quick Wins**
+- Cancel half your meetings
+- Check email twice daily only
+- Block mornings for important work
+- Set up simple automation tools
+
+**Week 2: Delegation**
+- List everything you do
+- Delegate bottom 30%
+- Create simple templates
+- Protect your time blocks
+
+### Path B: For Traditional/Non-Tech
+
+**Week 1: Common Sense Changes**
+- Shorten all meetings by half
+- Create "office hours" for questions
+- Batch similar tasks together
+- Say no to low-value requests
+
+**Week 2: Simple Delegation**
+- Write down your daily tasks
+- Hand off repetitive work
+- Train someone on basics
+- Focus on what only you can do
 
 **Days 4-6: Create Structure**
 - Day 4: Map energy levels, align calendar

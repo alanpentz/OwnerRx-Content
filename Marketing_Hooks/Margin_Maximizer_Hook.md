@@ -18,23 +18,34 @@ Key Metrics to Track:
 - Scope creep impact: 2-3% per addition (verify current)
 -->
 
-# The "Margin Maximizer" Hook: Your Business Can Make 20-40% More Profit
+# The Customer Value Maximizer Hook
 
-## Primary Hook Variants
+## Primary Hook Variants (Industry-Specific)
 
-### Hook A: "Most businesses leave 10-20% margin on the table—here's how to capture it"
-### Hook B: "Your industry's top 10% hit these margins—here's how to join them"
-### Hook C: "The margin improvement map: From surviving to thriving in 90 days"
+### For Service Businesses:
+"Why Your Best Customers Pay 3X More (And Thank You For It)"
+
+### For Product/Manufacturing:
+"The Premium Positioning Playbook: Escape Commodity Pricing Forever"
+
+### For All Businesses:
+"The Customer Value Matrix: Know Who to Premium-Price, Standard-Price, and Fire"
 
 ## Full Marketing Entry Hook
 
 ---
 
-**Hook:** You're probably 15% below optimal margins—here's the path to industry-leading profitability
+**Hook:** You have customers who would happily pay 50% more tomorrow. You also have customers you should fire today. Most business owners treat them exactly the same.
 
 **Why now?** Realized you're working hard but keeping less than you should, or seeing competitors somehow afford better talent and growth
 
-**Problem explained in plain English:** Most business owners don't know what great margins look like for their industry. They accept "normal" margins when excellent margins are achievable. The difference between surviving and thriving isn't sales volume—it's margin optimization. Top performers in every industry consistently hit 10-20% higher margins through specific, learnable tactics.
+**Problem explained in plain English:** The difference between 10% margins and 40% margins isn't working harder—it's knowing which customers to pursue, which to premium-price, and which to politely send to your competitors. Most business owners are afraid to fire bad customers or raise prices on good ones. The result? You're subsidizing problem customers with profits from great ones.
+
+**Customer Selection Reality:**
+- 20% of customers generate 80% of profits
+- 30% of customers actually cost you money
+- 50% are marginally profitable
+- Top customers would pay more for better service
 
 **1-Minute First Win:** Calculate your current margin and see how far you are from greatness: (Revenue - Direct Costs) ÷ Revenue × 100
 
@@ -105,14 +116,14 @@ Based on OwnerRx insights + industry analysis:
 
 ## The Margin Improvement Journey
 
-### Your Current State Diagnosis
+### Your Customer Mix Diagnosis
 
-**Level 1: Survival Mode (Bottom 25%)**
-- Below industry average margins
-- Competing on price
-- Can't afford good talent
-- Cash flow struggles
-- *Opportunity: 10-15% margin improvement available*
+**Level 1: Taking Everyone (Bottom 25%)**
+- Accept any customer with money
+- Afraid to fire problem clients
+- Competing on price only
+- No customer segmentation
+- *Result: 10-20% margins, constant stress*
 
 **Level 2: Industry Standard (Middle 50%)**
 - Hit average margins
@@ -137,14 +148,26 @@ Based on OwnerRx insights + industry analysis:
 
 ## The 90-Day Margin Transformation
 
-### Days 1-30: Quick Wins (3-5% improvement)
+### Days 1-30: Customer Segmentation (Immediate Clarity)
 
-**Week 1: Price Optimization**
-- Analyze bottom 20% margin customers
-- Implement 5-10% increase on new business
-- Add processing/handling fees
-- Stop unnecessary discounting
-- *Expected gain: 2-3%*
+**Week 1: The Customer Value Matrix**
+Create four quadrants:
+- **Stars (High Value, Low Effort):** Premium price, white-glove service
+- **Workhorses (High Value, High Effort):** Optimize service delivery
+- **Question Marks (Low Value, Low Effort):** Develop or maintain
+- **Dogs (Low Value, High Effort):** Fire or transform
+
+**Week 2-3: Segmentation Action**
+- Calculate profit per customer (not just revenue)
+- Identify your top 20% and bottom 20%
+- Document service costs per segment
+- Create service tiers
+
+**Week 4: Immediate Changes**
+- Raise prices 10-20% for new Star segment customers
+- Create premium service tier at 50% higher price
+- Send farewell letter to bottom 5% customers
+- Stop discounting for Question Marks
 
 **Week 2-3: Leak Plugging**
 - Capture all scope creep with change orders
@@ -264,12 +287,26 @@ When gross margin misleads (heavy pass-throughs):
 
 ## Real-World Success Formulas
 
-**Service Company Transformation:**
-"42% → 58% margin in 90 days:
-- Tightened scopes (+5%)
-- Value pricing (+6%)
-- Reduced bench time (+3%)
-- Fired bad customers (+2%)"
+**Marketing Agency Transformation:**
+"Lost 40% of clients to cheaper competitors, then:
+- Identified top 20% most profitable clients
+- Created premium tier at 2x price
+- Fired bottom 30% of client base
+- Result: 30% less revenue, 50% more profit, 40-hour weeks"
+
+**Manufacturing Company Success:**
+"Competing on price only, then:
+- Segmented customers by order complexity
+- Premium pricing for custom/rush orders
+- Standardized offerings for price buyers
+- Result: 45% margins on premium (was 25% average)"
+
+**Professional Services Firm:**
+"Everyone paid same hourly rate, then:
+- Created value-based pricing for outcomes
+- Kept hourly for commodity work
+- Introduced retainer model for best clients
+- Result: Top clients paying 3x more, happily"
 
 **E-commerce Brand Evolution:**
 "35% → 52% margin in 6 months:
@@ -306,11 +343,17 @@ When gross margin misleads (heavy pass-throughs):
 
 **Common Concerns Addressed:**
 
-**"My customers won't pay more"**
-- Start with new customers only
-- Add value before raising price
-- Test with bottom 20% first
-- You need fewer customers at higher margins
+**"I can't afford to fire customers"**
+- Bad customers cost more than they generate
+- Time freed up can serve profitable customers
+- Calculate true cost: service time + stress + opportunity cost
+- Better to have 50 great customers than 100 mixed
+
+**"My industry doesn't allow premium pricing"**
+- Every industry has premium players
+- It's about positioning and customer selection
+- Premium isn't just price—it's the entire experience
+- Case studies exist in YOUR industry
 
 **"My industry doesn't work that way"**
 - Every industry has top 10% performers

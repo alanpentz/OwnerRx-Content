@@ -18,24 +18,36 @@ Key Metrics to Track:
 - Turnover cost: $15K per departure
 -->
 
-# The "Who Are You Overpaying?" Hook: Find $150K in Labor Waste in 15 Days
-## "Your Payroll is Hiding 20-30% Fat—Here's the 2-Week Surgery Guide"
+# The Labor Efficiency Analysis Hook
+## "The $47/Hour Question: Which Employees Generate Profit vs. Cost You Money?"
 
 ## Primary Hook Variants
 
-### Hook A: "Find and fix your $150K payroll problem in 15 days—guaranteed"
-### Hook B: "The Labor Efficiency Calculator: Know exactly who's worth their salary TODAY"
-### Hook C: "Cut payroll 20% in 2 weeks without losing any real productivity"
+### Tiered by Business Size:
+
+**For 2-10 Employees:**
+"The Simple Profit-Per-Person Calculator: Know Who's Making You Money"
+
+**For 10-50 Employees:**  
+"The $47/Hour Question: Which Employees Cost You Money Just by Showing Up?"
+
+**For 50+ Employees:**
+"Labor Efficiency Audit: Find 20-30% Payroll Waste in Your Organization"
 
 ## Full Marketing Entry Hook
 
 ---
 
-**Hook:** You have a gut feeling someone on your team isn't worth what you're paying them, but you can't prove it—until now
+**Hook:** You have people on payroll who generate $30 of value per hour but cost you $47. Meanwhile, your top performer generates $180/hour at the same salary. Most business owners have no idea who's profitable and who's a loss.
 
 **Why now?** Payroll just hit 50% of revenue, profits are shrinking, but everyone seems "busy"—meanwhile your competitors operate with half your headcount and are eating your lunch
 
-**Problem explained in plain English:** You're paying for activity, not productivity. That "essential" admin person who's been there 5 years? They're producing $50K of value on a $75K salary. Your "rockstar" salesperson? They haven't hit quota in 6 months but you're scared to let them go. Your management layer? They're costing you $200K to manage $400K in gross margin—that's upside down. You don't have a revenue problem; you have a labor efficiency problem that can be fixed in 15 days.
+**Problem explained in plain English:** The shocking truth: 30% of your workforce might be costing you money every single day they show up. You're paying for activity, not productivity. This isn't about being mean or cutting blindly—it's about understanding true labor ROI so you can reward stars, develop potential, and yes, make tough decisions about underperformers.
+
+**Implementation Complexity by Size:**
+- **Small teams (2-10):** Simple 2-hour assessment
+- **Medium teams (10-50):** Phased department-by-department approach  
+- **Large teams (50+):** Systematic rollout with change management
 
 **1-Minute First Win:** Calculate this right now: Take your gross margin and divide by admin salaries. If it's less than 4x, you're overstaffed or overpaying. (Example: $400K margin ÷ $150K admin = 2.7x = PROBLEM). You can fix this in 2 weeks.
 
@@ -133,7 +145,18 @@ Low Value + High Cost = Replace (immediate action)
 Low Value + Low Cost = Develop (or eventually replace)
 ```
 
-## The 15-Day Rapid Overpayment Audit
+## The Labor Efficiency Framework (Scaled Implementation)
+
+### For Small Businesses (2-10 Employees)
+**The 2-Hour Quick Assessment:**
+1. List each person's total cost (salary + benefits + taxes)
+2. Estimate their direct revenue or cost savings contribution
+3. Calculate simple ROI: Value ÷ Cost
+4. Anyone under 2x needs attention
+5. Create improvement or transition plan
+
+### For Medium Businesses (10-50 Employees)
+**The 1-Week Department Analysis:**
 
 ### Days 1-3: The Instant Truth Assessment
 
@@ -225,12 +248,19 @@ Risk: Low/Medium/High
 
 ### Days 11-15: The Execution Sprint
 
-**Day 11-12: Execute Immediate Cuts**
-Morning conversations:
-- Meet individually
-- Deliver decision
-- Immediate effect
-- Transition tasks
+**Day 11-12: Execute Changes WITH Compassion**
+
+**For Performance Issues:**
+- Present data objectively
+- Offer improvement plan option
+- Set clear 30-day metrics
+- Document everything
+
+**For Role Eliminations:**
+- Explain business necessity
+- Provide transition support
+- Offer references if appropriate
+- Handle with dignity
 
 Afternoon actions:
 - Notify team
@@ -375,7 +405,31 @@ Before any hire, prove:
 - CRM + Zapier + Part-time VA
 - Annual savings: $60K
 
-## Real-World Overpayment Discoveries
+## Real-World Case Studies (Industry-Specific)
+
+### Digital Marketing Agency ($2.3M Revenue)
+**Situation:** 12 employees, margins compressed, client churn
+**Discovery:** 3 account managers at 2.7x efficiency (needed 4x)
+**Action:** Restructured to 2 senior AMs with junior support
+**Result:** Saved $75K, improved client retention
+
+### Manufacturing Company ($4M Revenue)
+**Situation:** 35 employees, competing on price
+**Discovery:** Admin layer at 2.2x efficiency, production at 3.5x
+**Action:** Automated admin tasks, focused on production efficiency
+**Result:** $120K savings, maintained output
+
+### Professional Services Firm ($1.8M Revenue)
+**Situation:** 8 employees, growth stagnation
+**Discovery:** Owner generating 75% of revenue personally
+**Action:** Shifted admin tasks to VA, owner focused on sales
+**Result:** 20% revenue growth in 6 months
+
+### Construction Company ($8.5M Revenue)
+**Situation:** 42 employees, owner overwhelmed
+**Discovery:** No middle management efficiency metrics
+**Action:** Implemented phased efficiency tracking
+**Result:** Identified 3 underperforming managers, saved $180K
 
 ### Agency Example ($3M Revenue)
 **Found:**
@@ -440,7 +494,7 @@ Score < 2x = Cut (immediate action)
 
 ### "But they've been here forever"
 **Reality:** Tenure ≠ Value
-**Response:** Long tenure with declining output is charity, not business
+**Better Approach:** Document their knowledge, then transition them to a role that fits their current capacity—or help them transition out with dignity
 
 ### "They know everything"
 **Reality:** Knowledge without productivity is worthless
@@ -492,12 +546,19 @@ Most businesses are carrying 20-30% deadwood payroll. That's not kindness; it's 
 
 The fear of cutting is always worse than the reality. Every owner who does this says the same thing: "I should have done it sooner."
 
-## Call to Action Options
+## Call to Action Options (By Business Situation)
 
-1. "Find your $150K in payroll waste in 15 days—start now"
-2. "Calculate who's overpaid in the next 60 seconds"
-3. "Cut 20% of payroll in 2 weeks—guaranteed"
-4. "The 15-day payroll surgery—remove the fat, keep the muscle"
+**For Crisis Mode:**
+"Emergency Labor Audit: Find immediate savings to survive"
+
+**For Growth Mode:**
+"Optimize your team for scaling: Know who to keep, develop, or replace"
+
+**For Stable/Profitable:**
+"Labor Efficiency Optimization: Maximize ROI on your biggest expense"
+
+**For All:**
+"Take the 2-minute assessment: Calculate your team's true ROI"
 
 ## A/B Test Variants
 
