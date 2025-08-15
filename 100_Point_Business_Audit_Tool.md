@@ -819,22 +819,6 @@ Week 11-12: Embed changes into culture
 
 ---
 
-## The Management Crisis Reality
-
-**UK Productivity Ranking:** 6th out of 7 G7 nations
-**The Gap:** 30% productivity improvement available through better management
-**The Fix:** This audit + systematic improvement + management development
-
-**Remember the Framework:**
-1. Define Utopia (100/100 score)
-2. Assess Reality (This audit)
-3. Close the Gap (Systematic improvement)
-4. Hearts and Minds (Get buy-in for change)
-
-**The Bottom Line:** UK managers are promoted for tenure or technical skills, not management capability. This audit reveals where that's hurting your business. Fix the Reds, improve the Ambers, maintain the Greens, and watch your business transform.
-
----
-
 ## Tracking Template
 
 ### Quarterly Scores
