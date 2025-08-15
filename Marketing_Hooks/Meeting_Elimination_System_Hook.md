@@ -266,6 +266,11 @@
 - 52 weeks = $26,000/year
 - For ONE recurring meeting
 
+**Scaled by Business Size:**
+- Small Business (5 people): Save 3 hours/week = $7,800/year
+- Growing Business (15 people): Save 5 hours/week = $39,000/year
+- Established Business (30+ people): Save 8 hours/week = $104,000/year
+
 **Your Organization:**
 - Average # of employees: ___
 - Average hours in meetings/week: ___

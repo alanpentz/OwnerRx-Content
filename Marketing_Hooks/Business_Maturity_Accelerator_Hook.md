@@ -4,19 +4,25 @@
 ## Primary Hook Variants
 
 ### For Stuck Businesses:
-"The 90-Point Business Maturity Diagnostic: Why You're Stuck at $2M"
+"The 90-Point Business Maturity Diagnostic: Your Plateau-Breaking Roadmap Included"
 
 ### For Growing Businesses:
-"Navigate the 10 Life Cycle Stages Without Crashing"
+"Navigate the 10 Life Cycle Stages Without Crashing (Find Your 3 Biggest Issues First)"
 
-### For Ambitious Owners:
-"Graduate from Chaos to Control in 90 Days"
+### For Optimizers:
+"The 90-Point Business Optimization Audit: Systematic Improvement Framework"
+
+### For Traditional Businesses:
+"Simple Business Health Check: Know Where You Stand, What to Fix First"
+
+### For Chaotic Businesses:
+"Discover Your Hidden Strengths: Why Your Chaos Might Be Your Advantage"
 
 ## Full Marketing Entry Hook
 
 ---
 
-**Hook:** Your business feels stuck at the same revenue level year after year. You work harder but nothing changes. The problem isn't effort—it's maturity. Most businesses die in adolescence, never reaching their prime.
+**Hook:** Your business feels stuck at the same revenue level year after year. You work harder but nothing changes. The problem isn't effort—it's maturity. Most businesses die in adolescence, never reaching their prime. Take the assessment and get your 3 biggest issues to fix first (without adding more to your plate).
 
 **Why now?** 70% of businesses plateau permanently at their current stage. They lack the systems, structure, and leadership capabilities to advance. Meanwhile, competitors who understand business maturity accelerate past them.
 
@@ -24,7 +30,7 @@
 
 **1-Minute First Win:** Answer this: Can your business run for 2 weeks without you? If not, you're stuck in the Go-Go stage, regardless of revenue. That's your first bottleneck to remove.
 
-**Ask Next:** What worked to get you here is preventing you from getting there. What got you to $1M won't get you to $5M. Ready to identify what needs to change?
+**Ask Next:** What worked to get you here is preventing you from getting there. What got you to $1M won't get you to $5M. Ready to identify your 3 biggest bottlenecks and get a plateau-breaking roadmap?
 
 ## The 10 Life Cycle Stages
 
@@ -339,20 +345,23 @@
 **Days 1-30: Diagnose Reality**
 - Complete 90-point assessment
 - Identify life cycle stage
-- List top 3 bottlenecks
+- Get your 3 biggest issues to fix first
 - Define success metrics
+- Receive plateau-breaking roadmap
 
-**Days 31-60: Address Bottlenecks**
+**Days 31-60: Address Top 3 Issues**
 - Fix biggest constraint first
 - Implement quick wins
 - Build momentum
 - Track progress weekly
+- No new work added to your plate
 
 **Days 61-90: Build Foundation**
 - Install core systems
 - Develop key people
 - Create growth plan
 - Prepare for next stage
+- Systematic improvement continues
 
 ## Warning Signs by Stage
 
@@ -392,10 +401,17 @@ Maturity isn't about time in business—it's about developing the right capabili
 
 ## Call to Action Options
 
-1. "Discover your business maturity score in 10 minutes"
-2. "Escape the Go-Go trap that kills most businesses"
-3. "Accelerate from chaos to prime in 90 days"
-4. "Find out why you're stuck (and how to break free)"
+### For Stuck Businesses:
+1. "Get your plateau-breaking roadmap in 10 minutes"
+2. "Find out why you're stuck (and your 3 fixes)"
+
+### For Growing Businesses:
+3. "Escape the Go-Go trap that kills most businesses"
+4. "Navigate growth stages without crashing"
+
+### For Optimizers:
+5. "Take the 90-point business optimization audit"
+6. "Systematic improvement framework included"
 
 ## A/B Test Variants
 

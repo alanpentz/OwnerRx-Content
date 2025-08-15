@@ -4,7 +4,7 @@
 ## Primary Hook Variants
 
 ### For Crisis Businesses:
-"The 13-Week Cash Flow Command Center: See Every Crisis Coming 90 Days Out"
+"The 13-Week Cash Flow Early Warning System: See Problems Coming (Even If You're Behind on Payroll)"
 
 ### For Growing Businesses:
 "Stop Cash Flow Surprises: Know Your Exact Position 13 Weeks Forward"
@@ -12,11 +12,17 @@
 ### For Stable Businesses:
 "The Monday Morning Cash Flow System: 10 Minutes to Complete Visibility"
 
+### For Healthcare Practices:
+"Master Insurance Payment Delays: 13-Week Cash Visibility Despite 90-Day Cycles"
+
+### For Small Businesses (<$1M):
+"Get 3 Hours Back Weekly: The Simple Cash Flow Tracker That Prevents Surprises"
+
 ## Full Marketing Entry Hook
 
 ---
 
-**Hook:** 82% of business failures aren't from bad products or competition—they're from running out of cash. Here's the 10-minute Monday system that gives you 13 weeks of forward visibility.
+**Hook:** 82% of business failures aren't from bad products or competition—they're from running out of cash. Here's the 10-minute Monday system that gives you 13 weeks of forward visibility (works even if you're already behind on payroll).
 
 **Why now?** You check your bank balance daily, hoping for the best. You invoice late, customers pay later, but payroll doesn't wait. One surprise expense could sink you.
 
@@ -68,21 +74,32 @@ Week 2:  [Previous Ending] + Collections - Expenses = Ending Cash
 
 ## Implementation by Business Size
 
-### Small Business ($500K-$2M)
+### Small Business ($500K-$1M)
 **Owner-Managed Approach:**
 - Excel or Google Sheets template
 - 5 key customers tracked
 - 3 major expense categories
 - Weekly owner update
 - Time: 10 minutes
+- Result: 3 hours saved weekly
+
+### Growing Business ($1M-$2M)
+**Enhanced Approach:**
+- Spreadsheet with basic automation
+- 10 key customers tracked
+- 5 expense categories
+- Bookkeeper assists
+- Time: 15 minutes
+- Result: 5 hours saved weekly
 
 ### Mid-Size Business ($2M-$5M)
 **Team-Assisted Approach:**
 - Bookkeeper prepares data
 - Owner reviews and adjusts
-- 10 key customers tracked
+- 15-20 key customers tracked
 - Department expense budgets
-- Time: 15 minutes total
+- Time: 20 minutes total
+- Result: 8 hours saved weekly
 
 ### Larger Business ($5M+)
 **System-Managed Approach:**
@@ -144,6 +161,12 @@ Week 2:  [Previous Ending] + Collections - Expenses = Ending Cash
 **Implementation:** 13-week system in 2 hours
 **Result:** Identified $200K collection opportunity, extended runway from 27 to 90 days
 **Key:** Customer conversations revealed timing mismatches
+
+### Healthcare Practice ($1.5M Revenue)
+**Situation:** Insurance delays creating 90-day payment cycles
+**Implementation:** Modified system for healthcare billing
+**Result:** Predicted cash gaps 8 weeks in advance, prevented payroll crisis
+**Key:** Tracked insurance claim status separately from patient billing
 
 ### Manufacturing Company ($5.2M Revenue)
 **Situation:** Growing 300% but cash crisis monthly
