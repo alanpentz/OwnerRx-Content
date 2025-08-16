@@ -30,6 +30,20 @@ This playbook shows you how to find, capture, and defend the maximum value your 
 **The Reality:** Wrong customers leave, right ones stay
 **The Math:** 10% price increase = 30-50% profit increase (typically)
 
+### The 10% Test
+**Reality Check:** Most businesses are underpriced by 20-40%
+
+**The Test Protocol:**
+1. Raise prices 10% on new customers only
+2. Track close rate for 30 days
+3. If close rate stays >25%, make permanent
+4. Repeat every 6 months until resistance
+5. Result: Find true price ceiling
+
+**The Truth:** "Pricing is 80% confidence, 20% strategy"
+
+**Reality Check Example:** "Raised prices 10% on new customers. Close rate didn't change. Pure profit increase."
+
 ### The Psychology of Pricing
 
 #### What Really Drives Purchase Decisions
@@ -103,6 +117,9 @@ ROI: 1,340% first year."
 - Week 5-6: Drop another 20% if needed
 - Week 7-8: Find sweet spot
 - Never go below 50% of original
+
+**The Counter-Intuitive Truth:**
+Start high and come down, never start low and go up. It's easier to discount than to raise prices on existing customers.
 
 **Pricing Conversations:**
 When they say "It's too expensive":

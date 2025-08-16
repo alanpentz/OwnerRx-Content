@@ -26,6 +26,7 @@
 - The wrong person in a key role doesn't just fail to move you forward - they actively hold you back
 - When you double revenue, expect 50% of leadership roles to turn over - growth outpaces people
 - You already know who your underperformers are - you're just avoiding the conversation
+- Power Skills (reframed from "soft skills") determine 70% of management success - invest accordingly
 
 ### The One Metric That Matters
 - **Primary KPI**: Team Performance Index (combination of productivity, engagement, and retention)
@@ -38,6 +39,7 @@
 - Weekly 1-on-1 completion rate (predicts engagement issues)
 - Time-to-productivity for new hires (predicts hiring process effectiveness)
 - Employee referral rate (predicts culture health)
+- Power Skills development hours (predicts leadership pipeline strength)
 
 #### Lagging Indicators  
 - Revenue per employee (confirms team effectiveness)

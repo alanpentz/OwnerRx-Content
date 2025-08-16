@@ -46,6 +46,12 @@ This knowledge base shows you how to build a sales engine that consistently gene
 - **Why It Matters**: Captures all elements of sales performance in one number
 - **Target**: 20% quarterly improvement until plateaus
 
+### Pipeline Coverage Rule
+- **Minimum Coverage**: Pipeline must be 3× your quarterly target
+- **Why 3×**: Accounts for typical 33% close rates
+- **Weekly Check**: If below 3×, all hands on prospecting
+- **Reality**: Below 3× = unpredictable revenue
+
 ### Supporting Metrics by Stage
 
 #### Lead Generation
@@ -69,6 +75,21 @@ This knowledge base shows you how to build a sales engine that consistently gene
 
 ### Stage 1: Prospecting & Lead Generation
 *Finding people with problems you can solve*
+
+#### The Real ICP (Ideal Customer Profile)
+**Reality Check:** Your ideal customer is NOT the biggest or most prestigious. It's who's cheapest to acquire, easiest to serve, and most abundant.
+
+**30-Minute ICP Finder Tool:**
+1. List all customers by revenue
+2. Score each on:
+   - Acquisition ease (1-10): How easy to get them?
+   - Profitability (1-10): How profitable to serve?
+   - Repeatability (1-10): Can you find more like them?
+   - Joy factor (1-10): Do you enjoy working with them?
+3. Top scorers = Your real ICP
+4. Focus 80% of efforts on this profile
+
+*"The point of finding your ideal customer is to make acquiring them cheaper"*
 
 #### Core Activities:
 - Ideal Customer Profile (ICP) definition
@@ -119,6 +140,12 @@ This knowledge base shows you how to build a sales engine that consistently gene
 ### Stage 2: Qualification & Discovery
 *Understanding if you can actually help*
 
+#### Sales Process Reality
+**Critical Ratio:** 70% discovery, 30% pitching (not the reverse)
+- Get to "no" faster to save everyone time
+- Most sales processes are designed for the company, not the customer
+- Pipeline needs 3× coverage for predictable revenue
+
 #### The BANT Evolution:
 - **Budget**: Can they afford it?
 - **Authority**: Can they buy it?
@@ -132,6 +159,8 @@ This knowledge base shows you how to build a sales engine that consistently gene
 3. What have you tried before?
 4. What does success look like?
 5. Who else needs to be involved?
+
+**Reality Check:** "Alan had sexy government tech work that looked great. But boring grant management clients paid the bills."
 
 ### Stage 3: Solution Presentation
 *Teaching them why your way works*

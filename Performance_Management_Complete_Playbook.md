@@ -67,6 +67,19 @@ Companies with effective performance management achieve:
 
 ## 2. IMPLEMENTATION TIMELINE
 
+### The Weekly 15-Minute Revolution
+
+**Replace Annual Reviews With:**
+- Weekly 15-minute 1-on-1s drive real performance
+- Same 3 questions every week:
+  1. What went well this week?
+  2. What challenges did you face?
+  3. What support do you need?
+- Document everything or it didn't happen
+- No surprises in formal reviews
+
+**Reality Check:** "Weekly check-ins prevent annual surprises."
+
 ### 30-Day Performance System Launch
 
 **Week 1: Foundation Setting**

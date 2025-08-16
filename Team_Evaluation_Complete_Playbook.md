@@ -33,6 +33,8 @@ This is the evaluation system every owner must complete quarterly. It takes 30 m
 - MEDIUM: Could grow with development
 - LOW: At ceiling in current role
 
+**Critical Factor:** Assess their Power Skills (decision-making, conflict resolution, emotional intelligence) alongside technical abilities. Power Skills determine 70% of leadership success.
+
 **Dimension 3: Values Alignment**
 - HIGH: Embodies company values
 - MEDIUM: Generally aligned
@@ -224,10 +226,11 @@ Create a simple spreadsheet:
 
 **High Performers (High-Medium/Low-High):**
 - Recognize consistently
-- Develop potential
+- Develop potential through Power Skills training
 - Clarify growth path
 - Increase responsibilities
 - Monitor satisfaction
+- Focus on "Decision Acceleration" and "Execution Optimization" skills
 
 **Solid Citizens (Medium-Medium-Medium):**
 - Appreciate stability
@@ -262,8 +265,8 @@ Create a simple spreadsheet:
 **Can you fix it?**
 
 **Performance Issues:**
-- Fixable: Skills training, clearer expectations, better tools
-- Not Fixable: Fundamental capability gap, motivation issues
+- Fixable: Skills training, clearer expectations, better tools, Power Skills development
+- Not Fixable: Fundamental capability gap, motivation issues, Power Skills resistance
 
 **Potential Limitations:**
 - Fixable: Development programs, stretch assignments, mentoring

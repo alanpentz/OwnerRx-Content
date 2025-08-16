@@ -41,16 +41,33 @@
 - **Frequency**: Monthly
 - **Target range**: 2.0+ for sustainable profitability (varies by business model)
 
-### Supporting Metrics
-#### Leading Indicators
-- Weekly cash position vs. major upcoming expenses
-- Accounts receivable aging and collection velocity
-- Labor efficiency by employee/department
+### The 5-7 Metrics Dashboard
+**Simplify to What Matters:**
+Track only 5-7 metrics weekly:
+1. **Cash**: Current balance and 4-week forecast
+2. **Revenue**: Weekly run rate vs. target
+3. **Gross Margin**: Percentage and trend
+4. **Customers**: New, lost, total active
+5. **Pipeline**: 3× coverage for next quarter
+6. **LER**: Labor efficiency ratio
+7. **One Custom**: Your industry-specific vital sign
 
-#### Lagging Indicators  
-- Monthly gross margin percentage
+**The Rule:** If your dashboard takes >30 seconds to read, it's too complex
+
+### Supporting Metrics
+#### Leading Indicators (Weekly Tracking)
+- Cash position vs. upcoming expenses
+- Pipeline coverage ratio
+- Customer acquisition velocity
+- Labor efficiency by department
+
+#### Lagging Indicators (Monthly Review)
+- Gross margin percentage
 - Net profit margin
-- Cash runway (months of expenses covered)
+- Cash runway (months covered)
+- Customer lifetime value
+
+**Reality:** Weekly tracking drives behavior, monthly is too slow
 
 > **Universal Business Insight #113: Business Health Score System**
 > 

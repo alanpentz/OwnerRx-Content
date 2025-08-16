@@ -33,6 +33,7 @@ This playbook shows you how to identify potential, develop who you can, and know
 - Time to learn (6-12 months)
 - Strong foundation exists
 - Cultural fit critical
+- Power Skills present (communication, emotional intelligence, conflict resolution)
 
 **Hire Externally When:**
 - Growing fast (50%+ annually)
@@ -40,6 +41,7 @@ This playbook shows you how to identify potential, develop who you can, and know
 - Missing critical expertise
 - Time pressure exists
 - Transformation required
+- Need specific Power Skills immediately
 
 **Alan's Rule:** "Most people can do a role right above them after being in a role below for a while but skipping ahead up the ladder too far is a disaster waiting to happen."
 
@@ -63,6 +65,7 @@ This playbook shows you how to identify potential, develop who you can, and know
 - Direct mentoring from owner
 - External learning resources
 - Cross-functional exposure
+- Power Skills development (reframed from "soft skills" for CFO buy-in)
 
 **Investment:** $0-500/person/year
 - Books and courses
@@ -82,6 +85,10 @@ This playbook shows you how to identify potential, develop who you can, and know
 - Process standardization
 - Performance management
 - Strategic thinking basics
+- Power Skills mastery:
+  - Decision acceleration (vs "communication")
+  - Execution optimization (vs "leadership")
+  - Productivity enhancement (vs "teamwork")
 
 **Systems Required:**
 - Basic leadership training
@@ -350,6 +357,12 @@ our company values and processes."
 - Problem escalation
 - Basic metrics management
 
+**Power Skills Focus:**
+- Decision acceleration (clear, fast decisions)
+- Conflict resolution (team friction costs 15-20% productivity)
+- Emotional intelligence (stress spreads 3x faster than calm)
+- Active listening (first-time understanding saves 30% rework)
+
 **Development Approach:**
 - Weekly owner check-ins
 - Monthly skill workshops
@@ -365,6 +378,12 @@ our company values and processes."
 - Cross-functional collaboration
 - Talent development
 - Process optimization
+
+**Power Skills Requirements:**
+- Negotiation excellence (internal resource allocation)
+- Change management (leading through transitions)
+- Coaching capability (develop direct reports)
+- Stakeholder management (manage up, down, and across)
 
 > **Universal Business Insight #156: Individual-Company Goal Alignment**
 > 
@@ -389,6 +408,12 @@ our company values and processes."
 - Board management
 - M&A evaluation
 - Investor relations
+
+**Executive Power Skills:**
+- Strategic communication (inspire and align)
+- Systems thinking (see interconnections)
+- Adaptive leadership (navigate uncertainty)
+- Executive presence (command respect without demanding it)
 
 **Development Approach:**
 - Executive coaches

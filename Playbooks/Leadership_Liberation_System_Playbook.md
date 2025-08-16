@@ -16,6 +16,8 @@ Most owners are trapped in their business because:
 
 ## Core Components
 
+**Critical Success Factor:** Leaders need Power Skills (decision-making, conflict resolution, emotional intelligence) not just technical expertise. Without these, delegation fails regardless of systems.
+
 ### 1. The Autonomy Test
 
 #### Weekly Check-In Framework
@@ -35,6 +37,11 @@ Most owners are trapped in their business because:
 4. **Level 4 - Agree:** We decide together
 5. **Level 5 - Advise:** You decide, inform me
 6. **Level 6 - Delegate:** You decide, don't inform
+
+**Required Power Skills by Level:**
+- Levels 1-2: Basic execution, active listening
+- Levels 3-4: Decision analysis, stakeholder communication
+- Levels 5-6: Strategic thinking, conflict resolution, emotional intelligence
 
 **Progressive Delegation Path**
 - Week 1-2: Level 1-2 (Tell/Sell)
@@ -97,7 +104,24 @@ Your final list should only include:
 - You show up and deliver
 - Team handles follow-up
 
-### 3. Founder Extraction Method
+### 3. Power Skills Development for Delegation
+
+**The Problem:** Most delegation fails because leaders lack Power Skills, not technical skills.
+
+**Power Skills Required for Successful Delegation:**
+- **Decision Acceleration:** Make clear decisions quickly (saves 30% meeting time)
+- **Conflict Resolution:** Handle disagreements without escalation (prevents 40% of issues)
+- **Emotional Intelligence:** Read and manage team dynamics (improves outcomes 25%)
+- **Strategic Communication:** Explain why, not just what (increases buy-in 60%)
+
+**Development Approach:**
+1. Assess current Power Skills gaps
+2. Provide targeted training (reframe as "productivity enhancement" for CFO buy-in)
+3. Practice in low-stakes situations
+4. Gradually increase delegation complexity
+5. Measure improvement through delegation success rate
+
+### 4. Founder Extraction Method
 
 #### Phase 1: Document While Doing (Month 1)
 - Record yourself doing key tasks

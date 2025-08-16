@@ -108,6 +108,26 @@ Creative and strategic work requires uninterrupted blocks of 2-4 hours. One 4-ho
 - **Energy management trumps time management**: Align hard tasks with high energy
 - **Systems beat willpower**: Motivation is unreliable; systems are consistent
 
+### Energy Management Revolution
+
+**The Paradigm Shift:** Manage energy, not time (time is fixed, energy is renewable)
+
+**Energy Audit Process:**
+1. Track energy levels hourly for a week (1-10 scale)
+2. Identify patterns (morning person vs night owl)
+3. Map high-energy windows to critical work
+4. Schedule low-energy times for routine tasks
+5. Build in recovery periods
+
+**Energy Optimization Strategies:**
+- Do critical work during peak energy hours (typically 2-3 hour windows)
+- Batch similar tasks to reduce context switching
+- Take real breaks (active recovery > passive scrolling)
+- Protect sleep as non-negotiable investment
+- Exercise creates energy, doesn't consume it
+
+**Reality Check:** "Balance is a myth, integration is reality"
+
 ## 4. THE TIME AUDIT PROCESS
 
 ### 168-Hour Reality Check

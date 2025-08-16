@@ -205,6 +205,24 @@ The solution? Let AI force you to think it through first.
 > 
 > **Universal Truth:** "If you do it twice after 'delegating' it, the extraction failed - document once, delegate forever"
 
+**The Counter-Intuitive Truth:** Document everything or it didn't happen. What seems obvious to you is mysterious to others.
+
+### The 5 W's Framework
+
+**Every delegation must answer:**
+- **Who:** Who's responsible and who can help
+- **What:** What needs to be done specifically
+- **When:** When it's due and milestones
+- **Why:** Why this matters to the business
+- **What Success Looks Like:** Clear definition of done
+
+**The 70% Rule:** If they can do it 70% as well as you, delegate it. Their 70% frees you for $10,000/hour work.
+
+**Check-in Cadence:**
+- Daily for new tasks (first week)
+- Weekly for established tasks
+- Monthly for mastered tasks
+
 ### The Master Prompt Template
 
 ```
@@ -223,6 +241,8 @@ I need to delegate [TASK NAME]. Interview me to ensure successful delegation:
 
 After I answer, create a delegation brief I can send.
 ```
+
+**Reality Check:** "Delegation fails because of unclear expectations, not incompetence."
 
 ### Task-Specific Templates
 

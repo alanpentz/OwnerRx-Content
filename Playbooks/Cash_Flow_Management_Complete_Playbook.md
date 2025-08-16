@@ -58,6 +58,12 @@ The revolutionary approach:
 3. Ask: "What are you planning to order next month?"
 4. Write it down. That's your forecast.
 
+**The 5-Minute Follow-Up Revolution:**
+- Call customers to ask when they'll pay (revolutionary but works)
+- 5-minute follow-up on invoices = 21× better collection
+- Customer conversations > spreadsheet forecasts
+- Cash flow problems are visibility problems
+
 ### The Collection Psychology
 
 **"Collections is about communication, not confrontation. Most late payments aren't intentional—they're organizational."**
@@ -69,7 +75,16 @@ Customers don't pay late to hurt you. They pay late because:
 - The invoice confused them
 - They forgot
 
+**Reality Check:** "Cash flow problems are visibility problems."
+
 The solution isn't aggressive collection agencies. It's systematic, friendly communication starting the day after terms.
+
+**The Day-After System:**
+- Day after due: Friendly email "Did you receive our invoice?"
+- Day 3: Phone call "Just checking if there are any questions"
+- Day 5: Text to mobile "Hi, following up on invoice #123"
+- Day 7: Email to boss "Need your help with payment"
+- Day 10: Stop work notice (if applicable)
 
 ## 3. THE ONE-PAGE 13-WEEK FORECAST
 

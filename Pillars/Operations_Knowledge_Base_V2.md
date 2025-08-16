@@ -25,6 +25,20 @@
 - Documentation that isn't auditable doesn't get followed - static docs die in folders
 - The visible bottleneck is rarely the real bottleneck - subordinate everything to the real constraint first
 - Quality problems are system problems, not people problems - fix the process, not blame the person
+- Quality problems are usually handoff problems - fix the transitions between people/departments
+
+### Scaling Break Points
+**Companies break at predictable employee counts:**
+- 10 employees: Communication breaks (everyone can't talk to everyone)
+- 25 employees: Management layer required (owner can't manage directly)
+- 50 employees: Systems mandatory (tribal knowledge fails)
+- 150 employees: Bureaucracy emerges (Dunbar's number exceeded)
+
+**Each break requires different solutions:**
+- Different systems and structures needed
+- What worked before actively hurts now
+- 70-75% utilization optimal (>85% causes systemic breaks)
+- Plan transitions before you hit the number
 
 > **Universal Business Insight #56: The Implementation Gap Crisis**
 > 

@@ -141,6 +141,11 @@ This timeline assumes active management of the process. Passive approaches can s
 **"Hire for attitude, train for skill - skills can be taught, character can't"**
 Technical skills become obsolete, but character traits like integrity, work ethic, and teachability are permanent. When choosing between a skilled candidate with questionable character and a less skilled candidate with exceptional character, choose character every time. You can build skills through training, but you can't build character through management.
 
+**"Trajectory Hiring: Hire for growth rate, not current capability"**
+The critical question: "Can they grow 2× faster than the company?" Look for evidence of rapid learning, adaptability, and continuous improvement. A candidate at 60% capability with high growth trajectory beats 90% capability with no growth.
+
+**The 90-Day Rule:** Know within 90 days if they're a fit, act immediately. Don't wait for improvement that won't come.
+
 **"The best time to hire is before you need to"**
 Desperation hiring leads to poor decisions. Build talent pipelines continuously, even when you don't have open positions. When you eventually need to hire, you'll have pre-qualified candidates ready to evaluate rather than starting from zero under pressure.
 
@@ -148,6 +153,7 @@ Desperation hiring leads to poor decisions. Build talent pipelines continuously,
 A-players don't just perform better individually - they elevate everyone around them. They set higher standards, solve complex problems, and often eliminate the need for additional hires. Meanwhile, B-players require more management time and may lower team performance.
 
 **"Fire fast, hire slow"**
+Every day you delay firing someone you know isn't working costs money, morale, and momentum. But rushing a hire costs exponentially more. Take time to find the right person, then act decisively when someone isn't working out.
 Take time to make good hiring decisions, but don't delay when termination becomes necessary. Poor performers rarely improve enough to justify their continued employment, and they drag down team morale while consuming management bandwidth that should be invested in top performers.
 
 ### Additional Hiring Wisdom
